@@ -1,38 +1,196 @@
 course-details :
+  - location : "course-details/"
   - name : "course-name.md"
   - description : "course-description.md"
 grading-scale: "grading/grading-scale.csv"
-learning-modules :
-  - module_01 :
-    - location : "modules/polygonal-modeling/"
-    - name : "module-name.md"
-    - overview :
-      - "module-name.md"
-      - "description.md"
-      - "learning-objectives.md"
-      - "prerequisite-knowledge-and-skills.md"
-      - "required-access-materials-or-equipment.md"
-  - learning_resources :
-    - "content.md"
-    - "scaffolding/steps-to-completion.md"
-  - assignments :
-    - location : "assignments/"
-    - Blog post 01 :
-      - location : "blog-posts/post-01.md"
+
+outline :
+  - module : "introduction"
+    topic :
+        - topic_name : 3d-across-disciplines
+        - topic_name : a-brief-history
+        - topic_name : careers-in-3d
+        - topic_name : the-future-of-3d
+    assignment : 
+      - activity : activity-01
+      - exercise : exercise-01
+      - project : project-01
+      - blog_post : post-01
+  - module : "modeling"
+    topic :
+        - topic_name : maya-modeling-principles
+        - topic_name : maya-modeling-curves
+        - topic_name : maya-modeling-polygons
+        - topic_name : maya-modeling-subdivisions
+        - topic_name : maya-modeling-surfaces
+    assignment : 
+      - activity : 
+      - exercise : 
+      - project : 
+      - blog_post : 
+  - module : "texturing"
+    topic :
+        - topic_name : maya-texturing-principles
+        - topic_name : maya-texturing-uv-mapping
+        - topic_name : maya-texturing-materials
+        - topic_name : maya-texturing-baking
+        - topic_name : maya-texturing-normal-maps
+        - topic_name : maya-texturing-painting
+        - topic_name : maya-texturing-shader-networks
+    assignment : 
+      - activity : 
+      - exercise : 
+      - project : 
+      - blog_post : 
+- module : "camera"
+    topic :
+        - topic_name : maya-camera-rig
+        - topic_name : maya-camera-depth-of-field
+        - topic_name : maya-camera-principles
+    assignment : 
+      - activity : 
+      - exercise : 
+      - project : 
+      - blog_post : 
+  - module : "lighting-and-rendering"
+    topic :
+        - topic_name : maya-lighting-rendering-principles
+        - topic_name : maya-lighting-rendering-hdri
+        - topic_name : maya-lighting-rendering-light-rigs
+        - topic_name : maya-lighting-rendering-linear-workflow
+        - topic_name : maya-lighting-rendering-mental-ray
+        - topic_name : maya-lighting-rendering-mental-ray-sun-and-sky
+        - topic_name : maya-lighting-rendering-render-passes
+        - topic_name : maya-lighting-rendering-renderman
+        - topic_name : maya-lighting-rendering-toon
+    assignment : 
+      - activity : 
+      - exercise : 
+      - project : 
+      - blog_post : 
+  - module : "rigging"
+    topic :
+        - topic_name : maya-rigging-principles
+        - topic_name : maya-rigging-bipeds
+        - topic_name : maya-rigging-blend-shape
+        - topic_name : maya-rigging-rigid-bodies
+        - topic_name :maya-rigging-soft-bodies
+    assignment : 
+      - activity : 
+      - exercise : 
+      - project : 
+      - blog_post : 
+  - module : "animating"
+    topic :
+        - topic_name : maya-animation-animated-textures
+        - topic_name : maya-animation-deformers
+        - topic_name : maya-animation-graph-editor
+        - topic_name : maya-animation-keyframing
+        - topic_name : maya-animation-playblasts
+        - topic_name : maya-animation-storyboarding
+        - topic_name : maya-animation-principles
+    assignment : 
+      - activity : 
+      - exercise : 
+      - project : 
+      - blog_post : 
+  - module : "dynamics"
+    topic :
+        - topic_name : maya-dynamics-destruction
+        - topic_name : maya-dynamics-fluid
+        - topic_name : maya-dynamics-ncloth
+        - topic_name : maya-dynamics-particles
+    assignment : 
+      - activity : 
+      - exercise : 
+      - project : 
+      - blog_post : 
+  - module : "compositing"
+    topic :
+        - topic_name : maya-compositing-depth
+        - topic_name : maya-compositing-masks
+        - topic_name : maya-compositing-motion
+        - topic_name : maya-compositing-render-passes
+    assignment : 
+      - activity : 
+      - exercise : 
+      - project : 
+      - blog_post : 
+  - module : "scripting"
+    topic :
+        - topic_name : maya-scripting-mel
+        - topic_name : maya-scripting-python
+    assignment : 
+      - activity : 
+      - exercise : 
+      - project : 
+      - blog_post : 
+  - module : "realtime"
+    topic :
+        - topic_name : maya-realtime-principles
+        - topic_name : maya-realtime-sketchfab
+        - topic_name : maya-realtime-playcanvas
+    assignment : 
+      - activity : 
+      - exercise : 
+      - project : 
+      - blog_post : 
+  - module : "3d-for-fabrication"
+    topic :
+        - topic_name : maya-3d-printing-water-tight-mesh
+    assignment : 
+      - activity : 
+      - exercise : 
+      - project : 
+      - blog_post : 
+module :
+  location : "modules/"
+    - module_name : "module-name.md"
+    - steps_to_completion : "steps-to-completion.md"
+topic :
+  - location : "topics/"
+  - topic_name : "topic-name.md"
+  - topic_description : "topic-description.md"
+  - topic_learning_objectives : "topic-learning-objectives.md"
+  - topic_prereqs : "topic-prerequisite-knowledge-and-skills.md"
+  - topic_requirements : "topic-required-access-materials-or-equipment.md"
+  - topic_content : "topic-content.md"
+assignment :
+  location : "assignments/"
+  type :
+    - activity :
+      - location : "activities/"
+      - name : activity_name
+      - assignment_description : "activity-description.md"
       - assessment : "assessment/simple-assignment/"
-      - description: "simple-assignment-description.md"
+      - assessment_description: "simple-assignment-description.md"
       - rubric : "simple-assignment-rubric.csv"
       - feedback : "simple-assignment-default-feedback.csv"
-    - Exercise 01 :
-      - location : "exercises/exercise-01.md"
+    - exercise :
+      - location : "exercises/"
+      - assignment_name : "assignment_name.md"
+      - assignment_description : "assignment-description.md"
+      - scaffolding : "scaffolding/steps-to-completion.md"
       - assessment : "assessment/simple-assignment/"
-      - description: "simple-assignment-description.md"
+      - assessment_description: "simple-assignment-description.md"
       - rubric : "simple-assignment-rubric.csv"
       - feedback : "simple-assignment-default-feedback.csv"
-    - Project 01 :
-      - location : "projects/post-01.md"
+    - project :
+      - location : "projects/"
+      - assignment_name : "assignment_name.md"
+      - assignment_description : "assignment-description.md"
       - assessment : "assessment/adaptive-assignment/"
-      - description: "adaptive-assignment-description.md"
+      - assessment_description: "adaptive-assignment-description.md"
       - rubric : "adaptive-assignment-rubric.csv"
       - feedback : "adaptive-assignment-default-feedback.csv"
+    - blog_post :
+      - location : "blog-posts/"
+      - assignment_name : "assignment_name.md"
+      - assignment_description : "assignment-description.md"
+      - scaffolding : "scaffolding/steps-to-completion.md"
+      - assessment : "assessment/simple-assignment/"
+      - assessment_description: "simple-assignment-description.md"
+      - rubric : "simple-assignment-rubric.csv"
+      - feedback : "simple-assignment-default-feedback.csv"
+      
 # comments
