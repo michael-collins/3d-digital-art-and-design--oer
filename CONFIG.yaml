@@ -12,10 +12,10 @@ outline :
         - topic_name : careers-in-3d
         - topic_name : the-future-of-3d
     assignment : 
-      - activity : activity-01
-      - exercise : exercise-01
-      - project : project-01
-      - blog_post : post-01
+      - activity : 
+      - exercise : 
+      - project : 
+      - blog_post : 
   - module : "modeling"
     topic :
         - topic_name : maya-modeling-principles
@@ -24,10 +24,8 @@ outline :
         - topic_name : maya-modeling-subdivisions
         - topic_name : maya-modeling-surfaces
     assignment : 
-      - activity : 
-      - exercise : 
-      - project : 
-      - blog_post : 
+      - exercise : maya-image-planes-for-modeling
+      - exercise : maya-modeling
   - module : "texturing"
     topic :
         - topic_name : maya-texturing-principles
@@ -38,20 +36,7 @@ outline :
         - topic_name : maya-texturing-painting
         - topic_name : maya-texturing-shader-networks
     assignment : 
-      - activity : 
-      - exercise : 
-      - project : 
-      - blog_post : 
-- module : "camera"
-    topic :
-        - topic_name : maya-camera-rig
-        - topic_name : maya-camera-depth-of-field
-        - topic_name : maya-camera-principles
-    assignment : 
-      - activity : 
-      - exercise : 
-      - project : 
-      - blog_post : 
+      - exercise : maya-texturing
   - module : "lighting-and-rendering"
     topic :
         - topic_name : maya-lighting-rendering-principles
@@ -63,6 +48,17 @@ outline :
         - topic_name : maya-lighting-rendering-render-passes
         - topic_name : maya-lighting-rendering-renderman
         - topic_name : maya-lighting-rendering-toon
+    assignment : 
+      - activity : 
+      - exercise : maya-layered-shaders
+      - exercise : maya-mentalray-lighting-and-rendering
+      - project : 
+      - blog_post : 
+- module : "camera"
+    topic :
+        - topic_name : maya-camera-rig
+        - topic_name : maya-camera-depth-of-field
+        - topic_name : maya-camera-principles
     assignment : 
       - activity : 
       - exercise : 
@@ -77,47 +73,51 @@ outline :
         - topic_name :maya-rigging-soft-bodies
     assignment : 
       - activity : 
-      - exercise : 
+      - exercise : maya-rigging
       - project : 
       - blog_post : 
   - module : "animating"
-    topic :
+    topic : 
+        - topic_name : maya-animation-principles
         - topic_name : maya-animation-animated-textures
         - topic_name : maya-animation-deformers
         - topic_name : maya-animation-graph-editor
         - topic_name : maya-animation-keyframing
         - topic_name : maya-animation-playblasts
         - topic_name : maya-animation-storyboarding
-        - topic_name : maya-animation-principles
     assignment : 
       - activity : 
-      - exercise : 
+      - exercise : maya-animation
+      - exercise : maya-animated-textures
       - project : 
       - blog_post : 
   - module : "dynamics"
     topic :
+        - topic_name : maya-dynamics-principles
         - topic_name : maya-dynamics-destruction
         - topic_name : maya-dynamics-fluid
         - topic_name : maya-dynamics-ncloth
         - topic_name : maya-dynamics-particles
     assignment : 
       - activity : 
-      - exercise : 
+      - exercise : maya-dynamics
       - project : 
       - blog_post : 
   - module : "compositing"
     topic :
+        - topic_name : maya-compositing-principles
         - topic_name : maya-compositing-depth
         - topic_name : maya-compositing-masks
         - topic_name : maya-compositing-motion
         - topic_name : maya-compositing-render-passes
     assignment : 
       - activity : 
-      - exercise : 
+      - exercise : maya-render-passes-in-mentalray
       - project : 
       - blog_post : 
   - module : "scripting"
     topic :
+        - topic_name : maya-scripting-principles
         - topic_name : maya-scripting-mel
         - topic_name : maya-scripting-python
     assignment : 
@@ -135,9 +135,10 @@ outline :
       - exercise : 
       - project : 
       - blog_post : 
-  - module : "3d-for-fabrication"
+  - module : "fabrication"
     topic :
-        - topic_name : maya-3d-printing-water-tight-mesh
+        - topic_name : maya-fabrication-principles
+        - topic_name : maya-fabrication-water-tight-mesh
     assignment : 
       - activity : 
       - exercise : 
@@ -160,8 +161,9 @@ assignment :
   type :
     - activity :
       - location : "activities/"
-      - name : activity_name
+      - assignment_name : "assignment_name.md"
       - assignment_description : "activity-description.md"
+      - steps_to_completion : "scaffolding/steps-to-completion.md"
       - assessment : "assessment/simple-assignment/"
       - assessment_description: "simple-assignment-description.md"
       - rubric : "simple-assignment-rubric.csv"
@@ -170,7 +172,7 @@ assignment :
       - location : "exercises/"
       - assignment_name : "assignment_name.md"
       - assignment_description : "assignment-description.md"
-      - scaffolding : "scaffolding/steps-to-completion.md"
+      - steps_to_completion : "scaffolding/steps-to-completion.md"
       - assessment : "assessment/simple-assignment/"
       - assessment_description: "simple-assignment-description.md"
       - rubric : "simple-assignment-rubric.csv"
@@ -179,6 +181,7 @@ assignment :
       - location : "projects/"
       - assignment_name : "assignment_name.md"
       - assignment_description : "assignment-description.md"
+      - steps_to_completion : "scaffolding/steps-to-completion.md"
       - assessment : "assessment/adaptive-assignment/"
       - assessment_description: "adaptive-assignment-description.md"
       - rubric : "adaptive-assignment-rubric.csv"
@@ -187,7 +190,7 @@ assignment :
       - location : "blog-posts/"
       - assignment_name : "assignment_name.md"
       - assignment_description : "assignment-description.md"
-      - scaffolding : "scaffolding/steps-to-completion.md"
+      - steps_to_completion : "scaffolding/steps-to-completion.md"
       - assessment : "assessment/simple-assignment/"
       - assessment_description: "simple-assignment-description.md"
       - rubric : "simple-assignment-rubric.csv"
