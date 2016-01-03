@@ -19,7 +19,7 @@ destination: ../3d-digital-art-and-design--oer/
 # or "master" otherwise
 username: michael-collins
 repo: 3d-digital-art-and-design--oer
-# branch: source
+branch: master
 
 permalink: pretty
 
