@@ -1,0 +1,6 @@
+name: 3D Digital Art and Design Open Education Resource
+markdown: kramdown
+baseurl: /3d-digital-art-and-design--oer
+gems:
+  - jekyll-sitemap
+
