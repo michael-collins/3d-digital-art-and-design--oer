@@ -3,3 +3,5 @@
 
 ##Open Curriculum Specifications for making importable OER content
 **OER Example:** https://github.com/open-curriculum/open-education-resource
+
+[![Build Status](https://travis-ci.org/michael-collins/3d-digital-art-and-design--oer.svg?branch=master)](https://travis-ci.org/michael-collins/3d-digital-art-and-design--oer)
