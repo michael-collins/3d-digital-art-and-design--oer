@@ -2,8 +2,8 @@ safe: false
 lsi: false
 pygments: true
 
-relative_source: ../EXAMPLE/
-destination: ../EXAMPLE/
+relative_source: ../3d-digital-art-and-design--oer/
+destination: ../3d-digital-art-and-design--oer/
 
 # Settings for deploy rake task
 # Username and repo of Github repo, e.g.
@@ -12,8 +12,8 @@ destination: ../EXAMPLE/
 # repo defaults to USERNAME.github.io
 # Branch defaults to "source" for USERNAME.github.io
 # or "master" otherwise
-username: EXAMPLE
-repo: EXAMPLE
+username: michael-collins
+repo: 3d-digital-art-and-design--oer
 branch: source
 
 permalink: pretty
