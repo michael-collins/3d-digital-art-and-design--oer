@@ -6,7 +6,7 @@ offering: Spring 2016
 ###{{page.offering}}
 
 ####January
-Lesson 1: [Introduction to 3D](/lessons/lesson-01.html)
+Lesson 1: [Introduction to 3D]({{ site.baseurl }}/lessons/lesson-01.html)
 
 ####January
 Lesson 2: [Introduction to 3D]({{ site.baseurl }}/lessons/lesson-02.html)
