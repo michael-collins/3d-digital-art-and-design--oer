@@ -1,7 +1,7 @@
 name: 3D Digital Art and Design Open Education Resource
 markdown: kramdown
-#kramdown:
-#  input: GFM # Enable GitHub Flavored Markdown (fenced code blocks)
+kramdown:
+  input: GFM # Enable GitHub Flavored Markdown (fenced code blocks)
 baseurl: /3d-digital-art-and-design--oer
 gems:
   - jekyll-sitemap
