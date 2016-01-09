@@ -3,5 +3,6 @@ layout: default
 ---
 
 <article class="exercises">
+	<a href="{{ exercise.url | prepend: site.baseurl }}"><span class="exercise-title">{{ exercise.title }}</span>: <span class="exercise-subtitle">{{ exercise.subtitle }}</span></a>
   {{ content }}
 </article>
