@@ -1,5 +1,5 @@
 ---
-title: lesson-01
+title: Lesson 01
 layout: lesson
 link: lesson-01
 ---
