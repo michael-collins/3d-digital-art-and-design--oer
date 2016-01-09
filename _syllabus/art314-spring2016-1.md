@@ -2,7 +2,7 @@
 layout: default
 title: Art 314
 subtitle: 2016
-calendar-link: spring-2016
+course-schedule-location: /spring-2016
 course-abbrv: art
 course-number: 314
 course-title: 3D Modeling, Rendering, and Animation
@@ -41,7 +41,7 @@ course-description-link: http://bulletins.psu.edu/undergrad/courses/A/ART/314/20
 [Undergraduate Bulletin]({{ page.course-description-link}})
 
 ###Course Schedule
-<a href="{{ page.calendar-link | prepend: site.baseurl }}"><span class="syllabus-title">{{ page.semester }} {{ page.year }} Schedule</span></a>
+<a href="{{ page.course-schedule-location | prepend: site.baseurl }}"><span class="syllabus-title">{{ page.semester }} {{ page.year }} Schedule</span></a>
 
 ###Equipment
 1. Hard Drive: Minimum capacity: 100gig, Type: SSD or 7200rpm HDD, Interface: USB 2/3 or Thunderbolt.
