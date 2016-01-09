@@ -1,5 +1,4 @@
 ---
----
 title: Lesson 08
 subtitle: Lesson 08 Topic
 layout: lesson
