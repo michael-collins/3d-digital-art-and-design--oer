@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: 3D Digital Art and Design OER
