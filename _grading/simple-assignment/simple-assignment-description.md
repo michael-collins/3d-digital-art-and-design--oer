@@ -10,6 +10,9 @@ layout: default
   | {{ feedback.percent-earned }} | {{ feedback.criterion-1-feedback }} | {{ feedback.criterion-2-feedback }} |
 {% endfor %}
 
+| % Earned | Criterion 1 Feedback | Criterion 2 Feedback |
+|---       |---                   |---                   |
+|test      | test2                |test  3               |
 
 <table class="feedback">
   <tr class="table-labels">
