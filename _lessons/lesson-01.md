@@ -9,7 +9,7 @@ link: lesson-01
 ##Reading
 ##Exercise
 
- {% for exercise in site.exercises %}
+ {% for exercise in site.exercises | markdownify %}
      {% if exercise.link == "maya-image-planes-for-modeling" | markdownify %}
       <h2 markdown="1"><a href="{{ site.baseurl }}{{ exercise.url }}"><span class="exercise-title"> {{ exercise.title }}</span>: <span class="exercise-subtitle"> {{ exercise.subtitle }}</span></a></h2>
      {% endif %}
