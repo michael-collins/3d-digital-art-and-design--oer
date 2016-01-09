@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Art 314: 
+title: Art 314
+subtitle: 2016
 course-abbrv: ART 314
 course-title: 3D Modeling, Rendering, and Animation
-subtitle: 2016
 semester: Spring 2016
 section: 001
 credits: 4
