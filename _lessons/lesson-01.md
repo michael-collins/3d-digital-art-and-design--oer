@@ -1,6 +1,6 @@
 ---
 title: lesson-01
-layout: exercise
+layout: lesson
 link: lesson-01
 ---
 ##Presentation
