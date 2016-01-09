@@ -1,4 +1,10 @@
-**Exercise 8 Details**
+---
+title: Exercise
+subtitle: Maya Rigging
+layout: exercise
+---
+
+**Exercise Details**
 
 In this exercise, you will practice creating a rig for a polygon mesh and adding deformers. Level 1 students will create a simple biped rig starting with [this project file](https://docs.google.com/file/d/0BzXX6rmROMNWeVVUZUxrYkJVcms/edit). Level 2 and 3 students will create more complex polygonal biped character meshes and rigs.
 

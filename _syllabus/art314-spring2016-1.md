@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Art 314
+title: Art 314 Syllabus
 subtitle: 2016
 course-schedule-location: /spring-2016
 course-abbrv: art

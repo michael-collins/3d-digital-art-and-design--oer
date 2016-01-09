@@ -1,3 +1,9 @@
+---
+title: Exercise
+subtitle: Maya Modeling
+layout: exercise
+---
+
 **Exercise Details**
 
 In this exercise, you will gain basic understanding of modeling fundamentals. There are different tutorials and exercise submission requirements for the three experience levels. Choose the experience level that matches your own.

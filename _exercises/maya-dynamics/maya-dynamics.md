@@ -1,3 +1,9 @@
+---
+title: Exercise
+subtitle: Maya Dynamics
+layout: exercise
+---
+
 **Exercise Details**
 
     

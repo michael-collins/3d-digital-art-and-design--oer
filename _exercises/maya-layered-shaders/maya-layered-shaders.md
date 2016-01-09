@@ -1,4 +1,10 @@
-**Exercise 5 Details**
+---
+title: Exercise
+subtitle: Maya Layered Shaders
+layout: exercise
+---
+
+**Exercise Details**
 
 In this exercise, you will practice creating transparency masks and layered textures.
 

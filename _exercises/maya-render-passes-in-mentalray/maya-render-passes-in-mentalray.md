@@ -1,3 +1,9 @@
+---
+title: Exercise
+subtitle: Maya Render Passes in Mentalray
+layout: exercise
+---
+
 **Exercise Details**
 
 In this exercise, you will produce render passes and composite your renders together in Photoshop to create the final image.

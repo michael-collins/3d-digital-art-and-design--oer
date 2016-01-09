@@ -1,3 +1,9 @@
+---
+title: Exercise
+subtitle: Maya Mentalray Lighting and Rendering
+layout: exercise
+---
+
 **Exercise Details**
 
 In this exercise, you will practice uv mapping, lighting, and rendering. There are different tutorials and exercise submission requirements for three experience levels. Choose the experience level that matches your own.

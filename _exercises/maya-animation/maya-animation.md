@@ -1,3 +1,9 @@
+---
+title: Exercise
+subtitle: Maya Animation
+layout: exercise
+---
+
 **Exercise Details**
 
 In this exercise, you will practice keyframing, animating the camera, and creating deformers. Level 1 students will create a simple demonstration of basic animation and camera movement. Level 2 and 3 students will create an animation inspired by tetris.

@@ -1,15 +1,12 @@
-**COURSE:** ART 314: 3D MODELING, RENDERING, AND ANIMATION
+---
+title: Exercise
+subtitle: Maya Texturing
+layout: exercise
+---
 
-**INSTRUCTOR:** MICHAEL COLLINS
-
-**Exercise 3 Details**
-
-    
-
+**Exercise Details**
+   
 In this exercise, you will practice UV mapping and applying textures to surface shaders. There are different tutorials and exercise submission requirements for three experience levels. Choose the experience level that matches your own.
-
-* * *
-
 
 **Learning Resources**
 
