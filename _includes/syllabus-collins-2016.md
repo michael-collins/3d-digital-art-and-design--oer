@@ -1,6 +1,9 @@
 
 ---
+layout: default
+title: 3D Digital Art and Design OER
 ---
+
 **Section:** 001
 
 **Course Credits:** 4
