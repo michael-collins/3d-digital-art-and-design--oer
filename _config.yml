@@ -8,5 +8,7 @@ collections:
     output: true
   exercises:
     output: true
-  exercises:
+  lessons:
+    output: true
+  syllabus:
     output: true

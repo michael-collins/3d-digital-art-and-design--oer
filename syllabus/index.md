@@ -4,6 +4,9 @@ subtitle: Syllabus
 layout: default
 ---
 
-{% capture syllabus %}{% include syllabus-collins-2016.md %}{% endcapture %}
-{{ syllabus | markdownify }}
-
+<div class="syllabus">
+    {% for syllabus in site.syllabus %}
+       <h2><a href="{{ syllabus.url | prepend: site.baseurl }}"><span class="syllabus-title">{{ syllabus.title }}</span>: <span class="syllabus-subtitle">{{ syllabus.subtitle }}</span></a></h2>
+       <p>{{content}}</p>
+    {% endfor %}
+</div>
