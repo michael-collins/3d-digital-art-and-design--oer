@@ -116,3 +116,11 @@ Lesson 15: [Introduction to 3D]({{ site.baseurl }}/lessons/lesson-29.html)
 
 #####4/29/2015
 Lesson 15: [Introduction to 3D]({{ site.baseurl }}/lessons/lesson-30.html)
+
+<div class="spring-2016">
+    {% for lesson in site.lessons %}
+       {{ lesson.date }}
+       <h2><a href="{{ lesson.url | prepend: site.baseurl }}"><span class="lesson-title">{{ lesson.title }}</span>: <span class="lesson-subtitle">{{ lesson.subtitle }}</span></a></h2>
+       <p>{{content}}</p>
+    {% endfor %}
+</div>
