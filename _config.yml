@@ -5,4 +5,8 @@ kramdown:
 baseurl: /3d-digital-art-and-design--oer
 gems:
   - jekyll-sitemap
-
+collections:
+  lessons:
+    output: true
+  exercises:
+    output: true
