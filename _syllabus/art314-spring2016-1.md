@@ -2,42 +2,46 @@
 layout: default
 title: Art 314
 subtitle: 2016
-course-abbrv: ART 314
+calendar-link: spring-2016
+course-abbrv: art
+course-number: 314
 course-title: 3D Modeling, Rendering, and Animation
-semester: Spring 2016
-section: 001
+semester: Spring
+year: 2016
+section: 1
 credits: 4
 instructor-name: Michael Collins
 office-hours: By appointment via https://mike-collins.youcanbook.me/
 instructor-email: msc227@psu.edu
-class-location: 401 Patterson
+meeting-location: 401 Patterson
+meeting-time: 2:30pm - 5:30pm Tuesday and Thursday
 begin-end-dates: 01/11/16 - 4/29/16
 course-description-link: http://bulletins.psu.edu/undergrad/courses/A/ART/314/200708SP
 ---
 
-**Section:** 001 {{ page.section}}
+**Section:** {{ page.section}}
 
-**Course Credits:** 4 {{ page.credits}}
+**Course Credits:** {{ page.credits}}
 
-**Semester:** Spring 2016
+**Semester:** {{ page.semester}} {{ page.year}}
 
-**Times:** 2:30pm - 5:30pm Tuesday and Thursday
+**Times:** {{ page.meeting-time}}
 
-**Instructor:** Michael Collins
+**Instructor:** {{ page.instructor}}
 
-**Office Hours:** By appointment via (https://mike-collins.youcanbook.me/)
+**Office Hours:** {{ page.office-hours}}
 
-**E­mail**: msc227@psu.edu
+**E­mail**: {{ page.instructor-email}}
 
-**Class Location:** 401 Patterson Bldg
+**Class Location:** {{ page.meeting-location}}
 
-**Begin/End Dates:** 01/11/16 - 4/29/16
+**Begin/End Dates:** {{ page.begin-end-dates}}
 
 ###Description
-[Undergraduate Bulletin](http://bulletins.psu.edu/undergrad/courses/A/ART/314/200708SP)
+[Undergraduate Bulletin]({{ page.course-description-link}})
 
 ###Course Schedule
-
+<a href="{{ page.calendar-link | prepend: site.baseurl }}/{{ page.course-abbrv }}{{ page.course-number }}-{{ page.semester }}{{ page.year }}-{{ page.section }}.html"><span class="syllabus-title">{{ page.semester }} Schedule</span>: <span class="syllabus-subtitle">{{ syllabus.subtitle }}</span></a>
 
 ###Equipment
 1. Hard Drive: Minimum capacity: 100gig, Type: SSD or 7200rpm HDD, Interface: USB 2/3 or Thunderbolt.
