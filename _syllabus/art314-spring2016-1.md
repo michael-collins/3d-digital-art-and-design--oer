@@ -41,7 +41,7 @@ course-description-link: http://bulletins.psu.edu/undergrad/courses/A/ART/314/20
 [Undergraduate Bulletin]({{ page.course-description-link}})
 
 ###Course Schedule
-<a href="{{ page.calendar-link | prepend: site.baseurl }}/{{ page.course-abbrv }}{{ page.course-number }}-{{ page.semester }}{{ page.year }}-{{ page.section }}.html"><span class="syllabus-title">{{ page.semester }} Schedule</span>: <span class="syllabus-subtitle">{{ syllabus.subtitle }}</span></a>
+<a href="{{ page.calendar-link | prepend: site.baseurl }}"><span class="syllabus-title">{{ page.semester }} {{ page.year }} Schedule</span></a>
 
 ###Equipment
 1. Hard Drive: Minimum capacity: 100gig, Type: SSD or 7200rpm HDD, Interface: USB 2/3 or Thunderbolt.
