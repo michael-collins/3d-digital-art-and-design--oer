@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Syllabus
+Subtitle: 2016
 ---
 
 **Section:** 001
