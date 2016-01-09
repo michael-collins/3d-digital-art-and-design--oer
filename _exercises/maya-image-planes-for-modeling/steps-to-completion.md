@@ -2,7 +2,7 @@
 title: Maya Image Planes for Modeling
 subtitle: Steps to Completion
 layout: exercise
-link: assignment-description
+link: maya-image-planes-for-modeling
 ---
 
 #Exercise Details
