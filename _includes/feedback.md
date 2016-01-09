@@ -1,7 +1,6 @@
 
 
-##Feedback
-
+<h2>Feedback</h2>
 <table class="feedback">
   <tr class="table-labels">
     <td class="table-label">% Earned</td>
