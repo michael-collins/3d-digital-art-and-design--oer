@@ -3,7 +3,20 @@ title: Grading Criteria
 subtitle: Exercise Feedback
 layout: default
 ---
-
+<table class="rubric">
+  <tr class="table-labels">
+    <td class="table-label">Criterion</td>
+    <td class="table-label">Earned Value</td> 
+    <td class="table-label">Total Possible Value</td>
+  </tr>
+{% for rubric in site.data.simple-assignment-rubric %}
+  <tr class="rubric-data">
+    <td>{{ rubric.criterion-id }}</td>
+    <td>{{ rubric.earned-value }}</td> 
+    <td>{{ rubric.total-possible-value }}</td>
+  </tr>
+{% endfor %}
+</table>
 <table class="feedback">
   <tr class="table-labels">
     <td class="table-label">% Earned</td>
