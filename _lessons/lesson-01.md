@@ -18,5 +18,5 @@ link: lesson-01
 {% endfor %}
 
 {% if exercise.link == "maya-image-planes-for-modeling" %}
-    <hr>
+    Some things
 {% endif %}
