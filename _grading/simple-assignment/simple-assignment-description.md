@@ -3,6 +3,7 @@ title: Grading Criteria
 subtitle: Exercise Feedback
 layout: default
 ---
+###Example Grade Report
 <table class="rubric">
   <tr class="table-labels">
     <td class="table-label">Criterion</td>
@@ -17,6 +18,8 @@ layout: default
   </tr>
 {% endfor %}
 </table>
+
+###Feedback Details
 <table class="feedback">
   <tr class="table-labels">
     <td class="table-label">% Earned</td>
