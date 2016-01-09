@@ -1,6 +1,6 @@
 ---
 title: 3D Digital Art and Design OER
-title: Syllabus
+subtitle: Syllabus
 layout: default
 ---
 
