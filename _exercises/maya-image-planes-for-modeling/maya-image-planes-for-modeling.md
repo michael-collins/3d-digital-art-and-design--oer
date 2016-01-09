@@ -1,8 +1,7 @@
 ---
-title: Maya Image Planes for Modeling
-subtitle: Steps to Completion
+title: Exercise
+subtitle: Maya Image Planes for Modeling
 layout: exercise
-link: maya-image-planes-for-modeling
 ---
 
 #Exercise Details
