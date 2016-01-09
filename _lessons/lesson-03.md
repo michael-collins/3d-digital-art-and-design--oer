@@ -1,8 +1,7 @@
 ---
-title: Lesson 02
-subtitle: Modeling
+title: Lesson 03
+subtitle: Lesson 03 Topic
 layout: lesson
-link: lesson-02
 ---
 
 <h3>Presentation</h3>
