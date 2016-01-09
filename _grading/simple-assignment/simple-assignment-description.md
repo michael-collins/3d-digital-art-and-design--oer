@@ -1,7 +1,10 @@
 ---
 title: Assessment
 subtitle: Simple Assignment
+layout: default
 ---
+
+{% include feedback.md %}
 
 #Assessment description
 - Style: `diagnostic, formative, summative`
