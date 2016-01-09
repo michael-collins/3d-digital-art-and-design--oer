@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: syllabus
 title: Syllabus
 Subtitle: 2016
 ---
