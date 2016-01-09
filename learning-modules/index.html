@@ -5,7 +5,7 @@ title: Learning Modules
 
 		<div class="lessons">
 			{% for lesson in site.lessons %}
-			   <h2><a href="{{ site.baseurl }}/lessons/{{ lesson.link }}.html">lesson.title</a></h2>
+			   <h2><a href="{{ site.baseurl }}/lessons/{{ lesson.link }}/">lesson.title</a></h2>
 			   <p>{{content}}</p>
 			{% endfor %}
 		</div>
