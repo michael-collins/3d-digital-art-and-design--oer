@@ -1,6 +1,6 @@
 ---
-title: Lesson 07
-subtitle: Lesson 07 Topic
+title: Lesson 06
+subtitle: Lesson 06 Topic
 layout: lesson
 ---
 
