@@ -8,7 +8,5 @@ gems:
 collections:
   lessons:
     output: true
-    permalink: "/:title"
   exercises:
     output: true
-    permalink: "/:title"
