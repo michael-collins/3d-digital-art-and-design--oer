@@ -7,6 +7,8 @@ date: 1/12/2016
 
 ###Presentation
 
+####<a href="/3d-digital-art-and-design--oer/presentations/introduction-to-3d.html"><span class="exercise-title"> Introduction to 3D</span></a>
+
 ###Reading
 
 ###Exercise
