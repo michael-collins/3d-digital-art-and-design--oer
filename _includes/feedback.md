@@ -1,6 +1,6 @@
 
 
-<h2>Feedback<h2>
+<h2>Feedback</h2>
     <hr>
 <table class="feedback">
   <tr class="table-labels">
