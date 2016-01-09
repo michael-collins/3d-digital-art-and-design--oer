@@ -1,7 +1,7 @@
 ---
 title: Lesson 02
 subtitle: Modeling
-layout: exercise
+layout: lesson
 link: lesson-02
 ---
 
