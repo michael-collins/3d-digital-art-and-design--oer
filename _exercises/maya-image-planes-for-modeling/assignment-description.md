@@ -1,5 +1,5 @@
 ---
-title: Assignment Description
+title: Maya Image Planes for Modeling
 subtitle:
 layout: exercise
 link: assignment-description
