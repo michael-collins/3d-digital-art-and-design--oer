@@ -1,3 +1,8 @@
+---
+title: Assessment
+subtitle: Simple Assignment
+---
+
 #Assessment description
 - Style: `diagnostic, formative, summative`
     - Diagnostic: `pre-test, self-assessment, writing, discussion, making, performance, interview`
