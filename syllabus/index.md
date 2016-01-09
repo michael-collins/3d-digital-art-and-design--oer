@@ -4,5 +4,6 @@ title: 3D Digital Art and Design OER
 ---
 
 ###Syllabus
-{% include syllabus-collins-2016.md %}
+{% capture syllabus_include %}{% include syllabus-collins-2016.md %}{% endcapture %}
+{{ syllabus_include | markdownify }}
 
