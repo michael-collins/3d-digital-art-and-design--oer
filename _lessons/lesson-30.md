@@ -12,7 +12,7 @@ topics: maya-animation
  {% for topic in site.topics %}
    {% for tag in topic.tags %}
        {% if tag == "maya-animation" %}
-           <li><a href="{{ page.permalink | prepend: site.baseurl }}">{{page.title}}</a></li>
+           <li><a href="{{ topic.permalink | prepend: site.baseurl }}">{{page.title}}</a></li>
         {% endif %}
    {% endfor %}
  {% endfor %}
