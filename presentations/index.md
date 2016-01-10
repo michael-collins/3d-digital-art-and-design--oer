@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Grading Criteria
-layout: default
+title: Presentations
+subtitle: listing
 ---
-<div class="syllabus">
-    {% for syllabus in site.syllabus %}
-       <h2><a href="{{ syllabus.url | prepend: site.baseurl }}"><span class="syllabus-title">{{ syllabus.course-abbrv }}{{ syllabus.course-number }}</span>: <span class="syllabus-subtitle">{{ syllabus.course-title }} - {{ syllabus.semester }}{{ syllabus.year }}</span></a></h2>
+<div class="presentations">
+    {% for presentation in site.presentations %}
+       <h2><a href="{{ presentation.url | prepend: site.baseurl }}"><span class="presentation-title">{{ presentation.title }}</span>: <span class="presentation-subtitle">{{ presentation.subtitle }}{{ syllabus.year }}</span></a></h2>
        <p>{{content}}</p>
     {% endfor %}
 </div>
