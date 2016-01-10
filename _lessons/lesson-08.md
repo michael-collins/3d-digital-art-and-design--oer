@@ -5,15 +5,16 @@ layout: lesson
 date: 2/4/2016
 ---
 
-###Presentation
-
-####<a href="/3d-digital-art-and-design--oer/presentations/modeling.html"><span class="exercise-title">Modeling/span></a>
-
-        - topic_name : maya-compositing-principles
-        - topic_name : maya-compositing-depth
-        - topic_name : maya-compositing-masks
-        - topic_name : maya-compositing-motion
-        - topic_name : maya-compositing-render-passes
+###Topics
+<ul>
+ {% for topic in site.topics %}
+   {% for tag in topic.tags %}
+       {% if tag == "maya-compositing" %}
+           <li><a href="{{ topic.url | prepend: site.baseurl }}">{{topic.title}}</a></li>
+        {% endif %}
+   {% endfor %}
+ {% endfor %}
+</ul>
 
 ###Exercise
 

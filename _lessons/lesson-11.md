@@ -5,10 +5,13 @@ layout: lesson
 date: 2/16/2016
 ---
 
-###Presentation
-
-####<a href="/3d-digital-art-and-design--oer/presentations/maya-fabrication-principles.html"><span class="exercise-title">Digital Fabrication Principles</span></a>
-
-####<a href="/3d-digital-art-and-design--oer/presentations/maya-fabrication-principles.html"><span class="exercise-title">Creating Water-tight Geometry</span></a>
-
-###Exercise
+###Topics
+<ul>
+ {% for topic in site.topics %}
+   {% for tag in topic.tags %}
+       {% if tag == "maya-fabrication" %}
+           <li><a href="{{ topic.url | prepend: site.baseurl }}">{{topic.title}}</a></li>
+        {% endif %}
+   {% endfor %}
+ {% endfor %}
+</ul>

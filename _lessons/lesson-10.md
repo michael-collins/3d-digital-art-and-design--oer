@@ -5,12 +5,13 @@ layout: lesson
 date: 2/11/2016
 ---
 
-###Presentation
-
-####<a href="/3d-digital-art-and-design--oer/presentations/maya-realtime-principles.html"><span class="exercise-title">Realtime Rendering Principles</span></a>
-
-####<a href="/3d-digital-art-and-design--oer/presentations/maya-realtime-sketchfab.html"><span class="exercise-title">SketchFab</span></a>
-
-####<a href="/3d-digital-art-and-design--oer/presentations/maya-realtime-playcanvas.html"><span class="exercise-title">PlayCanvas</span></a>
-
-###Exercise
+###Topics
+<ul>
+ {% for topic in site.topics %}
+   {% for tag in topic.tags %}
+       {% if tag == "maya-realtime" %}
+           <li><a href="{{ topic.url | prepend: site.baseurl }}">{{topic.title}}</a></li>
+        {% endif %}
+   {% endfor %}
+ {% endfor %}
+</ul>

@@ -5,15 +5,16 @@ layout: lesson
 date: 2/2/2016
 ---
 
-###Presentation
-
-####<a href="/3d-digital-art-and-design--oer/presentations/modeling.html"><span class="exercise-title">Modeling/span></a>
-
-        - topic_name : maya-dynamics-principles
-        - topic_name : maya-dynamics-destruction
-        - topic_name : maya-dynamics-fluid
-        - topic_name : maya-dynamics-ncloth
-        - topic_name : maya-dynamics-particles
+###Topics
+<ul>
+ {% for topic in site.topics %}
+   {% for tag in topic.tags %}
+       {% if tag == "maya-dynamics" %}
+           <li><a href="{{ topic.url | prepend: site.baseurl }}">{{topic.title}}</a></li>
+        {% endif %}
+   {% endfor %}
+ {% endfor %}
+</ul>
 
 ###Exercise
 
