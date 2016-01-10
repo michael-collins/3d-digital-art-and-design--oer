@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Presentations
-subtitle: listing
+subtitle: Listing
 ---
 <div class="presentations">
     {% for presentation in site.presentations %}
