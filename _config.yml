@@ -9,12 +9,14 @@ gems:
 collections:
   lessons:
     output: true
+    permalink: /lessons/:title/
   exercises:
     output: true
+    permalink: /exercises/:title/
   grading:
     output: true
   syllabus:
     output: true
   topics:
     output: true
-    permalink: /topics/:title.html
+    permalink: /topics/:title/
