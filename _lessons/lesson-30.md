@@ -9,8 +9,8 @@ topics: maya-animation
 ###Topics
 
 <ul>
- {% for page in site.pages %}
-   {% for tag in page.tags %}
+ {% for topic in site.topics %}
+   {% for tag in topic.tags %}
        {% if tag == "maya-animation" %}
            <li><a href="{{ page.permalink | prepend: site.baseurl }}">{{page.title}}</a></li>
         {% endif %}
