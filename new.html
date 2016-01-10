@@ -3,7 +3,7 @@ layout: default
 title: New Post
 ---
 
-<form action="https://github.com/michael-collins/3d-digital-art-and-design--oer/new/gh-pages/" method="get" onsubmit="determineFilename(this);">
+<form action="https://github.com/michael-collins/3d-digital-art-and-design--oer/new/gh-pages/_posts/" method="get" onsubmit="determineFilename(this);">
   <input type="hidden" name="filename" value="">
   <div class="form-group">
     <label for="titleInput">Title</label>
@@ -29,7 +29,7 @@ function determineFilename(form) {
   var date_time = today_nice + ' ' + today.getHours() + ':' + today.getMinutes();
   // Determine the filename
   var post_title = form.title.value;
-  var filename = '_post/' + today_nice + '-' + post_title.replace(/[^\w]+/g, '-').toLowerCase() + '.markdown';
+  var filename = today_nice + '-' + post_title.replace(/[^\w]+/g, '-').toLowerCase() + '.md';
   form.filename.value = filename;
   // Add the YAML prefix on the content
   form.value.value = "---\nlayout: default\ntitle: \"" + post_title + "\"\ndate: " + date_time + "\ncomments: true\npublished: true\ncategories: \n---\n" + form.value.value;
