@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Presentation
-subtitle: Modeling Surfaces
+title: Modeling Surfaces
+subtitle:
+permalink: /topics/
+tags: maya-modeling
 ---
 

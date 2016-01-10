@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Presentation
-subtitle: Mel Scripting
+title: Mel Scripting
+subtitle:
+permalink: /topics/
+tags: maya-scripting
 ---
 

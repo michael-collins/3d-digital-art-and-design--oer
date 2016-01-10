@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Presentation
-subtitle: A Brief History
+title: A Brief History
+subtitle:
+permalink: /topics/
+tags: 3d
 ---
 
 

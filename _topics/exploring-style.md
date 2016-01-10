@@ -1,12 +1,8 @@
 ---
 layout: default
-title: Presentation
-subtitle: Compositing
+title: Exploring Style
+subtitle:
+permalink: /topics/
+tags: 3d
 ---
-
-Çompositing
-
-Examples
-
-Assignment
 

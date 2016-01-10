@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Presentation
-subtitle: Presenting Visual Ideas for Feedback
+title: Presenting Visual Ideas for Feedback
+subtitle: 
+permalink: /topics/
+tags: technique
 ---
 
 Ambient Occlusion

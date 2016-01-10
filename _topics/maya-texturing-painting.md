@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Presentation
-subtitle: Texture Painting
+title: Texture Painting
+subtitle:
+permalink: /topics/
+tags: maya-texturing
 ---
 
 

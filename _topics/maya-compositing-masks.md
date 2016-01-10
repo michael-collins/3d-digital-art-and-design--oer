@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Presentation
-subtitle: Masks
+title: Masks
+subtitle:
+permalink: /topics/
+tags: maya-compositing
 ---
 

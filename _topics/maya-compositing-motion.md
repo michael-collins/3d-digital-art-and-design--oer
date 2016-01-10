@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Presentation
-subtitle: Motion Blur
+title: Motion Blur
+subtitle:
+permalink: /topics/
+tags: maya-compositing
 ---
 

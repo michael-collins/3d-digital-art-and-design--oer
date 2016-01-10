@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Presentation
-subtitle: Animation Principles
+title: Animation Principles
+subtitle:
+permalink: /topics/
+tags: maya-animation
 ---
 

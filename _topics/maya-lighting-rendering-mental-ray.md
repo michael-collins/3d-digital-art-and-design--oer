@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Presentation
-subtitle: MentalRay
+title: MentalRay
+subtitle:
+permalink: /topics/
+tags: maya-lighting-rendering
 ---
 

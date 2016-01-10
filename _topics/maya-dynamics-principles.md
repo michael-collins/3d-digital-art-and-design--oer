@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Presentation
-subtitle: Dynamics Principles
+title: Dynamics Principles
+subtitle:
+permalink: /topics/
+tags: maya-dynamics
 ---
 

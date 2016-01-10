@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Topic
-subtitle: 3D Across Disciplines
+title: 3D Across Disciplines
+subtitle:
+permalink: /topics/
+tags: 3d
 ---
 
 

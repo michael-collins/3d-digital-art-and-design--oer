@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Presentation
-subtitle: Normal Maps
+title: Normal Maps
+subtitle:
+permalink: /topics/
+tags: maya-texturing
 ---
 
 

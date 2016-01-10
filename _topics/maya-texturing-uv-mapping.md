@@ -1,5 +1,7 @@
 ---
 layout: default
-title: Presentation
-subtitle: UV Mapping
+title: UV Mapping
+subtitle:
+permalink: /topics/
+tags: maya-texturing
 ---

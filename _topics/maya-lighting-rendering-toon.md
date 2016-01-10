@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Presentation
-subtitle: Toon Shading
+title: Toon Shading
+subtitle:
+permalink: /topics/
+tags: maya-lighting-rendering
 ---
 
 

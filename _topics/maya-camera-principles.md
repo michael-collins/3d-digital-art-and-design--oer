@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Presentation
-subtitle: Camera Principles
+title: Camera Principles
+subtitle:
+permalink: /topics/
+tags: maya-camera
 ---
 
 

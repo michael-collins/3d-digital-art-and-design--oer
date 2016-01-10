@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Presentation
-subtitle: Lighting and Rendering Principles
+title: Lighting and Rendering Principles
+subtitle:
+permalink: /topics/
+tags: maya-lighting-rendering
 ---
 
 **Screenings**

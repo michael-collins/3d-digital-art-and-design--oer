@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Presentation
-subtitle: Python Scripting
+title: Python Scripting
+subtitle:
+permalink: /topics/
+tags: maya-scripting
 ---
 
 

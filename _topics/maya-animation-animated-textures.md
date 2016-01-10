@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Presentation
-subtitle: Animated Textures
+title: Animated Textures
+subtitle:
 permalink: /topics/
 tags: maya-animation
 ---

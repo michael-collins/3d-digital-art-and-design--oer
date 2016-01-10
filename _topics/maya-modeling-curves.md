@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Presentation
-subtitle: Modeling Curves
+title: Modeling Curves
+subtitle:
+permalink: /topics/
+tags: maya-modeling
 ---
 
 

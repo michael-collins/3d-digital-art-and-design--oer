@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Presentation
-subtitle: Materials
+title: Materials
+subtitle:
+permalink: /topics/
+tags: maya-texturing
 ---
 
 1. **Video Screening**

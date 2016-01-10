@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Presentation
-subtitle: Rigid Bodies
+title: Rigid Bodies
+subtitle:
+permalink: /topics/
+tags: maya-rigging
 ---
 
 

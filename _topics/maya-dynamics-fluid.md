@@ -1,5 +1,7 @@
 ---
 layout: default
-title: Presentation
-subtitle: Fluids
+title: Fluids
+subtitle:
+permalink: /topics/
+tags: maya-dynamics
 ---

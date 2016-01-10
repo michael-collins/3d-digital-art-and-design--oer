@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Presentation
-subtitle: Keyframing
+title: Keyframing
+subtitle:
+permalink: /topics/
+tags: maya-animation
 ---
 

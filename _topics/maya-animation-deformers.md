@@ -1,5 +1,7 @@
 ---
 layout: default
-title: Presentation
-subtitle: Deformers
+title: Deformers
+subtitle:
+permalink: /topics/
+tags: maya-animation
 ---

@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Presentation
-subtitle: Introduction to 3D
+title: Introduction to 3D
+subtitle:
+tags: technique-color-and-composition
 ---
 
 1. Introduction Presentation

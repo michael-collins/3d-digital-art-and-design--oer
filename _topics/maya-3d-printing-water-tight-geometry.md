@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Presentation
-subtitle: Creating Water-tight Geometry for 3D printing
+title: Creating Water-tight Geometry for 3D printing
+subtitle: 
+permalink: /topics/
+tags: maya-fabrication
 ---
 
 

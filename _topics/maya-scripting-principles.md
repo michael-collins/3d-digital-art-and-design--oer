@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Presentation
-subtitle: Scripting Principles
+title: Scripting Principles
+subtitle:
+permalink: /topics/
+tags: maya-scripting
 ---
 

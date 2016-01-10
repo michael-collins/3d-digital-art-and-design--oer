@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Presentation
-subtitle: The Future of 3D
+title: The Future of 3D
+subtitle: 
+permalink: /topics/
+tags: 3d
 ---
 

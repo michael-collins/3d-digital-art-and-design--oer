@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Presentation
-subtitle: Modeling
+title: Modeling
+subtitle:
+permalink: /topics/
+tags: maya-modeling
 ---
 
 1. **Video Screening**

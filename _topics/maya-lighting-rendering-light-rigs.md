@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Presentation
-subtitle: Creating a Light Rig
+title: Creating a Light Rig
+subtitle:
+permalink: /topics/
+tags: maya-lighting-rendering
 ---
 

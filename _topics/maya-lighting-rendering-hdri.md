@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Presentation
-subtitle: HDRI
+title: HDRI
+subtitle:
+permalink: /topics/
+tags: maya-lighting-rendering
 ---
 

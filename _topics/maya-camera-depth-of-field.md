@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Presentation
-subtitle: Depth of Field
+title: Depth of Field
+subtitle:
+permalink: /topics/
+tags: maya-camera
 ---
 

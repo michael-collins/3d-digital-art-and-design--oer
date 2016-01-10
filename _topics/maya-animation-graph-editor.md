@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Presentation
-subtitle: Graph Editor
+title: Graph Editor
+subtitle:
+permalink: /topics/
+tags: maya-animation
 ---
 
 

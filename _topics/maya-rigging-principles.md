@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Presentation
-subtitle: Rigging Principles
+title: Rigging Principles
+subtitle:
+permalink: /topics/
+tags: maya-rigging
 ---
 
 

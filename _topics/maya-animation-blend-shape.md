@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Presentation
-subtitle: Blend Shapes
+title: Blend Shapes
+subtitle:
+permalink: /topics/
 tags: maya-animation
 ---
 

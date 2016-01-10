@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Presentation
-subtitle: Creating a Camera Rig
+title: Creating a Camera Rig
+subtitle:
+permalink: /topics/
+tags: maya-camera
 ---
 

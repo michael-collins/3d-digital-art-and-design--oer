@@ -1,5 +1,7 @@
 ---
 layout: default
-title: Presentation
-subtitle: Modeling Polygons
+title: Modeling Polygons
+subtitle:
+permalink: /topics/
+tags: maya-modeling
 ---

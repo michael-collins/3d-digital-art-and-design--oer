@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Presentation
-subtitle: Texturing Principles
+title: Texturing Principles
+subtitle:
+permalink: /topics/
+tags: maya-texturing
 ---
 
 1. **Kinds of textures**

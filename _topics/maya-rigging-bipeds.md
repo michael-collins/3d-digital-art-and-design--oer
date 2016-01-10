@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Presentation
-subtitle: Rigging Bipeds
+title: Rigging Bipeds
+subtitle:
+permalink: /topics/
+tags: maya-rigging
 ---
 
 

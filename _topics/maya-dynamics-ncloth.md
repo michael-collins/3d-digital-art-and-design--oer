@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Presentation
-subtitle: nCloth
+title: nCloth
+subtitle:
+permalink: /topics/
+tags: maya-dynamics
 ---
 
 

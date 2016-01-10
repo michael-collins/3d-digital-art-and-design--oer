@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Presentation
-subtitle: Modeling Subdivisions
+title: Modeling Subdivisions
+subtitle:
+permalink: /topics/
+tags: maya-modeling
 ---
 

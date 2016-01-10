@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Presentation
-subtitle: MentalRay Physical Sun and Sky
+title: MentalRay Physical Sun and Sky
+subtitle:
+permalink: /topics/
+tags: maya-lighting-rendering
 ---
 

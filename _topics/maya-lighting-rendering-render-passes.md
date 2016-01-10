@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Presentation
-subtitle: Render Passes and Compositing
+title: Render Passes and Compositing
+subtitle:
+permalink: /topics/
+tags: maya-lighting-rendering
 ---
 
 1. Video Screening

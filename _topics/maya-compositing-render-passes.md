@@ -1,5 +1,7 @@
 ---
 layout: default
-title: Presentation
-subtitle: Render Passes
+title: Render Passes
+subtitle:
+permalink: /topics/
+tags: maya-compositing
 ---

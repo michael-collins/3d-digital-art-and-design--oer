@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Presentation
-subtitle: Soft Bodies
+title: Soft Bodies
+subtitle:
+permalink: /topics/
+tags: maya-rigging
 ---
 
 

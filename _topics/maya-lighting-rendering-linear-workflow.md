@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Presentation
-subtitle: Texturing
+title: Texturing
+subtitle:
+permalink: /topics/
+tags: maya-lighting-rendering
 ---
 

@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Presentation
-subtitle: Playblasts
+title: Playblasts
+subtitle:
+permalink: /topics/
+tags: maya-animation
 ---
 

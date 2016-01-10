@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Presentation
-subtitle: Storyboarding
+title: Storyboarding
+subtitle:
+permalink: /topics/
+tags: maya-animation
 ---
 

@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Presentation
-subtitle: Color and Composition
+title: Color and Composition
+subtitle:
+permalink: /topics/
+tags: technique-color-and-composition
 ---
 
 1. Presentation: [Color and Composition](https://docs.google.com/presentation/d/1URU2BvD1gV4luDzKdA183GtGHPAUytRvq955UZkv1sY/edit?usp=sharing)

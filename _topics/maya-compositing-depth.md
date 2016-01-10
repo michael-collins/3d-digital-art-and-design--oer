@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Presentation
-subtitle: Depth
+title: Depth
+subtitle:
+permalink: /topics/
+tags: maya-compositing
 ---
 

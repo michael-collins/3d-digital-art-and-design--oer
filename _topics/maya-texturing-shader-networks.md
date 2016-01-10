@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Presentation
-subtitle: Shader Networks
+title: Shader Networks
+subtitle:
+permalink: /topics/
+tags: maya-texturing
 ---
 
 
