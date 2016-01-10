@@ -23,6 +23,4 @@ date: 1/14/2016
 
 ###Exercise
  
-    - exercise : maya-texturing
- 
 ####<a href="/3d-digital-art-and-design--oer/exercises/maya-texturing/maya-texturing.html"><span class="exercise-title">Maya Texturing</span></a>
