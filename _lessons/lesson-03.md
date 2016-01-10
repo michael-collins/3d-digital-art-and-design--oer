@@ -7,21 +7,26 @@ date: 1/19/2016
 
 ###Presentation
 
-####<a href="/3d-digital-art-and-design--oer/presentations/modeling.html"><span class="exercise-title">Modeling/span></a>
+####<a href="/3d-digital-art-and-design--oer/presentations/maya-lighting-rendering-principles.html"><span class="exercise-title">Lighting and Rendering Principles</span></a>
 
-        - topic_name : maya-lighting-rendering-principles
-        - topic_name : maya-lighting-rendering-hdri
-        - topic_name : maya-lighting-rendering-light-rigs
-        - topic_name : maya-lighting-rendering-linear-workflow
-        - topic_name : maya-lighting-rendering-mental-ray
-        - topic_name : maya-lighting-rendering-mental-ray-sun-and-sky
-        - topic_name : maya-lighting-rendering-render-passes
-        - topic_name : maya-lighting-rendering-renderman
-        - topic_name : maya-lighting-rendering-toon
+####<a href="/3d-digital-art-and-design--oer/presentations/maya-lighting-rendering-hdri.html"><span class="exercise-title">HDRI</span></a>
+
+####<a href="/3d-digital-art-and-design--oer/presentations/maya-lighting-rendering-light-rigs.html"><span class="exercise-title">Light Rigs</span></a>
+
+####<a href="/3d-digital-art-and-design--oer/presentations/maya-lighting-rendering-linear-workflow.html"><span class="exercise-title">Linear Workflow</span></a>
+
+####<a href="/3d-digital-art-and-design--oer/presentations/maya-lighting-rendering-mental-ray.html"><span class="exercise-title">MentalRay</span></a>
+
+####<a href="/3d-digital-art-and-design--oer/presentations/maya-lighting-rendering-mental-ray-sun-and-sky.html"><span class="exercise-title">MentalRay Physical Sun and Sky</span></a>
+
+####<a href="/3d-digital-art-and-design--oer/presentations/maya-lighting-rendering-render-passes.html"><span class="exercise-title">Render Passes</span></a>
+
+####<a href="/3d-digital-art-and-design--oer/presentations/maya-lighting-rendering-renderman.html"><span class="exercise-title">Lighting and Rendering Principles</span></a>
+
+####<a href="/3d-digital-art-and-design--oer/presentations/maya-lighting-rendering-toon.html"><span class="exercise-title">Toon Shading</span></a>
 
 ###Exercise
 
-####<a href="/3d-digital-art-and-design--oer/exercises/maya-image-planes-for-modeling/maya-image-planes-for-modeling.html"><span class="exercise-title"> Maya Image Planes for Modeling</span></a>
+####<a href="/3d-digital-art-and-design--oer/exercises/maya-layered-shaders/maya-layered-shaders.html"><span class="exercise-title">Maya Layered Shaders</span></a>
 
-      - exercise : maya-layered-shaders
-      - exercise : maya-mentalray-lighting-and-rendering
+####<a href="/3d-digital-art-and-design--oer/exercises/maya-mentalray-lighting-and-rendering/maya-mentalray-lighting-and-rendering.html"><span class="exercise-title">MentalRay</span></a>
