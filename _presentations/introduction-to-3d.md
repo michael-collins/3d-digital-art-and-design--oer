@@ -1,3 +1,9 @@
+---
+layout: default
+title: Presentation
+subtitle: Introduction to 3D
+---
+
 **Introduction**
 
 **Bring to class:** headphones and hard drive/flash drive
