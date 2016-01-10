@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Spring 2016
-subtitle: 001
+subtitle: Section 1
 ---
 <div class="spring-2016">
     {% for lesson in site.lessons %}
