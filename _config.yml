@@ -17,5 +17,5 @@ collections:
     output: true
   topics:
     output: true
-    permalink: /:path/
+    permalink: /topics
 
