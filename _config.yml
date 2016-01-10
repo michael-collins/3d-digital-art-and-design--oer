@@ -14,5 +14,5 @@ collections:
     output: true
   syllabus:
     output: true
-  presentation:
+  presentations:
     output: true
