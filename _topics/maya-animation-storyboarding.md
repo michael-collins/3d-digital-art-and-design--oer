@@ -2,7 +2,7 @@
 layout: default
 title: Storyboarding
 subtitle:
-permalink: /topics/
+permalink: /storyboarding/
 tags: maya-animation
 ---
 
