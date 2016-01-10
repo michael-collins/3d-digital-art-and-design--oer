@@ -4,13 +4,18 @@ title: Calendar
 ---
 
 ##Posts
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+
+{% for post in site.posts %}
+{% capture day %}{{ post.date | date: '%m%d%Y' }}{% endcapture %}
+{% capture nday %}{{ post.next.date | date: '%m%d%Y' }}{% endcapture %}
+
+{% if day != nday %}
+    <h5 class="date">{{ post.date | date: "%A, %B %e, %Y" }}</h5>
+{% endif %}
+{{ post.content }}
+<hr>
+
+{% endfor %}
 
 <h2>Semester</h2>
 [Spring 2016]({{ site.baseurl }}/spring-2016)
