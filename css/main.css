@@ -16,5 +16,8 @@ nav ul li, footer ul li {
 .oer-fork {
 	margin-bottom: 4rem;
 	text-align: right;
+}
+
+.oer-fork a {
 	font-size: 0.85em;
 }
