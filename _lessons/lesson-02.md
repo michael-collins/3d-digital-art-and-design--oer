@@ -5,21 +5,16 @@ layout: lesson
 date: 1/14/2016
 ---
 
-###Presentation
-
-####<a href="/3d-digital-art-and-design--oer/presentations/maya-texturing-principles.html"><span class="exercise-title">Texturing Principles</span></a>
-
-####<a href="/3d-digital-art-and-design--oer/presentations/maya-uv-mapping.html"><span class="exercise-title">UV Mapping</span></a>
-
-####<a href="/3d-digital-art-and-design--oer/presentations/maya-texturing-materials.html"><span class="exercise-title">Materials</span></a>
-
-####<a href="/3d-digital-art-and-design--oer/presentations/maya-texturing-baking.html"><span class="exercise-title">Baking</span></a>
-
-####<a href="/3d-digital-art-and-design--oer/presentations/maya-texturing-normal-maps.html"><span class="exercise-title">Normal Maps</span></a>
-
-####<a href="/3d-digital-art-and-design--oer/presentations/maya-texturing-painting.html"><span class="exercise-title">Painting</span></a>
-
-####<a href="/3d-digital-art-and-design--oer/presentations/maya-texturing-shader-networks.html"><span class="exercise-title">Shader Networks</span></a>
+###Topics
+<ul>
+ {% for topic in site.topics %}
+   {% for tag in topic.tags %}
+       {% if tag == "maya-texturing" %}
+           <li><a href="{{ topic.url | prepend: site.baseurl }}">{{topic.title}}</a></li>
+        {% endif %}
+   {% endfor %}
+ {% endfor %}
+</ul>
 
 ###Exercise
  
