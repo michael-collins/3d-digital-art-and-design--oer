@@ -22,3 +22,6 @@ collections:
   topics:
     output: true
     permalink: /topics/:title.html
+  posts:
+    output: true
+    permalink: /feed/:title.html
