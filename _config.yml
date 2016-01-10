@@ -17,6 +17,7 @@ collections:
     output: true
   syllabus:
     output: true
+    permalink: /syllabus/:title/
   topics:
     output: true
     permalink: /topics/:title/
