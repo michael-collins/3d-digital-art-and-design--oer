@@ -26,5 +26,5 @@ subtitle: Introduction to 3D
     * Timeline Slider
 * **Attribute Editor, Channel Box, Layer Editor**
 * **Tool Shelves, Menu Set Mode, Menu Items**
-* **Hypershade **
+* **Hypershade**
 6. Assignment
