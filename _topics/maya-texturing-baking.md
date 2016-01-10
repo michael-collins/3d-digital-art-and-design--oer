@@ -1,8 +1,7 @@
 ---
 layout: Presentation
-title:
-subtitle: Baking Textures
-permalink: /topics/
+title: Baking Textures
+subtitle: 
 tags: maya-texturing
 ---
 

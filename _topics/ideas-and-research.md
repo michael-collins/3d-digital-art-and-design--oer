@@ -2,7 +2,6 @@
 layout: default
 title: Ideation and Research
 subtitle:
-permalink: /topics/
 tags: 3d
 ---
 1. **Presentation:** [Idea Generation](https://docs.google.com/presentation/d/1VTJ7odUZwVxYCNut1YWJB8XutjQ-2pIUgPs0JMpfWEc/edit?usp=sharing) 

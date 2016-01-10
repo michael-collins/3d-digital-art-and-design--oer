@@ -2,7 +2,6 @@
 layout: default
 title: Texturing Principles
 subtitle:
-permalink: /topics/
 tags: maya-texturing
 ---
 

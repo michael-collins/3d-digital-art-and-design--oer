@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Presenting Visual Ideas for Feedback
-subtitle: 
-permalink: /topics/
+subtitle:
 tags: technique
 ---
 

@@ -2,7 +2,6 @@
 layout: default
 title: Color and Composition
 subtitle:
-permalink: /topics/
 tags: technique-color-and-composition
 ---
 

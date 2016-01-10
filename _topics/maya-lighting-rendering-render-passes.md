@@ -2,7 +2,6 @@
 layout: default
 title: Render Passes and Compositing
 subtitle:
-permalink: /topics/
 tags: maya-lighting-rendering
 ---
 
