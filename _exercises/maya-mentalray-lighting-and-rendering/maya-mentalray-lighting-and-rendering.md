@@ -1,6 +1,6 @@
 ---
-title: Exercise
-subtitle: Maya Mentalray Lighting and Rendering
+title: Maya Mentalray Lighting and Rendering
+subtitle: 
 layout: exercise
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Exercise
-subtitle: Maya Modeling
+title: Maya Modeling
+subtitle: 
 layout: exercise
 ---
 

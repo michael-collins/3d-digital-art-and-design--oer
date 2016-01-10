@@ -1,6 +1,6 @@
 ---
-title: Exercise
-subtitle: Maya Texturing
+title: Maya Texturing
+subtitle: 
 layout: exercise
 ---
 

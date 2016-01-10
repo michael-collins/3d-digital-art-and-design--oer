@@ -1,6 +1,6 @@
 ---
-title: Exercise
-subtitle: Maya Dynamics
+title: Maya Dynamics
+subtitle: 
 layout: exercise
 ---
 

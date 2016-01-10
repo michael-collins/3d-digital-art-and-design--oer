@@ -1,6 +1,6 @@
 ---
-title: Exercise
-subtitle: Maya Render Passes in Mentalray
+title: Maya Render Passes in Mentalray
+subtitle: 
 layout: exercise
 ---
 

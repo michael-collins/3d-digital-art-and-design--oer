@@ -1,6 +1,6 @@
 ---
-title: Exercise
-subtitle: Maya Layered Shaders
+title: Maya Layered Shaders
+subtitle: 
 layout: exercise
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Exercise
-subtitle: Maya Rigging
+title: Maya Rigging
+subtitle: 
 layout: exercise
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Exercise
-subtitle: Maya Image Planes for Modeling
+title: Maya Image Planes for Modeling
+subtitle: 
 layout: exercise
 ---
 
