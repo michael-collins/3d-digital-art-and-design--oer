@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Presentation
+title: Topic
 subtitle: 3D Across Disciplines
 ---
 
