@@ -3,7 +3,7 @@ markdown: redcarpet
 redcarpet:
     extensions: ["no_intra_emphasis", "tables", "autolink", "strikethrough", "with_toc_data"]
 baseurl: /3d-digital-art-and-design--oer
-permalink: /:title.html
+
 gems:
   - jekyll-sitemap
 collections:
