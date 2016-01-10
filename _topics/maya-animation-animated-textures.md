@@ -2,6 +2,6 @@
 layout: default
 title: Animated Textures
 subtitle:
-permalink: /animated-textures/
+permalink: 
 tags: maya-animation
 ---
