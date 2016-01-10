@@ -10,20 +10,20 @@ subtitle: Introduction to 3D
 4. Course Website
 5. In Class Demo: Autodesk Maya
   * Maya Setup
-    * Project Folder (Root Directory)
-    * Create project data folders
+    - Project Folder (Root Directory)
+    - Create project data folders
   * Autosave Preference
-    * Preferences → Files/Projects → AutoSave
+    - Preferences → Files/Projects → AutoSave
   * Translate Tools
-    * Move
-    * Rotate
-    * Scale
+    - Move
+    - Rotate
+    - Scale
   * Viewport and Layouts
-    * Customize Panels
-    * Context Menu and Selection Modes
+    - Customize Panels
+    - Context Menu and Selection Modes
   * Timeline
-    * Keyframes
-    * Timeline Slider
+    - Keyframes
+    - Timeline Slider
 * Attribute Editor, Channel Box, Layer Editor
 * Tool Shelves, Menu Set Mode, Menu Items
 * Hypershade
