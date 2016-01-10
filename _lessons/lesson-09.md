@@ -1,6 +1,6 @@
 ---
 title: Lesson 09
-subtitle: Lesson 09 Topic
+subtitle: scripting
 layout: lesson
 date: 2/9/2016
 ---
@@ -8,6 +8,10 @@ date: 2/9/2016
 ###Presentation
 
 ####<a href="/3d-digital-art-and-design--oer/presentations/modeling.html"><span class="exercise-title">Modeling/span></a>
+
+        - topic_name : maya-scripting-principles
+        - topic_name : maya-scripting-mel
+        - topic_name : maya-scripting-python
 
 ###Exercise
 

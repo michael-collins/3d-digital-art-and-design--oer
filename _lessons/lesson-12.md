@@ -7,7 +7,7 @@ date: 2/18/2016
 
 ###Presentation
 
-####<a href="/3d-digital-art-and-design--oer/presentations/modeling.html"><span class="exercise-title">Modeling/span></a>
+####<a href="/3d-digital-art-and-design--oer/presentations/modeling.html"><span class="exercise-title">Modeling</span></a>
 
 ###Exercise
 
