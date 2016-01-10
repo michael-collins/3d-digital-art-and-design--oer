@@ -3,8 +3,6 @@ layout: calendar
 title: Calendar
 ---
 
-##Posts
-
 {% for post in site.posts %}
 {% capture day %}{{ post.date | date: '%m%d%Y' }}{% endcapture %}
 {% capture nday %}{{ post.next.date | date: '%m%d%Y' }}{% endcapture %}
