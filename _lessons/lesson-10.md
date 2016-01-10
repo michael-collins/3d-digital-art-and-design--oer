@@ -7,12 +7,10 @@ date: 2/11/2016
 
 ###Presentation
 
-####<a href="/3d-digital-art-and-design--oer/presentations/modeling.html"><span class="exercise-title">Modeling/span></a>
+####<a href="/3d-digital-art-and-design--oer/presentations/maya-realtime-principles.html"><span class="exercise-title">Realtime Rendering Principles</span></a>
 
-        - topic_name : maya-realtime-principles
-        - topic_name : maya-realtime-sketchfab
-        - topic_name : maya-realtime-playcanvas
+####<a href="/3d-digital-art-and-design--oer/presentations/maya-realtime-sketchfab.html"><span class="exercise-title">SketchFab</span></a>
+
+####<a href="/3d-digital-art-and-design--oer/presentations/maya-realtime-playcanvas.html"><span class="exercise-title">PlayCanvas</span></a>
 
 ###Exercise
-
-####<a href="/3d-digital-art-and-design--oer/exercises/maya-image-planes-for-modeling/maya-image-planes-for-modeling.html"><span class="exercise-title"> Maya Image Planes for Modeling</span></a>

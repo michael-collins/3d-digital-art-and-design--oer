@@ -7,12 +7,10 @@ date: 2/9/2016
 
 ###Presentation
 
-####<a href="/3d-digital-art-and-design--oer/presentations/modeling.html"><span class="exercise-title">Modeling/span></a>
+####<a href="/3d-digital-art-and-design--oer/presentations/maya-scripting-principles.html"><span class="exercise-title">Scripting Principles/span></a>
 
-        - topic_name : maya-scripting-principles
-        - topic_name : maya-scripting-mel
-        - topic_name : maya-scripting-python
+####<a href="/3d-digital-art-and-design--oer/presentations/maya-scripting-mel.html"><span class="exercise-title">Mel Scripting</span></a>
+
+####<a href="/3d-digital-art-and-design--oer/presentations/maya-scripting-python.html"><span class="exercise-title">Python Scripting for Maya</span></a>
 
 ###Exercise
-
-####<a href="/3d-digital-art-and-design--oer/exercises/maya-image-planes-for-modeling/maya-image-planes-for-modeling.html"><span class="exercise-title"> Maya Image Planes for Modeling</span></a>
