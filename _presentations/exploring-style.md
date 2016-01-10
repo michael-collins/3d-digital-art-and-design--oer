@@ -1,6 +1,10 @@
-**ART 314: Class 11 - Compositing**
+---
+layout: default
+title: Presentation
+subtitle: Compositing
+---
 
-What is compositing?
+Çompositing
 
 Examples
 

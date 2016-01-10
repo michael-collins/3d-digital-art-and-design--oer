@@ -1,4 +1,8 @@
-**Render Passes and Compositing**
+---
+layout: default
+title: Presentation
+subtitle: Render Passes and Compositing
+---
 
 1. Video Screening
 

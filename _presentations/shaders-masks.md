@@ -1,4 +1,8 @@
-**Shaders and Masks**
+---
+layout: default
+title: Presentation
+subtitle: Shaders and Masks
+---
 
 1. **Video Screening**
 

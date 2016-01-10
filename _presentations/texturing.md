@@ -1,4 +1,8 @@
-**Texturing**
+---
+layout: default
+title: Presentation
+subtitle: Texturing
+---
 
 1. **Kinds of textures**
 

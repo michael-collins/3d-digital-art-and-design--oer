@@ -1,4 +1,8 @@
-**ART314: Class 8 - Pre-viz**
+---
+layout: default
+title: Presentation
+subtitle: Pre-visualization
+---
 
 1. **Presentation:**
 

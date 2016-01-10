@@ -1,3 +1,9 @@
+---
+layout: default
+title: Presentation
+subtitle: Lighting
+---
+
 **Screenings**
 
 1. Pixar’s Up Marriage Scene
@@ -27,8 +33,4 @@
     6. Lambert, Blinn
 
     7. Bevels and highlights
-
-**Assignment**
-
-* Exercise 4
 
