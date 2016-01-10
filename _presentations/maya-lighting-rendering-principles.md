@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Presentation
-subtitle: Lighting
+subtitle: Lighting and Rendering Principles
 ---
 
 **Screenings**

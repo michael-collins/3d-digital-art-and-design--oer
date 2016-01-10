@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Presentation
-subtitle: Texturing
+subtitle: Texturing Principles
 ---
 
 1. **Kinds of textures**
