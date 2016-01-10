@@ -1,6 +1,6 @@
 ---
-title: Lesson 08
-subtitle: Compositing
+title: Compositing
+subtitle: 
 layout: lesson
 date: 2/4/2016
 ---
@@ -18,6 +18,4 @@ date: 2/4/2016
 
 ###Exercise
 
-####<a href="/3d-digital-art-and-design--oer/exercises/maya-image-planes-for-modeling/maya-image-planes-for-modeling.html"><span class="exercise-title"> Maya Image Planes for Modeling</span></a>
-
-        - exercise : maya-render-passes-in-mentalray
+####<a href="/3d-digital-art-and-design--oer/exercises/maya-render-passes-in-mentalray/maya-render-passes-in-mentalray.html"><span class="exercise-title">Render Passes</span></a>
