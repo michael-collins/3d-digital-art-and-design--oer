@@ -1,6 +1,6 @@
 ---
-title: 3D Digital Art and Design OER
-subtitle: Syllabus
+title: Syllabus
+subtitle: Semester Listing
 layout: default
 ---
 
