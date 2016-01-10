@@ -5,17 +5,19 @@
 	<div class="site-wrap">
 		{% include nav.html %}
 		
-		<section class="page-header">
+		<section class="page-header site-header px2 px-responsive">
 		   <h1 class="page-title">{{ page.title }}</h1>
 		   <h2 class="page-subtitle">{{ page.subtitle }}</h2>
 		</section>
 
-		<section class="main-content">
-		   {{ content }}
+		<section class="main-content p2 p-responsive wrap">
+		   <div class="measure">
+		   	{{ content }}
+		   </div>
 		</section>
     </div>
 		
-	<footer class="site-footer">
+	<footer class="site-footer center">
 	   <div>
 		   	<a href="https://github.com/michael-collins/3d-digital-art-and-design--oer" class="btn">View on GitHub</a><span> | </span>
 		   <a href="https://github.com/michael-collins/3d-digital-art-and-design--oer/zipball/master" class="btn">Download .zip</a><span> | </span>
