@@ -21,9 +21,6 @@ date: 1/12/2016
 
 ###Exercise
 
-        - exercise : maya-image-planes-for-modeling
-        - exercise : maya-modeling
-
 ####<a href="/3d-digital-art-and-design--oer/exercises/maya-image-planes-for-modeling/maya-image-planes-for-modeling.html"><span class="exercise-title">Maya Image Planes for Modeling</span></a>
 
 ####<a href="/3d-digital-art-and-design--oer/exercises/maya-modeling/maya-modeling.html"><span class="exercise-title">Modeling</span></a>
