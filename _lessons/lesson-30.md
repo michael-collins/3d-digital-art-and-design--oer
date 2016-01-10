@@ -11,7 +11,7 @@ topics:
 <ul>
  {% for topic in site.topics %}
    {% for tag in topic.tags %}
-       {% if tag == "{{page.topics}}" %}
+       {% if tag == "maya-animation" %}
            <li><a href="{{ topic.permalink | prepend: site.baseurl }}">{{topic.title}}</a></li>
         {% endif %}
    {% endfor %}
