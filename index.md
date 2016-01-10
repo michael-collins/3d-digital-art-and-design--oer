@@ -4,15 +4,15 @@ title: Calendar
 ---
 
 ##Posts
-<h5 class="date">
+
 {% for post in site.posts %}
 {% capture day %}{{ post.date | date: '%m%d%Y' }}{% endcapture %}
 {% capture nday %}{{ post.next.date | date: '%m%d%Y' }}{% endcapture %}
 
 {% if day != nday %}
-    {{ post.date | date: "%A, %B %e, %Y" }}
+<h5 class="date">{{ post.date | date: "%A, %B %e, %Y" }}</h5>
 {% endif %}
-</h5>
+
 {{ post.content }}
 <hr>
 
