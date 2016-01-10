@@ -2,7 +2,7 @@
 layout: default
 title: The Future of 3D
 subtitle: 
-permalink: /topics/
+permalink: /the-future-of-3d/
 tags: 3d
 ---
 

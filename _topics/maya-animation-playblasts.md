@@ -2,7 +2,7 @@
 layout: default
 title: Playblasts
 subtitle:
-permalink: /topics/
+permalink: /playblasts/
 tags: maya-animation
 ---
 

@@ -2,7 +2,7 @@
 layout: default
 title: Animation Principles
 subtitle:
-permalink: /topics/
+permalink: /animation-principles/
 tags: maya-animation
 ---
 

@@ -2,7 +2,7 @@
 layout: default
 title: Keyframing
 subtitle:
-permalink: /topics/
+permalink: /keyframing/
 tags: maya-animation
 ---
 

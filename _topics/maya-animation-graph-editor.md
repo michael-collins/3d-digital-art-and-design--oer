@@ -2,7 +2,7 @@
 layout: default
 title: Graph Editor
 subtitle:
-permalink: /topics/
+permalink: /graph-editor/
 tags: maya-animation
 ---
 

@@ -2,6 +2,6 @@
 layout: default
 title: Deformers
 subtitle:
-permalink: /topics/
+permalink: /deformers/
 tags: maya-animation
 ---

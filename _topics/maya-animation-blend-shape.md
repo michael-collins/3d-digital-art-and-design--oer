@@ -2,7 +2,7 @@
 layout: default
 title: Blend Shapes
 subtitle:
-permalink: /topics/
+permalink: /blend-shape/
 tags: maya-animation
 ---
 
