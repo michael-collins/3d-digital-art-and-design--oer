@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3D Digital Art and Design OER
+title: Calendar
 ---
 
 <h2>Semester</h2>
