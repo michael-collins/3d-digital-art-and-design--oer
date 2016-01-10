@@ -6,7 +6,7 @@ date: 4/29/2016
 topics: maya-animation
 ---
 
-###Topics
+###Topics!
 <ul>
  {% for topic in site.topics %}
    {% for tag in topic.tags %}
