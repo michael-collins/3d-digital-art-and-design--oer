@@ -12,7 +12,7 @@ collections:
     permalink: /lessons/:title/
   exercises:
     output: true
-    permalink: /exercises/:title/
+    permalink: /exercises/:title.html
   grading:
     output: true
   syllabus:
