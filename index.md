@@ -3,7 +3,7 @@ layout: post
 title: Calendar
 comments: false
 ---
-
+<div class="posts-index">
 {% for post in site.posts %}
 {% capture day %}{{ post.date | date: '%m%d%Y' }}{% endcapture %}
 {% capture nday %}{{ post.next.date | date: '%m%d%Y' }}{% endcapture %}
@@ -17,3 +17,4 @@ comments: false
 
 {% endfor %}
 
+</div>

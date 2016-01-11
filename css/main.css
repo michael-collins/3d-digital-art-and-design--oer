@@ -21,3 +21,11 @@ nav ul li, footer ul li {
 a.oer-title {
 	font-size: 1.3rem;
 }
+/* Posts */
+h5.post-date {
+    font-size: 1.25rem;
+}
+h6.post-title {
+    font-size: 1rem;
+    text-indent: 1rem;
+}
