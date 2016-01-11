@@ -3,6 +3,8 @@ layout: post
 title: Exercise 1 Due
 category: exercise
 comments: true
+published: true
+excerpt: 
 ---
 
 [Exercise 1 Documentation]({{ site.baseurl }}/exercises/maya-image-planes-for-modeling.html)

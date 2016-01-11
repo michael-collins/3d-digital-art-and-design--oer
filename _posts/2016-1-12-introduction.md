@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Introduction
-category: class-schedule
+category: lecture
 comments: true
-excerpt: Today we will discuss the syllabus, look at Autodesk Maya's interface and we'll look at the first assignment.
 published: true
+excerpt: Introduction to the course. We will discuss the syllabus, Autodesk Maya's interface, and introduce the first assignment.
 ---
 
 ###Schedule

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Introduction to modeling
-category: class-schedule
+category: lecture
 comments: true
-excerpt: Modeling in Autodesk Maya.
 published: true
+excerpt: Introduction to modeling in Autodesk Maya.
 ---
 ###Schedule
 
