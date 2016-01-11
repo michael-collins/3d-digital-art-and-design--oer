@@ -1,5 +1,5 @@
 ---
-layout: calendar
+layout: post
 title: Calendar
 ---
 
@@ -15,3 +15,4 @@ title: Calendar
 <hr>
 
 {% endfor %}
+
