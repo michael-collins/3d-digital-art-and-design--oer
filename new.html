@@ -32,6 +32,6 @@ function determineFilename(form) {
   var filename = today_nice + '-' + post_title.replace(/[^\w]+/g, '-').toLowerCase() + '.md';
   form.filename.value = filename;
   // Add the YAML prefix on the content
-  form.value.value = "---\nlayout: default\ntitle: \"" + post_title + "\"\ndate: " + date_time + "\ncomments: true\npublished: true\ncategories: \n---\n" + form.value.value;
+  form.value.value = "---\nlayout: post\ntitle: \"" + post_title + "\"\ndate: " + date_time + "\ncomments: true\npublished: true\ncategories: \n---\n" + form.value.value;
 }
 </script>
