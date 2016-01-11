@@ -2,7 +2,6 @@
 title: Maya Image Planes for Modeling
 subtitle: 
 layout: exercise
-tags: maya-image-planes-for-modeling
 ---
 
 In this exercise, you will practice applying an animated texture to an object in Autodesk Maya, animating that object along a motion path, batch rendering, importing the batched renders back into Adobe After Effects, and exporting a compressed video. Here is an example of what the animation could look like: [A Mighty Box](https://docs.google.com/file/d/0BzXX6rmROMNWck1MVnpFclpWdU0/edit).
