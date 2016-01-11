@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Exercise 1 Due
+title: Exercise 1 Assigned
 category: exercise
-comments: true
+comments: false
 published: true
 excerpt: 
 ---

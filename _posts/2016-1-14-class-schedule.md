@@ -2,7 +2,7 @@
 layout: post
 title: Introduction to modeling
 category: lecture
-comments: true
+comments: false
 published: true
 excerpt: Introduction to modeling in Autodesk Maya.
 ---
