@@ -14,21 +14,21 @@ published: true
 3. Course Schedule
 4. Course Website
 5. In Class: Autodesk Maya Introduction
-  * **Maya Setup**
+  - **Maya Setup**
     - Project Folder (Root Directory)
     - Create project data folders
-  * **Autosave Preference**
+  - **Autosave Preference**
     - Preferences → Files/Projects → AutoSave
-  * **Translate Tools**
+  - **Translate Tools**
     - Move
     - Rotate
     - Scale
-  * **Viewport and Layouts**
+  - **Viewport and Layouts**
     - Context Menu and Selection Modes
-  * **Timeline**
+  - **Timeline**
     - Keyframes
     - Timeline Slider
-  * **Editors**
+  - **Editors**
     - Hypershade, Attribute Editor, Channel Box, Layer Editor
     - Tool Shelves, Menu Set Mode, Menu Items
 6. Assignment
