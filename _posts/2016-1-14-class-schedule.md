@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introduction to modeling
-category: test
+category: class-schedule
 comments: true
 excerpt: Modeling in Autodesk Maya.
 published: true

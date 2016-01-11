@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Introduction to ART314: 3D Modeling, Rendering, and Animation
-category: test
+title: Introduction to modeling
+category: class-schedule
 comments: true
 excerpt: Today we will discuss the syllabus, look at Autodesk Maya's interface and we'll look at the first assignment.
+published: true
 ---
+
 ###Schedule
 
 1. Introduction Presentation
