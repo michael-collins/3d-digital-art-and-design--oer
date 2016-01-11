@@ -7,7 +7,6 @@ published: true
 excerpt: Today we will discuss the syllabus, look at Autodesk Maya's interface and we'll look at the first assignment.
 ---
 
-
 ###Schedule
 
 1. Introduction Presentation
