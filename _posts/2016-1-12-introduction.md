@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introduction to modeling
+title: Introduction
 category: class-schedule
 comments: true
 excerpt: Today we will discuss the syllabus, look at Autodesk Maya's interface and we'll look at the first assignment.
