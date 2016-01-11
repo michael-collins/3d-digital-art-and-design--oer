@@ -10,7 +10,7 @@ excerpt: Introduction to the course. We will discuss the syllabus, Autodesk Maya
 ---
 <section data-markdown>
 ##Introduction to ART314: 3D Modeling, Rendering, and Animation
-###Instructor: Michael Collins | msc227@psu.edu | @_mike_collins
+Instructor: Michael Collins | msc227@psu.edu | @_mike_collins
 </section>
 <section data-markdown>
 ##Introductions
@@ -33,20 +33,14 @@ This is an __**art**__ class where we use indistry standard design tools.
 
 Theme prompts require that you will take novel and creative approaches to visual and conceptual investigations. Your ability to be a creative problem solver is more important than your ability to model or texture.
 
-Can I make game environments, characters, short films, etc?
-Yes. The projects in this class support your individual creative interests. How you solve for the project themes are up to you, as long as they are within the constraints of the project, and projects are fairly open ended. Never do something just because you’ll think that I’ll like it. Take ownership of your work.
 </section>
 <section data-markdown>
-##What is this class about?
-
-This is an __**art**__ class where we use indistry standard design tools.
-
-Theme prompts require that you will take novel and creative approaches to visual and conceptual investigations. Your ability to be a creative problem solver is more important than your ability to model or texture.
-
 **Q: Can I make game environments, characters, short films, etc?**
 
 **A:** Yup!
-   The projects in this class support your individual creative interests. How you solve for the project themes are up to you, as long as they are within the constraints of the project, and projects are fairly open ended. Never do something just because you’ll think that I’ll like it. Take ownership of your work.
+
+The projects in this class support your individual creative interests. How you solve for the project themes are up to you, as long as they are within the constraints of the project, and projects are fairly open ended. Never do something just because you’ll think that I’ll like it. Take ownership of your work.
+
 </section>
 <section data-markdown>
 ##Expectations
@@ -64,10 +58,14 @@ Theme prompts require that you will take novel and creative approaches to visual
 
 If you have any recommendations, please post on the site on the dicsussion page, or if it's in reference to a specific exercise, you can post right on the exercise. When you find something useful to the class, post it on the Discussion page!
 
+</section>
+<section data-markdown>
+
 **Fun fact!** This course site and all the content is open-source. You can fork it on github.
 </section>
 <section data-markdown>
 I understand that it can be hard to make it to every single class. But please show up for critique days.
+
 </section>
 <section data-markdown>
 ##Technology sucks!
@@ -104,26 +102,25 @@ Introducing Autodesk Maya 2016: Autodesk Official Press _ISBN-10: 1119059631_
 
 Mastering Autodesk Maya 2016: Autodesk Official Press _ISBN-10: 1119059828_
 
+</section>
+<section data-markdown>
 **Other Learning Resources**
 
 The entire Internet.
 
->There is actually a lot of knowledge and useful information on the Internet, like how to make things glow in Maya, or how to [fold a shirt like a ninja](https://www.youtube.com/watch?v=gK1nGpvaHno)!
+>There is a lot of knowledge and useful information on the Internet, like how to make things glow in Maya, or how to [fold a shirt like a ninja](https://www.youtube.com/watch?v=gK1nGpvaHno)!
 
 </section>
 <section data-markdown>
-##What is 3D Animation?
-
-From a film perspective:
+##How is 3D used for to make animations?
 
 [Cirkus Animation ABC](http://www.youtube.com/watch?v=O-qLBXIX2Mk)
 
-##What else can it be?
-
-[Zeitguised](http://www.zeitguised.com/)
-
 </section>
 <section data-markdown>
+###Art Studios
+[Zeitguised](http://www.zeitguised.com/)
+
 ###Art Installations
 
 Matt Pyke: [Video 1](http://vimeo.com/24836368) - [Video 2](http://vimeo.com/24832819)
@@ -132,6 +129,8 @@ Matt Pyke: [Video 1](http://vimeo.com/24836368) - [Video 2](http://vimeo.com/248
 
 [Fan Zhang](http://features.cgsociety.org/newgallerycrits/g97/266497/266497_1313588621_large.jpg) - [Mikael Engzell](http://features.cgsociety.org/newgallerycrits/g40/422540/422540_1323953738_large.jpg) - [Mariano Steiner](http://features.cgsociety.org/newgallerycrits/g25/313625/313625_1275961395_large.jpg) - [Laurent Pierlot](http://features.cgsociety.org/newgallerycrits/g96/30696/30696_1351660661_large.jpg) - [Toni Bratincevic](http://features.cgsociety.org/newgallerycrits/g56/93456/93456_1345698939_large.jpg)
 
+</section>
+<section data-markdown>
 ###Graphic/Motion Design
 
 Mike Rigley: [Network](https://vimeo.com/34750078)
@@ -148,6 +147,9 @@ Team Getaway - [Getaway](https://vimeo.com/39392036)
 
 [Silestone](https://vimeo.com/16239432)
 
+###Movie VFX
+Johnny Likens - [IRON MAN 3 : HUD + GFX PROCESS REEL](https://vimeo.com/66944464)
+
 </section>
 <section data-markdown>
 ##Get Involved
@@ -158,7 +160,7 @@ Team Getaway - [Getaway](https://vimeo.com/39392036)
 
 </section>
 <section data-markdown>
-Questions?
+##Questions?
 </section>
 <section data-markdown>
 ##Up Next
