@@ -44,11 +44,15 @@ The projects in this class support your individual creative interests. How you s
 
 </section>
 <section data-markdown>
-##Expectations
+##Expectations _part 1_
 - Be in class on time
 - Read the attendance policy, it’s not joking
 - Meet deadlines (missed proj milestones will will not be graded). The highest grade for a late exercise is a C. 
 - **Stop looking at all 'yer social medias!** Unless it's research or for communication on work. (for those of you currently logged in, please log out :).
+
+</section>
+<section data-markdown>
+##Expectations _part 2_
 - Be a self learner, but don’t be afraid to ask questions
   - 15 Miniute rule: Try to answer your own question. If it's taking more than 15 minutes, ask for help!
 - Please be respectful to your peers who are working diligently by not distracting them with cat videos or other sources of entertainment.
@@ -69,12 +73,16 @@ I understand that it can be hard to make it to every single class. But please sh
 
 </section>
 <section data-markdown>
-##Technology sucks!
+##Technology sucks! _part 1_
 - Rule #1: Never trust technology
   - Plan Ahead by doing the following:
   - Turn on Autosave
   - Always have a backup (the computer lab machine doesn't count)
   - Make sure your backups are synced
+
+</section>
+<section data-markdown>
+##Technology sucks! _part 2_
   - The computer lab computers get wiped every few days
   - Allow enough time to render your project twice because:
     - You will make mistakes
