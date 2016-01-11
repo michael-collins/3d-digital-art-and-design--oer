@@ -7,4 +7,6 @@ layout: default
 </article>
 
 <h3>Discussion</h3>
+{% if post.comments %}
 {% include disqus.html %}
+{% endif %}
