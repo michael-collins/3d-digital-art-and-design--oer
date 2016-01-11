@@ -2,7 +2,7 @@
 layout: slide
 title: Introduction Presentation
 categories: presentation
-theme: white
+theme: black
 transition: slide
 comments: true
 published: true
