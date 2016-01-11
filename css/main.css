@@ -24,7 +24,7 @@ a.oer-title {
 /* Posts */
 article.post .post-date {
     font-size: 1.25rem;
-	border-top: 0.125rem;
+	border-top: 0.125rem #ccc solid;
     padding-bottom: 2rem;
 }
 article.post .post-title {
