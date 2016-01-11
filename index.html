@@ -3,7 +3,6 @@ layout: post
 title: Calendar
 comments: false
 ---
-<div class="posts-index">
 {% for post in site.posts %}
 {% capture day %}{{ post.date | date: '%m%d%Y' }}{% endcapture %}
 {% capture nday %}{{ post.next.date | date: '%m%d%Y' }}{% endcapture %}
@@ -11,10 +10,8 @@ comments: false
 {% if day != nday %}
 <h5 class="post-date">{{ post.date | date: "%A, %B %e, %Y" }}</h5>
 {% endif %}
-<h5><a href="{{ post.url | prepend: site.baseurl }}"><span class="post-title">{{ post.title }}</span></a></h5>
+<h5 class="post-title"><a href="{{ post.url | prepend: site.baseurl }}"><span class="post-title">{{ post.title }}</span></a></h5>
 {{ post.content }}
 <hr>
 
 {% endfor %}
-
-</div>
