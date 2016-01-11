@@ -16,10 +16,10 @@ collections:
     permalink: /exercises/:title.html
   grading:
     output: true
-    permalink: /grading//:title.html
+    permalink: /grading/:title.html
   syllabus:
     output: true
-    permalink: /syllabus//:title.html
+    permalink: /syllabus/:title.html
   topics:
     output: true
     permalink: /topics/:title.html

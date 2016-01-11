@@ -10,7 +10,7 @@ title: Calendar
 {% if day != nday %}
 <h5 class="date">{{ post.date | date: "%A, %B %e, %Y" }}</h5>
 {% endif %}
-
+<h2><a href="{{ post.url | prepend: site.baseurl }}"><span class="topic-title">{{ post.title }}</span></a></h2>
 {{ post.content }}
 <hr>
 
