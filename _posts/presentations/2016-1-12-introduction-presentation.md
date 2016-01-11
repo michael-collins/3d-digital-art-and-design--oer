@@ -85,10 +85,12 @@ I understand that it can be hard to make it to every single class. But please sh
     - Crash before you had a chance to save
  
 </section>
+<section data-markdown>
 ##More Technology
 
 Autodesk Student Software free! Register: [http://students.autodesk.com](http://students.autodesk.com)
 
+</section>
 <section data-markdown>
 ##Learning Resources
 
@@ -109,6 +111,7 @@ The entire Internet.
 >There is actually a lot of knowledge and useful information on the Internet, like how to make things glow in Maya, or how to [fold a shirt like a ninja](https://www.youtube.com/watch?v=gK1nGpvaHno)!
 
 </section>
+<section data-markdown>
 ##What is 3D Animation?
 
 From a film perspective:
@@ -118,6 +121,8 @@ From a film perspective:
 ##What else can it be?
 
 [Zeitguised](http://www.zeitguised.com/)
+
+</section>
 <section data-markdown>
 ###Art Installations
 
