@@ -25,7 +25,7 @@ Tell us about yourself
 ##Welcome
 ###Warning:
 
-**We have a ton of material to cover this semester.** To do well in this class, you have to work really hard, so make sure you are prepared to commit to a rigorous work ethic! You will lose sleep this semester, but it will be fun!
+>**We have a ton of material to cover this semester.** To do well in this class, you have to work really hard, so make sure you are prepared to commit to a rigorous work ethic! You will lose sleep this semester, but it will be fun!
 </section>
 <section data-markdown>
 ##What is this class about?
