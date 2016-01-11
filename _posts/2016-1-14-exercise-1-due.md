@@ -9,7 +9,7 @@ exercise: 1
 {% for exercise in site.exercises %}
    {% for exercise in exercises.title %}
        {% if title == "maya-image-planes-for-modeling" %}
-           <a href="{{ topic.url | prepend: site.baseurl }}">{{exercise.title}}</a>
+           <a href="{{ exercise.url | prepend: site.baseurl }}">{{exercise.title}}</a>
         {% endif %}
    {% endfor %}
  {% endfor %}
