@@ -6,7 +6,7 @@ layout: default
   {{ content }}
 </article>
 
+{% if page.comments %}
 <h3>Discussion</h3>
-{% if site.page %}
 {% include disqus.html %}
 {% endif %}
