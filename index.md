@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Calendar
+comments: false
 ---
 
 {% for post in site.posts %}
