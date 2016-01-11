@@ -39,3 +39,7 @@ article.post .post-content {
 article.post .post-content p {
     font-size: 0.8rem;
 }
+/*presentations*/
+.reveal {
+	font-size:1.85rem;
+}
