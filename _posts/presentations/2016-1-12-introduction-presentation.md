@@ -168,11 +168,9 @@ Johnny Likens - [IRON MAN 3 : HUD + GFX PROCESS REEL](https://vimeo.com/66944464
 <section data-markdown>
 ##Get Involved
 
-Penn State Digital Media Group (Facebook Group)
+[Penn State Digital Media Group](https://www.facebook.com/PSUDigitalMedia/)
 
-SIGGRAPH Student Volunteering (Early February)
-
-http://s2016.siggraph.org/student-volunteers
+[SIGGRAPH Student Volunteering](http://s2016.siggraph.org/student-volunteers) (Early February)
 
 </section>
 <section data-markdown>
