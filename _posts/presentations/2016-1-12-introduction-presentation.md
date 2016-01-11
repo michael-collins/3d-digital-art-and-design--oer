@@ -92,11 +92,13 @@ Autodesk Student Software free! Register: [http://students.autodesk.com](http://
 <section data-markdown>
 ##Learning Resources
 
-Lynda.com (For PSU students - lynda.psu.edu)
+[Lynda.com](http://www.lynda.com) (For PSU students - [lynda.psu.edu](https://lynda.psu.edu))
   
-Pluralsight.com (Formerly Digital Tutors)
+[Pluralsight.com](http://www.pluralsight.com) (Formerly Digital Tutors)
 
-**Textbooks**
+</section>
+<section data-markdown>
+##Textbooks
 
 Introducing Autodesk Maya 2016: Autodesk Official Press _ISBN-10: 1119059631_ 
 
@@ -104,7 +106,7 @@ Mastering Autodesk Maya 2016: Autodesk Official Press _ISBN-10: 1119059828_
 
 </section>
 <section data-markdown>
-**Other Learning Resources**
+##Other Learning Resources
 
 The entire Internet.
 
@@ -141,6 +143,8 @@ Alex Roman - [The Third & The Seventh](https://vimeo.com/24335209)
 
 Team Getaway - [Getaway](https://vimeo.com/39392036)
 
+</section>
+<section data-markdown>
 ###Commercials
 
 [Skoda Car Commercial](https://vimeo.com/25073794)
@@ -154,9 +158,11 @@ Johnny Likens - [IRON MAN 3 : HUD + GFX PROCESS REEL](https://vimeo.com/66944464
 <section data-markdown>
 ##Get Involved
 
-- Penn State Digital Media Group (Facebook Group)
-- SIGGRAPH Student Volunteering (Early February)
-  - http://s2016.siggraph.org/student-volunteers
+Penn State Digital Media Group (Facebook Group)
+
+SIGGRAPH Student Volunteering (Early February)
+
+http://s2016.siggraph.org/student-volunteers
 
 </section>
 <section data-markdown>
@@ -165,8 +171,8 @@ Johnny Likens - [IRON MAN 3 : HUD + GFX PROCESS REEL](https://vimeo.com/66944464
 <section data-markdown>
 ##Up Next
 
-- Syllabus and Schedule
-- Autodesk Maya Demo
-- Assignment
+1. Syllabus and Schedule
+2. Autodesk Maya Demo
+3. Assignment
 
 </section>
