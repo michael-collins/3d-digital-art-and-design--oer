@@ -4,9 +4,11 @@ title: Introduction to modeling
 category: test
 comments: true
 excerpt: Modeling in Autodesk Maya.
+published: true
 ---
 
-###Today's schedule
+
+###Schedule
 
 1. Modeling Introduction
 5. In Class Demo: Autodesk Maya
