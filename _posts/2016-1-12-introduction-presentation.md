@@ -85,10 +85,12 @@ I understand that it can be hard to make it to every single class. But please sh
     - Crash before you had a chance to save
  
 </section>
+<section data-markdown>
 ##More Technology
 
 Autodesk Student Software free! Register: [http://students.autodesk.com](http://students.autodesk.com)
 
+</section>
 <section data-markdown>
 ##Learning Resources
 
