@@ -22,10 +22,12 @@ a.oer-title {
 	font-size: 1.3rem;
 }
 /* Posts */
-h5.post-date {
+article.post .post-date {
     font-size: 1.25rem;
 }
-h6.post-title {
+article.post .post-title {
     font-size: 1rem;
-    text-indent: 1rem;
+}
+article.post .post-content {
+	margin-left:1rem;
 }
