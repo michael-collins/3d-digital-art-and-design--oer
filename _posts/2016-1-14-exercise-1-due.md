@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Exercise 1 Due
-category: test
+category: exercise
 comments: true
 ---
 
