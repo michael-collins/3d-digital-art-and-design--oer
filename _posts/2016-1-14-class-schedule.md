@@ -9,10 +9,10 @@ published: true
 ###Schedule
 
 1. **Video Screening**
-  - 1. [The Analog and the Digital](https://www.youtube.com/watch?v=Lu5y8SMuzMs)
+  - [The Analog and the Digital](https://www.youtube.com/watch?v=Lu5y8SMuzMs)
   - **Questions:**
-    1. What are the differences of making in digital vs. analog space?
-    2. How do you create the unexpected with standard tools?
+    a. What are the differences of making in digital vs. analog space?
+    b. How do you create the unexpected with standard tools?
   2. Ed Catmull and Fred Parke: [A Computer Animated Hand](https://vimeo.com/16292363)
   3. Pixar: [Andre & Wally B](https://www.youtube.com/watch?v=2doT5t51HGs)
   4. Vladimir Loginov: [Bee](https://vimeo.com/44228708)
