@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Introduction to ART314: 3D Modeling, Rendering, and Animation
 category: test
 comments: true
