@@ -3,6 +3,7 @@ layout: post
 title: Exercise 3 Due
 category: exercise
 comments: true
+published: false
 ---
 
 [Exercise 3 Documentation]({{ site.baseurl }}/exercises/maya-texturing.html)

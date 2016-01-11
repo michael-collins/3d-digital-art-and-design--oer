@@ -3,6 +3,7 @@ layout: post
 title: Exercise 5 Due
 category: exercise
 comments: true
+published: false
 ---
 
 [Exercise 5 Documentation]({{ site.baseurl }}/exercises/maya-layered-shaders.html)

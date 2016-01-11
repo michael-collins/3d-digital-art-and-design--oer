@@ -3,6 +3,7 @@ layout: post
 title: Exercise 2 Due
 category: exercise
 comments: true
+published: false
 ---
 
 [Exercise 2 Documentation]({{ site.baseurl }}/exercises/maya-modeling.html)

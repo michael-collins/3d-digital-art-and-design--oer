@@ -3,6 +3,7 @@ layout: post
 title: Exercise 6 Due
 category: exercise
 comments: true
+published: false
 ---
 
 [Exercise 6 Documentation]({{ site.baseurl }}/exercises/maya-render-passes-in-mentalray.html)

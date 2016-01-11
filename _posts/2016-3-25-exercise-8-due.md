@@ -3,6 +3,7 @@ layout: post
 title: Exercise 8 Due
 category: exercise
 comments: true
+published: false
 ---
 
 [Exercise 8 Documentation]({{ site.baseurl }}/exercises/maya-rigging.html)

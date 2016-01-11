@@ -3,6 +3,7 @@ layout: post
 title: Exercise 10 Due
 category: test
 comments: true
+published: false
 ---
 
 [Exercise 10 Documentation]({{ site.baseurl }}/exercises/maya-dynamics.html)

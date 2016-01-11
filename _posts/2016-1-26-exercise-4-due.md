@@ -3,6 +3,7 @@ layout: post
 title: Exercise 4 Due
 category: exercise
 comments: true
+published: false
 ---
 
 [Exercise 4 Documentation]({{ site.baseurl }}/exercises/maya-mentalray-lighting-and-rendering.html)
