@@ -30,17 +30,18 @@ Tell us about yourself
 <section data-markdown>
 ##What is this class about?
 
-This is an __**art**__ class where we use indistry standard design tools.
+1. This is an __**art**__ class
+2. We also happen to use indistry standard design tools.
 
-Theme prompts require that you will take novel and creative approaches to visual and conceptual investigations. Your ability to be a creative problem solver is more important than your ability to model or texture.
+>Theme prompts require that you will take novel and creative approaches to visual and conceptual investigations. Your ability to be a creative problem solver is more important than your ability to model or texture.
 
 </section>
 <section data-markdown>
-**Q: Can I make game environments, characters, short films, etc?**
+**Question:** Can I make game environments, characters, short films, etc?
 
-**A:** Yup!
+**Answer:** Yup!
 
-The projects in this class support your individual creative interests. How you solve for the project themes are up to you, as long as they are within the constraints of the project, and projects are fairly open ended. Never do something just because you’ll think that I’ll like it. Take ownership of your work.
+>The projects in this class support your individual creative interests. How you solve for the project themes are up to you, as long as they are within the constraints of the project, and projects are fairly open ended. Never do something just because you’ll think that I’ll like it. Take ownership of your work.
 
 </section>
 <section data-markdown>
