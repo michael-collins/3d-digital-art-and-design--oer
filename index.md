@@ -9,9 +9,9 @@ comments: false
 {% capture nday %}{{ post.next.date | date: '%m%d%Y' }}{% endcapture %}
 
 {% if day != nday %}
-<h5 class="date">{{ post.date | date: "%A, %B %e, %Y" }}</h5>
+<h5 class="date">{{ post.date | date: "%A, %B %e, %Y" }}
 {% endif %}
-<h6><a href="{{ post.url | prepend: site.baseurl }}"><span class="topic-title">{{ post.title }}</span></a></h6>
+<a href="{{ post.url | prepend: site.baseurl }}"><span class="post-title">: {{ post.title }}</span></a></h5>
 {{ post.content }}
 <hr>
 
