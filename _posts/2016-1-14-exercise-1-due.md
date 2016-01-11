@@ -7,4 +7,4 @@ comments: true
 
 [Exercise 1 Documentation](exercises/maya-image-planes-for-modeling.html)
 
-[Exercise 1 Dropbox](https://dropbox.psu.edu)
+**Upload by 6pm:** [Exercise 1 Dropbox](https://psu.box.com/signup/collablink/d_6058054237/11de68ae6b680c)
