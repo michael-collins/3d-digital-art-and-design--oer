@@ -1,34 +1,30 @@
 ---
-layout: post
-title: Introduction to ART314: 3D Modeling, Rendering, and Animation
-category: test
-comments: true
-excerpt: Today we will discuss the syllabus, look at Autodesk Maya's interface and we'll look at the first assignment.
+published: false
 ---
 
-###Today's schedule
+
+###Schedule
 
 1. Introduction Presentation
 2. Syllabus
 3. Course Schedule
 4. Course Website
-5. In Class Demo: Autodesk Maya
-  * Maya Setup
+5. In Class: Autodesk Maya Introduction
+  * **Maya Setup**
     - Project Folder (Root Directory)
     - Create project data folders
-  * Autosave Preference
+  * **Autosave Preference**
     - Preferences → Files/Projects → AutoSave
-  * Translate Tools
+  * **Translate Tools**
     - Move
     - Rotate
     - Scale
-  * Viewport and Layouts
-    - Customize Panels
+  * **Viewport and Layouts**
     - Context Menu and Selection Modes
-  * Timeline
+  * **Timeline**
     - Keyframes
     - Timeline Slider
-* Attribute Editor, Channel Box, Layer Editor
-* Tool Shelves, Menu Set Mode, Menu Items
-* Hypershade
+  * **Editors**
+    - Hypershade, Attribute Editor, Channel Box, Layer Editor
+    - Tool Shelves, Menu Set Mode, Menu Items
 6. Assignment
