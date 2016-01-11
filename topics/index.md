@@ -2,6 +2,7 @@
 layout: topic
 title: Topics
 subtitle: Listing
+comments: false
 ---
 <div class="topics">
     {% for topic in site.topics %}
