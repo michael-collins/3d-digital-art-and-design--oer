@@ -26,9 +26,9 @@ article.post .post-date {
     font-size: 2rem;
 	border-top: 0.125rem #ccc solid;
     padding-bottom: 2rem;
-    padding-top:3rem;
+    padding-top: 3rem;
 }
-article.post .post-title {
+article.post h5.post-title {
     font-size: 1.5rem;
 }
 article.post .post-content {
