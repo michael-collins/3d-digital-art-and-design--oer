@@ -24,10 +24,17 @@ a.oer-title {
 /* Posts */
 article.post .post-date {
     font-size: 1.25rem;
+	border-top: 0.125rem;
+    padding-bottom: 2rem;
 }
 article.post .post-title {
     font-size: 1rem;
 }
 article.post .post-content {
-	margin-left:1rem;
+	margin-left: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 3rem;
+}
+article.post .post-content p {
+    font-size: 0.8rem;
 }
