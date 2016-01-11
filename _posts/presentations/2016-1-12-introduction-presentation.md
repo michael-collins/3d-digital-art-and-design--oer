@@ -10,8 +10,7 @@ excerpt: Introduction to the course. We will discuss the syllabus, Autodesk Maya
 ---
 <section data-markdown>
 ##Introduction to ART314: 3D Modeling, Rendering, and Animation
-**Instructor:** [Michael Collins](https://sova.psu.edu/profile/michaelcollins) | msc227@psu.edu | <a href="https://twitter.com/_mike_collins" class="twitter-follow-button" data-show-count="false">Follow @_mike_collins</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+**Instructor:** [Michael Collins](https://sova.psu.edu/profile/michaelcollins) | msc227@psu.edu | {{% include twitter-follow.html %}}
 
 </section>
 <section data-markdown>
