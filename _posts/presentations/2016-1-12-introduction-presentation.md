@@ -2,7 +2,7 @@
 layout: slide
 title: Introduction Presentation
 categories: presentation
-theme: black
+theme: blood
 transition: slide
 comments: true
 published: true
