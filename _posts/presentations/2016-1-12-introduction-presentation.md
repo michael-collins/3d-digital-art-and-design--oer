@@ -46,10 +46,10 @@ Tell us about yourself
 </section>
 <section data-markdown>
 ##Expectations _part 1_
-- Be in class on time
-- Read the attendance policy, it’s not joking
-- Meet deadlines (missed proj milestones will will not be graded). The highest grade for a late exercise is a C. 
-- **Stop looking at all 'yer social medias!** Unless it's research or for communication on work. (for those of you currently logged in, please log out :).
+- Class starts at 2:30pm, be here 5 minutes early.
+- Attendance is mandatory
+- Assignment deadlines are firm unless we decide to change them ahead of time
+- **Stop looking at all 'yer social medias!** Unless it's research or group communication on work. (for those of you currently logged in, please log out :).
 
 </section>
 <section data-markdown>

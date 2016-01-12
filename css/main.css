@@ -41,5 +41,5 @@ article.post .post-content p {
 }
 /*presentations*/
 .reveal {
-	font-size:1.85rem;
+	font-size:1.2em !important;
 }
