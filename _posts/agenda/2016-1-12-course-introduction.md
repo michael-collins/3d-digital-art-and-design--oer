@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Introduction
-category: lecture
+title: Coure introduction
+category: agenda
 comments: true
 published: true
 excerpt: Introduction to the course. We will discuss the syllabus, Autodesk Maya's interface, and introduce the first assignment.
@@ -9,10 +9,10 @@ excerpt: Introduction to the course. We will discuss the syllabus, Autodesk Maya
 
 ###Schedule
 
-1. Introduction Presentation
-2. Syllabus
-3. Course Schedule
-4. Course Website
+1. Course Website
+2. Introduction Presentation
+3. Syllabus
+4. Course Schedule
 5. In Class: Autodesk Maya Introduction
   - **Maya Setup**
     - Project Folder (Root Directory)
@@ -31,4 +31,4 @@ excerpt: Introduction to the course. We will discuss the syllabus, Autodesk Maya
   - **Editors**
     - Hypershade, Attribute Editor, Channel Box, Layer Editor
     - Tool Shelves, Menu Set Mode, Menu Items
-6. Assignment
+6. Exercise
