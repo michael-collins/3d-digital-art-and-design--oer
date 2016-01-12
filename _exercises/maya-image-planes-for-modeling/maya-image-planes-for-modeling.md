@@ -12,7 +12,7 @@ In this exercise, you will set up modeling reference planes. Three-view referenc
 
 ###Tutorials:
 
-[Lynda.com - Maya’s Interface](http://www.lynda.com/Maya-tutorials/Maya-Essentials-1-Interface-Organization/96714-2.html)
+[Lynda.com - Maya 2016 Interface](http://www.lynda.com/Maya-tutorials/Overview-Maya-interface/370380/413182-4.html)
 
 [Creating Modeling Reference Planes in Maya](https://docs.google.com/document/d/10lqkDYPs3Qx6IcH6Z25TYVpU7M85QtxQMJ0P6VoBHwg/edit)
 
