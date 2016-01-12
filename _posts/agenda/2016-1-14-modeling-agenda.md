@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Introduction to modeling
-category: lecture
+title: Modeling
+category: agenda
 comments: false
 published: true
 excerpt: Introduction to modeling in Autodesk Maya.
 ---
-###Schedule
+###Agenda
 
 1. **Video Screening**
   - [The Analog and the Digital](https://www.youtube.com/watch?v=Lu5y8SMuzMs)
