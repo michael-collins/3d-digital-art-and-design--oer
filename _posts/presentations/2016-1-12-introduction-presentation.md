@@ -94,7 +94,7 @@ I understand that it can be hard to make it to every single class. But please sh
  
 </section>
 <section data-background="http://i.giphy.com/14qOw2zLzdRFXa.gif">
-<strong>This will be you if you don't heed my warnings!**</strong>
+<strong>This student didn't save iteratively...</strong>
 </section>
 <section data-markdown>
 ##More Technology
