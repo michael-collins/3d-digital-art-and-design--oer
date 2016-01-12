@@ -30,7 +30,9 @@ In this exercise, you will set up modeling reference planes. Three-view referenc
 
 2) Follow the tutorial, [Creating Modeling Reference Planes in May*a](https://docs.google.com/document/d/1IS2te9ZnpywXrXxbYN-3mbyK20YfAaePblz-CMXpfMY/edit?usp=sharing).
 
-3) After you have completed the tutorial, double-click on your _ex_1_xyz.zip_ file to ensure that it looks like this: ![Example folder structure]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/images/image_0.jpg)
+3) After you have completed the tutorial, double-click on your _ex_1_xyz.zip_ file to ensure that it looks like the following image:
+
+![Example folder structure]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/images/image_0.jpg)
 
 6) Upload the .zip file to the submission dropbox
 
