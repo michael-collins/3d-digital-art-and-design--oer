@@ -170,5 +170,42 @@ In order to receive consideration for reasonable accommodations, you must contac
 An integral aspect this class is viewing, discussing, and responding to your own work and the work of your peers. The group critique is at all times a comfortable and constructive environment designed for in­depth analysis and evaluation. Through this process, each student will learn how to respond and challenge the formal (aesthetic), conceptual (idea) and interpretative (understanding) characteristics of any given artwork. Most importantly, the critique environment will push you to question and resolve your own artistic production. As with producing work, there are unlimited ways in which art can be approached and considered. If your assignment is not complete for the critique, your grade on that assignment will be lowered by one full letter for each class day it is late. You are required to attend critiques even if your work is not complete.
 
 * * *
+##Calendar
 
+| Date      | Topic                                                       | Due                                                  | Assigned                                          |
+|-----------|-------------------------------------------------------------|------------------------------------------------------|---------------------------------------------------|
+| 1/12/2015 | Course Introduction, Maya Interface, Reference Planes       |                                                      | Exercise 1 - Ref. Planes                          |
+| 1/14/2015 | Modeling                                                    | Exercise 1 - Ref. Planes                             | Exercise 2 - Modeling                             |
+| 1/19/2015 | Texturing, UV Layouts                                       | Exercise 2 - Modeling                                | Exercise 3 - Texturing                            |
+| 1/21/2015 | Lighting                                                    | Exercise 3 - Texturing                               | Exercise 4 - Lighting/Rendering                   |
+| 1/26/2015 | Shaders, Masks                                              | Exercise 4 - Lighting/Rendering                      | Exercise 5 - Layered Shaders                      |
+| 1/28/2015 | Exercise 5 work day                                         |                                                      |                                                   |
+| 2/2/2015  | Render Passes, compositing                                  | Exercise 5 - Layered Shaders                         | Exercise 6 - Render Passes                        |
+| 2/4/2015  | Project 1 Introduction                                      |                                                      | Project 1                                         |
+| 2/9/2015  | Project 1 Concept Discussions, Ideas and Research           | Exercise 6 - Render Passes, Project 1: Five Concepts |                                                   |
+| 2/11/2015 | Project 1 Work Day                                          | Project 1: Concept Images,                           |                                                   |
+| 2/16/2015 | Project 1 Work Day, Color and Composition                   | Project 1: Statement Draft                           |                                                   |
+| 2/18/2015 | Project 1 Work Day                                          | Project 1: Wireframes                                |                                                   |
+| 2/23/2015 | Project 1 Work Day                                          |                                                      |                                                   |
+| 2/25/2015 | Project 1 Work Day                                          |                                                      |                                                   |
+| 3/2/2015  | Project 1 Crits                                             |                                                      | Project 2: Soft Introduction                      |
+| 3/4/2015  | Project 1 Crits                                             | Project 1: Files                                     |                                                   |
+| 3/9/2015  | Spring Break                                                | -                                                    | -                                                 |
+| 3/11/2015 | Spring Break                                                | -                                                    | -                                                 |
+| 3/16/2015 | Animation                                                   |                                                      | Exercise 7 - Animation, Project 2 Re-introduction |
+| 3/18/2015 | Project 2 Concept Discussions, Exercise 9 Work Day, Rigging | Exercise 7 - Animation, Project 2: Concepts          | Exercise 8 - Rigging                              |
+| 3/23/2015 | Animated Textures, Batch Rendering                          | Exercise 8 - Rigging                                 | Exercise 9 - Animated Textures                    |
+| 3/25/2015 | Project 2: Storyboard Discussions, Dynamics                 | Project 2: Storyboards                               |                                                   |
+| 3/30/2015 | Project 2: Storyboard Discussions                           | Exercise 9 - Animated Textures                       | Exercise 10 - Dynamics                            |
+| 4/1/2015  | Project 2 Work Day, Editing and Compositing                 | Project 2: Statement                                 |                                                   |
+| 4/6/2015  | Project 2 Edited Playblasts Discussion, Work Day            | Project 2: Edited Playblasts, Exercise 10 - Dynamics |                                                   |
+| 4/8/2015  | Project 2: Edited Playblasts Discussion, Project 2 Work Day |                                                      |                                                   |
+| 4/13/2015 | Project 2 Work Day                                          |                                                      |                                                   |
+| 4/15/2015 | Project 2 Work Day                                          |                                                      |                                                   |
+| 4/20/2015 | Project 2 Work Day                                          | Project 2: Render Rocket Test Images                 |                                                   |
+| 4/22/2015 | Project 2 Work Day                                          |                                                      |                                                   |
+| 4/27/2015 | Project 2 Crits                                             | Project 2: Files                                     |                                                   |
+| 4/29/2015 | Project Crits                                               |                                                      |                                                   |
+
+* * *
 Art 314 Syllabus is Copyright Penn State University
