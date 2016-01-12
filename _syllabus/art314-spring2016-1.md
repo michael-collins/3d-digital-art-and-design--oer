@@ -162,3 +162,7 @@ In order to receive consideration for reasonable accommodations, you must contac
 
 ###Exam Policy
 An integral aspect this class is viewing, discussing, and responding to your own work and the work of your peers. The group critique is at all times a comfortable and constructive environment designed for in­depth analysis and evaluation. Through this process, each student will learn how to respond and challenge the formal (aesthetic), conceptual (idea) and interpretative (understanding) characteristics of any given artwork. Most importantly, the critique environment will push you to question and resolve your own artistic production. As with producing work, there are unlimited ways in which art can be approached and considered. If your assignment is not complete for the critique, your grade on that assignment will be lowered by one full letter for each class day it is late. You are required to attend critiques even if your work is not complete.
+
+* * *
+
+Art 314 Syllabus is Copyright Penn State University
