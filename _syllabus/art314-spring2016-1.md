@@ -48,6 +48,12 @@ course-description-link: http://bulletins.psu.edu/undergrad/courses/A/ART/314/20
 2. Portable Headphones with standard 3.5mm jack
 3. Sketchbook
 
+###Accounts
+
+Your PSU account allows you to access: box.psu.edu, lynda.psu.edu, angel.psu.edu
+
+Free access to pluralsight.com will be provided to access learning materials. You have the option to create an account on disqus.com if you choose to make comments on publically accessible course content. You will also be required to make a renderrocket.com account to access render credits.
+
 ###Software
 Autodesk software is free to students: [Autodesk.com](http://www.autodesk.com/education/home)
 
