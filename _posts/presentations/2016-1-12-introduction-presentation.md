@@ -182,7 +182,7 @@ Johnny Likens - [IRON MAN 3 : HUD + GFX PROCESS REEL](https://vimeo.com/66944464
 <section data-markdown>
 ##Up Next
 
-1. Syllabus and Schedule
+1. [Syllabus and Schedule](http://michael-collins.github.io/3d-digital-art-and-design--oer/syllabus/art-314-syllabus.html)
 2. Autodesk Maya Demo
 3. Assignment
 
