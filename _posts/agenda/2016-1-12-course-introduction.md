@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Coure introduction
+title: Introduction to ART314: 3D Modeling, Rendering, and Animation
 category: agenda
 comments: true
 published: true
