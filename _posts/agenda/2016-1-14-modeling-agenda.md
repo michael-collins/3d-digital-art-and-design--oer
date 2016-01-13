@@ -32,13 +32,14 @@ excerpt: Introduction to modeling in Autodesk Maya.
     - Typically causes render and rigging errors
   15. [Platonic Solid](https://www.youtube.com/watch?v=C36h00d7xGs)
 3. **Modeling Demo**
-   16. Extrude
-   17. Bevel
-   18. Split Polygons
-   19. [Subdivide](http://youtu.be/mX0NB9IyYpU?t=1m27s)    20. Quads
-     - Best for rendering, deformation, and general modeling
-   21. Mirror
-   22. Instance vs copy
-   23. Curve Tool (CV, EP)    24. Revolve, Bridge
-   25. Convert Nurbs to Polygons
+  16. Extrude
+  17. Bevel
+  18. Split Polygons
+  19. [Subdivide](http://youtu.be/mX0NB9IyYpU?t=1m27s)
+  20. Quads
+    - Best for rendering, deformation, and general modeling
+  21. Mirror
+  22. Instance vs copy
+  23. Curve Tool (CV, EP)    24. Revolve, Bridge
+  25. Convert Nurbs to Polygons
 4. Assignment
