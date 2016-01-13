@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introduction to ART314: 3D Modeling, Rendering, and Animation
+title: Introduction to ART 314 - 3D Modeling, Rendering, and Animation
 categories: agenda
 comments: true
 published: true
