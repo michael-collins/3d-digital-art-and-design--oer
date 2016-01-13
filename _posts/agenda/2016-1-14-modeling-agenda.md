@@ -22,14 +22,14 @@ excerpt: Introduction to modeling in Autodesk Maya.
   6. Quad
   7. Nurb
   8. nGon
-    - Avoid more than 4 edges to a polygon
+     - Avoid more than 4 edges to a polygon
   9. Curve
   10. Vertex
   11. Edge
   12. Face
   13. UV
   14. Non-manifold Geometry
-    - Typically causes render and rigging errors
+     - Typically causes render and rigging errors
   15. [Platonic Solid](https://www.youtube.com/watch?v=C36h00d7xGs)
 3. **Modeling Demo**
   16. Extrude
@@ -37,7 +37,7 @@ excerpt: Introduction to modeling in Autodesk Maya.
   18. Split Polygons
   19. [Subdivide](http://youtu.be/mX0NB9IyYpU?t=1m27s)
   20. Quads
-    - Best for rendering, deformation, and general modeling
+     - Best for rendering, deformation, and general modeling
   21. Mirror
   22. Instance vs copy
   23. Curve Tool (CV, EP)    24. Revolve, Bridge
