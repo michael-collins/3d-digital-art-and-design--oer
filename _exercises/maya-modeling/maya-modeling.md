@@ -81,23 +81,53 @@ Choose a single level to complete based on your level of experience with 3D tool
 
 **Example Folder Structure**
 
-![image alt text]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/images/image_0.jpg)
+```
+
+{{ page.submission-id }}-L1.zip
+└── {{ page.submission-id }}-L1
+    ├── sourceimages/
+    |   |
+    |   ├── objects-{{ page.submission-id }}.jpg
+    |   |
+    |   └── reference images/
+    |       |
+    |       ├── front.jpg
+    |       ├── side.jpg
+    |       └── top.jpg
+    |
+    ├── sound/
+    ├── scripts/
+    ├── scenes/
+    |   |
+    |   └── {{ page.submission-id }}.mb
+    |
+    ├── renderData/
+    ├── particles/
+    ├── movies/
+    ├── images/
+    ├── data/
+    ├── clips/
+    ├── cache/
+    ├── autosave/
+    └── assets/
+
+```
 
 ##Level 2:
 
 1) Watch Lynda tutorials on polygonal modeling.
 
-2) Obtain three randomly generated objects from [this website](http://www.randomlists.com/things). Include a screenshot of the website objects in your **_sourceimages_** folder called **_objects_{{page.submission-id}}}.jpg (or .png)_**
+2) Obtain three randomly generated objects from [this website](http://www.randomlists.com/things). Include a screenshot of the website objects in your **_sourceimages_** folder called **_objects-{{page.submission-id}}}.jpg (or .png)_**
 
 3) Create a new project folder with associated sub-folders (**File** → **Project Window** → **_Accept_**). Create a new scene for each object and save in the **_scenes_** folder.
 
 *Naming:*
 
-**_obj1_{{ page.submission-id }}_**
+**_obj1-{{ page.submission-id }}_**
 
-**_obj2_{{ page.submission-id }}_**
+**_obj2-{{ page.submission-id }}_**
 
-**_obj3_{{ page.submission-id }}_**
+**_obj3-{{ page.submission-id }}_**
 
 4) Create 3 reference image planes for each object with pencil and paper or in Photoshop. Set up the image reference planes in their respective scenes files. Ensure they are square. Place them in the **_sourceimages_** → **_referenceimages_** folder. Instructions for aligning reference images in Photoshop: [Link](http://www.webdesign.org/photoshop/photoshop-basics/cutting-up-blueprints-for-3d-modelling.4970.html)
 
@@ -135,7 +165,45 @@ Choose a single level to complete based on your level of experience with 3D tool
 
 **Example Folder Structure**
 
-![image alt text]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/images/image_2.jpg)
+```
+
+{{ page.submission-id }}-L2.zip
+└── {{ page.submission-id }}-L2
+    ├── sourceimages/
+    |   |
+    |   ├── objects-{{ page.submission-id }}.jpg
+    |   |
+    |   └── referenceimages/
+    |       |
+    |       ├── obj1-front-{{ page.submission-id }}.jpg
+    |       ├── obj1-side-{{ page.submission-id }}.jpg
+    |       ├── obj1-top-{{ page.submission-id }}.jpg
+    |       ├── obj2-front-{{ page.submission-id }}.jpg
+    |       ├── obj2-side-{{ page.submission-id }}.jpg
+    |       ├── obj2-top-{{ page.submission-id }}.jpg
+    |       ├── obj3-front-{{ page.submission-id }}.jpg
+    |       ├── obj3-side-{{ page.submission-id }}.jpg
+    |       └── obj3-top-{{ page.submission-id }}.jpg
+    |
+    ├── sound/
+    ├── scripts/
+    ├── scenes/
+    |   |
+    |   ├── obj1-{{ page.submission-id }}.mb
+    |   ├── obj2-{{ page.submission-id }}.mb
+    |   └── obj3-{{ page.submission-id }}.mb
+    |
+    ├── renderData/
+    ├── particles/
+    ├── movies/
+    ├── images/
+    ├── data/
+    ├── clips/
+    ├── cache/
+    ├── autosave/
+    └── assets/
+
+```
 
 ###Level 3:
 
@@ -145,9 +213,9 @@ Choose a single level to complete based on your level of experience with 3D tool
 
 3) Your ZBrush model should be of similar refinement to the model in Digital Creature Creation, by the end of Lesson 3.
 
-4) Take a screenshot of your model and save as **_{{ page.submission-id }}.png_**.
+4) Take a screenshot of your model and save as **_{{ page.submission-id }}.png_** in the images folder.
 
-5) Save your image in a project folder **_{{ page.submission-id }}_**.
+5) Save your image in a project folder **_{{ page.submission-id }}-L3_**.
 
 6) Compress the folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}-L3.zip._**
 
@@ -155,12 +223,34 @@ Choose a single level to complete based on your level of experience with 3D tool
 
 8) Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
 
+
 **Example Folder Structure**
 
-![image alt text]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/images/image_3.jpg)
+```
+
+{{ page.submission-id }}-L3.zip
+└── {{ page.submission-id }}-L3
+    ├── sourceimages
+    ├── sound
+    ├── scripts
+    ├── scenes
+    |   └──{{ page.submission-id }}.mb
+    ├── renderData
+    ├── particles
+    ├── movies
+    ├── images
+    ├── data
+    ├── clips
+    ├── cache
+    ├── autosave
+    └── assets
+
+```
 
 * * *
 
 ##Grading
 Your grade will be assessed according to the [Exercise Grading Criteria]({{ site.baseurl }}/grading). 
+
+
 
