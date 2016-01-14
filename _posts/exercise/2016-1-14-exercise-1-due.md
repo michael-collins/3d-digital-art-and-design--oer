@@ -2,9 +2,10 @@
 layout: post
 title: Exercise 1 Due
 categories: exercise
-comments: true
+comments: false
 published: true
-excerpt: 
+excerpt:
+
 ---
 
 [Exercise 1 Documentation]({{ site.baseurl }}/exercises/maya-image-planes-for-modeling.html)

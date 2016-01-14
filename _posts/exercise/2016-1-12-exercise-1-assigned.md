@@ -2,7 +2,7 @@
 layout: post
 title: Exercise 1 Assigned
 categories: exercise
-comments: false
+comments: true
 published: true
 excerpt: 
 ---
