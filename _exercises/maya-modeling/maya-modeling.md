@@ -14,26 +14,20 @@ In this exercise, you will gain basic understanding of modeling fundamentals. Th
 
 **Level 1: Novice Students**
 
-[Lynda.com - Modeling with Polygons](http://www.lynda.com/Maya-tutorials/Maya-Essentials-2-Polygonal-Modeling-Techniques/96715-2.html)
-
+[Lynda.com - Modeling with Polygons](http://www.lynda.com/Maya-tutorials/Maya-Essentials-2-Polygonal-Modeling-Techniques/96715-2.html)  
 [Lynda.com - Modeling with Nurbs](http://www.lynda.com/Maya-tutorials/Maya-Essentials-3-NURBS-Modeling-Techniques/96716-2.html)
 
 **Level 2: Intermediate Students**
 
-[Lynda.com - Modeling with Polygons](http://www.lynda.com/Maya-tutorials/Maya-Essentials-2-Polygonal-Modeling-Techniques/96715-2.html)
-
-[Lynda.com - Modeling with Nurbs](http://www.lynda.com/Maya-tutorials/Maya-Essentials-3-NURBS-Modeling-Techniques/96716-2.html)
-
-[Tutorial - AO](https://www.youtube.com/watch?v=v3SXSffuvnk)
-
+[Lynda.com - Modeling with Polygons](http://www.lynda.com/Maya-tutorials/Maya-Essentials-2-Polygonal-Modeling-Techniques/96715-2.html)  
+[Lynda.com - Modeling with Nurbs](http://www.lynda.com/Maya-tutorials/Maya-Essentials-3-NURBS-Modeling-Techniques/96716-2.html)  
+[Tutorial - AO](https://www.youtube.com/watch?v=v3SXSffuvnk)  
 [Contour Rendering](https://vimeo.com/64291535)
 
 **Level 3: Experienced Students**
 
-[Lynda.com - ZBrush Essential Training](http://www.lynda.com/ZBrush-4-tutorials/Essential-Training/76980-2.html) (Lessons 1- 7)
-
-[Lynda.com - ZBrush Character](http://www.lynda.com/3D-Animation-Character-Design-tutorials/Digital-Creature-Creation-in-ZBrush-Photoshop-and-Maya/83781-2.html) (Lessons 1 - 3)
-
+[Lynda.com - ZBrush Essential Training](http://www.lynda.com/ZBrush-4-tutorials/Essential-Training/76980-2.html) (Lessons 1- 7)  
+[Lynda.com - ZBrush Character](http://www.lynda.com/3D-Animation-Character-Design-tutorials/Digital-Creature-Creation-in-ZBrush-Photoshop-and-Maya/83781-2.html) (Lessons 1 - 3)  
 [Digital Tutors - Introduction to Z-Brush](http://www.digitaltutors.com/tutorial/1093-Introduction-to-ZBrush)
 
 **Reference Websites**
@@ -42,12 +36,10 @@ In this exercise, you will gain basic understanding of modeling fundamentals. Th
 
 **More Information:**
 
-Textbook: Introducing Autodesk Maya 2016
-
+Textbook: Introducing Autodesk Maya 2016  
 Chapter 4 and Chapter 5
 
-Textbook: Mastering Autodesk Maya 2016
-
+Textbook: Mastering Autodesk Maya 2016  
 Chapter 3 and Chapter 4
 
 
@@ -57,27 +49,20 @@ Choose a single level to complete based on your level of experience with 3D tool
 
 ###Level 1:
 
-1) Watch tutorials from Lynda on modeling with Polygons and Nurbs.
-
-2) Download [these project files](https://docs.google.com/file/d/0BzXX6rmROMNWandfd3hKLXRCdmM/edit) and use the scene file as the starting point and rename the project folder to : **_{{ page.submission-id }}_**.
-
-3) Set your project to the downloaded folder by choosing **File** → **Set Project**.
-
-4) Model the airplane from the reference images with your newly learned modeling skills with polygons. (Be careful not to accidentally create nurbs primitives when modeling)
+1. Watch tutorials from Lynda on modeling with Polygons and Nurbs.
+2. Download [these project files](https://docs.google.com/file/d/0BzXX6rmROMNWandfd3hKLXRCdmM/edit) and use the scene file as the starting point and rename the project folder to : **_{{ page.submission-id }}_**.
+3. Set your project to the downloaded folder by choosing **File** → **Set Project**.
+4. Model the airplane from the reference images with your newly learned modeling skills with polygons. (Be careful not to accidentally create nurbs primitives when modeling)
   - Skills to practice include:
      - ploygonal edge flow
      - extruding polygon faces
      - inserting edge loops
      - moveing, rotating, and scaling vertecies, edges, and faces
      - mirroring and duplicating geometry
-
-5) Save your scene as **_{{ page.submission-id }}_** in the scenes folder.
-
-6) Compress the project folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}-L1.zip._**
-
-7) Upload the .zip file to the [submission dropbox]({{ page.submission-id }})
-
-8) Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
+5. Save your scene as **_{{ page.submission-id }}_** in the scenes folder.
+6. Compress the project folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}-L1.zip._**
+7. Upload the .zip file to the [submission dropbox]({{ page.submission-id }})
+8. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
 
 **Example Folder Structure**
 
@@ -115,50 +100,30 @@ Choose a single level to complete based on your level of experience with 3D tool
 
 ##Level 2:
 
-1) Watch Lynda tutorials on polygonal modeling.
-
-2) Obtain three randomly generated objects from [this website](http://www.randomlists.com/things). Include a screenshot of the website objects in your **_sourceimages_** folder called **_objects-{{page.submission-id}}}.jpg (or .png)_**
-
-3) Create a new project folder with associated sub-folders (**File** → **Project Window** → **_Accept_**). Create a new scene for each object and save in the **_scenes_** folder.
-
-*Naming:*
-
-**_obj1-{{ page.submission-id }}_**
-
-**_obj2-{{ page.submission-id }}_**
-
-**_obj3-{{ page.submission-id }}_**
-
-4) Create 3 reference image planes for each object with pencil and paper or in Photoshop. Set up the image reference planes in their respective scenes files. Ensure they are square. Place them in the **_sourceimages_** → **_referenceimages_** folder. Instructions for aligning reference images in Photoshop: [Link](http://www.webdesign.org/photoshop/photoshop-basics/cutting-up-blueprints-for-3d-modelling.4970.html)
-
-*Naming:*
-
-**_obj1-side-{{ page.submission-id }}.jpg_**  
-**_obj1-front-{{ page.submission-id }}.jpg_**  
-**_obj1-top-{{ page.submission-id }}.jpg_**  
-**_obj2-side-{{ page.submission-id }}.jpg_**
-
-**_obj2-front-{{ page.submission-id }}.jpg_**
-
-**_obj2-top-{{ page.submission-id }}.jpg_**
-
-**_obj3-side-{{ page.submission-id }}.jpg_**
-
-**_obj3-front-{{ page.submission-id }}.jpg_**
-
-**_obj3-top-{{ page.submission-id }}.jpg_**
-
-5) Create one polygonal model for each scene file from your set of randomly generated objects in Step 2. (You should be making three objects since you’ve created three scenes.)
-
-6) Capture the gesture of the objects with as little detail as needed to describe the shape. Do not "smooth" the objects. Focus on maintaining quads and [organized edgeflow](http://www.digitaltutors.com/lesson/15804-Edge-Flow). **See example image of a crowbar below:**
-
-![image alt text]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/images/image_1.jpg)
-
-7) Compress the project folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}-L2.zip._**
-
-8) Upload the .zip file to the [submission dropbox]({{ page.submission-id }})
-
-9) Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
+1. Watch Lynda tutorials on polygonal modeling.
+2. Obtain three randomly generated objects from [this website](http://www.randomlists.com/things). Include a screenshot of the website objects in your **_sourceimages_** folder called **_objects-{{page.submission-id}}}.jpg (or .png)_**
+3. Create a new project folder with associated sub-folders (**File** → **Project Window** → **_Accept_**). Create a new scene for each object and save in the **_scenes_** folder.
+  *Naming:*
+  **_obj1-{{ page.submission-id }}_**  
+  **_obj2-{{ page.submission-id }}_**  
+  **_obj3-{{ page.submission-id }}_**  
+4. Create 3 reference image planes for each object with pencil and paper or in Photoshop. Set up the image reference planes in their respective scenes files. Ensure they are square. Place them in the **_sourceimages_** → **_referenceimages_** folder. Instructions for aligning reference images in Photoshop: [Link](http://www.webdesign.org/photoshop/photoshop-basics/cutting-up-blueprints-for-3d-modelling.4970.html)
+  *Naming:*
+  **_obj1-side-{{ page.submission-id }}.jpg_**  
+  **_obj1-front-{{ page.submission-id }}.jpg_**  
+  **_obj1-top-{{ page.submission-id }}.jpg_**  
+  **_obj2-side-{{ page.submission-id }}.jpg_**  
+  **_obj2-front-{{ page.submission-id }}.jpg_**  
+  **_obj2-top-{{ page.submission-id }}.jpg_**  
+  **_obj3-side-{{ page.submission-id }}.jpg_**  
+  **_obj3-front-{{ page.submission-id }}.jpg_**  
+  **_obj3-top-{{ page.submission-id }}.jpg_**  
+5. Create one polygonal model for each scene file from your set of randomly generated objects in Step 2. (You should be making three objects since you’ve created three scenes.)
+6. Capture the gesture of the objects with as little detail as needed to describe the shape. Do not "smooth" the objects. Focus on maintaining quads and [organized edgeflow](http://www.digitaltutors.com/lesson/15804-Edge-Flow). **See example image of a crowbar below:**
+  ![image alt text]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/images/image_1.jpg)
+7. Compress the project folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}-L2.zip._**
+8. Upload the .zip file to the [submission dropbox]({{ page.submission-id }})
+9. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
 
 **Example Folder Structure**
 
@@ -204,22 +169,14 @@ Choose a single level to complete based on your level of experience with 3D tool
 
 ###Level 3:
 
-1) Watch tutorials from Lynda on modeling with ZBrush.
-
-2) Using the techniques learned in the Digital Creature Creation tutorials, create a **Vegetable Monster**. Creatively interpret what that means.
-
-3) Your ZBrush model should be of similar refinement to the model in Digital Creature Creation, by the end of Lesson 3.
-
-4) Take a screenshot of your model and save as **_{{ page.submission-id }}.png_** in the images folder.
-
-5) Save your image in a project folder **_{{ page.submission-id }}-L3_**.
-
-6) Compress the folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}-L3.zip._**
-
-7) Upload the .zip file to the [submission dropbox]({{ page.submission-id }})
-
-8) Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
-
+1. Watch tutorials from Lynda on modeling with ZBrush.
+2. Using the techniques learned in the Digital Creature Creation tutorials, create a **Vegetable Monster**. Creatively interpret what that means.
+3. Your ZBrush model should be of similar refinement to the model in Digital Creature Creation, by the end of Lesson 3.
+4. Take a screenshot of your model and save as **_{{ page.submission-id }}.png_** in the images folder.
+5. Save your image in a project folder **_{{ page.submission-id }}-L3_**.
+6. Compress the folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}-L3.zip._**
+7. Upload the .zip file to the [submission dropbox]({{ page.submission-id }})
+8. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
 
 **Example Folder Structure**
 
