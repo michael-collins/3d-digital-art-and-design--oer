@@ -11,7 +11,7 @@ comments: false
 {% if day != nday %}
 <h5 class="post-date">{{ post.date | date: "%A, %B %e, %Y" }}</h5>
 {% endif %}
-<h5 class="post-title"><a href="{{ post.url | prepend: site.baseurl }}"><span class="post-title">{{ post.title }}</span></a></h5><span class="post-type {{post.categories}}">( {{post.type}} )</span>
+<h5 class="post-title"><a href="{{ post.url | prepend: site.baseurl }}"><span class="post-title">{{ post.title }}</span></a></h5><span class="post-type {{post.categories}}">( {{post.categories}} )</span>
 <div class="post-content">{{ post.excerpt }}</div>
 {% endfor %}
 
