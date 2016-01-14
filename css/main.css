@@ -43,3 +43,8 @@ article.post .post-content p {
 .reveal {
 	font-size:1.2em !important;
 }
+
+span.post-type.exercise {
+	font-size:0.8em;
+	color:#7b7b7b;
+}
