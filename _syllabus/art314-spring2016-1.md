@@ -40,9 +40,6 @@ course-description-link: http://bulletins.psu.edu/undergrad/courses/A/ART/314/20
 ###Description
 [Undergraduate Bulletin]({{ page.course-description-link}})
 
-###Course Schedule
-<a href="{{ page.course-schedule-location | prepend: site.baseurl }}"><span class="syllabus-title">{{ page.semester }} {{ page.year }} Schedule</span></a>
-
 ###Equipment
 1. Hard Drive: Minimum capacity: 100gig, Type: SSD or 7200rpm HDD, Interface: USB 2/3 or Thunderbolt.
 2. Portable Headphones with standard 3.5mm jack
