@@ -133,12 +133,9 @@ Choose a single level to complete based on your level of experience with 3D tool
 
 *Naming:*
 
-**_obj1-side-{{ page.submission-id }}.jpg_**
-
-**_obj1-front-{{ page.submission-id }}.jpg_**
-
-**_obj1-top-{{ page.submission-id }}.jpg_**
-
+**_obj1-side-{{ page.submission-id }}.jpg_**  
+**_obj1-front-{{ page.submission-id }}.jpg_**  
+**_obj1-top-{{ page.submission-id }}.jpg_**  
 **_obj2-side-{{ page.submission-id }}.jpg_**
 
 **_obj2-front-{{ page.submission-id }}.jpg_**
