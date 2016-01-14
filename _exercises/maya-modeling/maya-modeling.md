@@ -2,13 +2,15 @@
 title: Maya Modeling
 subtitle: 
 layout: exercise
+submission-id: modeling-YOURSTUDENTID
+assignment-dropbox: https://psu.box.com/signup/collablink/d_6058204285/11915a00eb1b89
 ---
 
 In this exercise, you will gain basic understanding of modeling fundamentals. There are different tutorials and exercise submission requirements for three experience levels. Choose the experience level that matches your own.
 
 ##Learning Resources
 
-###Tutorials:**
+###Tutorials:
 
 **Level 1: Novice Students**
 
@@ -32,6 +34,8 @@ In this exercise, you will gain basic understanding of modeling fundamentals. Th
 
 [Lynda.com - ZBrush Character](http://www.lynda.com/3D-Animation-Character-Design-tutorials/Digital-Creature-Creation-in-ZBrush-Photoshop-and-Maya/83781-2.html) (Lessons 1 - 3)
 
+[Digital Tutors - Introduction to Z-Brush](http://www.digitaltutors.com/tutorial/1093-Introduction-to-ZBrush)
+
 **Reference Websites**
 
 [Random Objects Generator](http://www.randomlists.com/things)
@@ -49,25 +53,31 @@ Chapter 3 and Chapter 4
 
 ##Steps to Completion
 
-**Choose a single level to complete based on your level of experience with 3D tools. If you are a novice, choose Level 1. If you have some experience, choose Level 2. If you are very experienced with 3D tools, choose Level 3.**
+Choose a single level to complete based on your level of experience with 3D tools. If you are a novice, choose Level 1. If you have some experience, choose Level 2. If you are very experienced with 3D tools, choose Level 3.
 
 ###Level 1:
 
 1) Watch tutorials from Lynda on modeling with Polygons and Nurbs.
 
-2) Download [these project files](https://docs.google.com/file/d/0BzXX6rmROMNWandfd3hKLXRCdmM/edit) and use the scene file as the starting point and rename the project folder to : **_ex_2_yourstudentID_L1_**.
+2) Download [these project files](https://docs.google.com/file/d/0BzXX6rmROMNWandfd3hKLXRCdmM/edit) and use the scene file as the starting point and rename the project folder to : **_{{ page.submission-id }}_**.
 
 3) Set your project to the downloaded folder by choosing **File** → **Set Project**.
 
-4) Model the airplane from the reference images to the best of your ability. The final mesh should be in polygons.
+4) Model the airplane from the reference images with your newly learned modeling skills with polygons. (Be careful not to accidentally create nurbs primitives when modeling)
+  - Skills to practice include:
+     - ploygonal edge flow
+     - extruding polygon faces
+     - inserting edge loops
+     - moveing, rotating, and scaling vertecies, edges, and faces
+     - mirroring and duplicating geometry
 
-5) Save your scene as **_ex_2_yourstudentID_L1_** in the scenes folder.
+5) Save your scene as **_{{ page.submission-id }}_** in the scenes folder.
 
-6) Compress the project folder once you’ve completed the tutorial and rename it **_ex_2_yourstudentID_L1.zip._**
+6) Compress the project folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}-L1.zip._**
 
-7) Upload the .zip file to Lore → Calendar → Exercise 2.
+7) Upload the .zip file to the [submission dropbox]({{ page.submission-id }})
 
-8) Download and unzip the file that you uploaded to ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded as a late submission, or a 50% reduction in your grade.
+8) Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
 
 **Example Folder Structure**
 
@@ -75,103 +85,53 @@ Chapter 3 and Chapter 4
 
 ##Level 2:
 
-1) Watch tutorials from Lynda on modeling.
+1) Watch Lynda tutorials on polygonal modeling.
 
-2) Obtain three randomly generated objects from [this website](http://www.randomlists.com/things). Include a screenshot of the website objects in your **_sourceimages_** folder called **_objects_ex_2_yourstudentID_L2.jpg (or .png)_**
+2) Obtain three randomly generated objects from [this website](http://www.randomlists.com/things). Include a screenshot of the website objects in your **_sourceimages_** folder called **_objects_{{page.submission-id}}}.jpg (or .png)_**
 
-3) Save each three scenes folder.
-
-*Naming:*
-
-**_obj1_ex_2_yourstudentID_L2_**
-
-**_obj2_ex_2_yourstudentID_L2_**
-
-**_obj3_ex_2_yourstudentID_L2_**
-
-4) Draw 3 image planes for each object and set up the image reference planes in their respective Maya scene. Ensure they are square. Place them in the **_sourceimages → referenceimages_** folder. Instructions for aligning reference images in Photoshop: [Link](http://www.webdesign.org/photoshop/photoshop-basics/cutting-up-blueprints-for-3d-modelling.4970.html)
+3) Create a new project folder with associated sub-folders (**File** → **Project Window** → **_Accept_**). Create a new scene for each object and save in the **_scenes_** folder.
 
 *Naming:*
 
-**_obj1_side_ex_2_yourstudentID_L2.jpg_**
+**_obj1_{{ page.submission-id }}_**
 
-**_obj1_front_ex_2_yourstudentID_L2.jpg_**
+**_obj2_{{ page.submission-id }}_**
 
-**_obj1_top_ex_2_yourstudentID_L2.jpg_**
+**_obj3_{{ page.submission-id }}_**
 
-**_obj2_side_ex_2_yourstudentID_L2.jpg_**
+4) Create 3 reference image planes for each object with pencil and paper or in Photoshop. Set up the image reference planes in their respective scenes files. Ensure they are square. Place them in the **_sourceimages_** → **_referenceimages_** folder. Instructions for aligning reference images in Photoshop: [Link](http://www.webdesign.org/photoshop/photoshop-basics/cutting-up-blueprints-for-3d-modelling.4970.html)
 
-**_obj2_front_ex_2_yourstudentID_L2.jpg_**
+*Naming:*
 
-**_obj2_top_ex_2_yourstudentID_L2.jpg_**
+**_obj1-side-{{ page.submission-id }}.jpg_**
 
-**_obj3_side_ex_2_yourstudentID_L2.jpg_**
+**_obj1-front-{{ page.submission-id }}.jpg_**
 
-**_obj3_front_ex_2_yourstudentID_L2.jpg_**
+**_obj1-top-{{ page.submission-id }}.jpg_**
 
-**_obj3_top_ex_2_yourstudentID_L2.jpg_**
+**_obj2-side-{{ page.submission-id }}.jpg_**
 
-5) Create one polygonal object for each scene file from your set of randomly generated objects in Step 2. (You should be making three objects since you’ve created three scenes.)
+**_obj2-front-{{ page.submission-id }}.jpg_**
 
-6) Capture the gesture of the objects with as little detail as needed to describe the shape. Do not smooth the object. Focus on maintaining quads and [organized edgeflow](http://www.digitaltutors.com/lesson/15804-Edge-Flow). **See example image of a crowbar below:**
+**_obj2-top-{{ page.submission-id }}.jpg_**
+
+**_obj3-side-{{ page.submission-id }}.jpg_**
+
+**_obj3-front-{{ page.submission-id }}.jpg_**
+
+**_obj3-top-{{ page.submission-id }}.jpg_**
+
+5) Create one polygonal model for each scene file from your set of randomly generated objects in Step 2. (You should be making three objects since you’ve created three scenes.)
+
+6) Capture the gesture of the objects with as little detail as needed to describe the shape. Do not "smooth" the objects. Focus on maintaining quads and [organized edgeflow](http://www.digitaltutors.com/lesson/15804-Edge-Flow). **See example image of a crowbar below:**
 
 ![image alt text]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/images/image_1.jpg)
 
-7) Add an ambient occlusion surface shader to your model and create a backdrop: [Tutorial - AO](https://www.youtube.com/watch?v=v3SXSffuvnk)
+7) Compress the project folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}-L2.zip._**
 
-8) Enable the contour rendering: [Tutorial - Contour Rendering](https://vimeo.com/64291535)
+8) Upload the .zip file to the [submission dropbox]({{ page.submission-id }})
 
-**NOTE: Read description of video for Maya’s Rendering needs.**
-
-9) Enable Mental Ray as the rendering engine in the render settings.
-
-10) Match the following render settings:
-
-Render using **Mental Ray**
-
-**Quality Tab**
-
-1. Quality: 3
-
-2. Min Sample: 10
-
-3. Max Samples: 100
-
-**Features Tab**
-
-1. Shadows: Checked
-
-2. Raytracing: Checked
-
-3. Final Gathering: Checked
-
-4. Ambient Occlusion; Checked
-
-5. Contours: Enable Contour Rendering: Checked
-
-**Common Tab**
-
-1. Image Format: JPEG (jpg)
-
-2. Presets: HD 540
-
-3. Maintain Width and Height Ratio: Checked
-
-11) Render three images to the **_images_** folder.
-
-*Naming:*
-
-**_render1_ex_2_yourstudentID_L2.jpg_**
-
-**_render2_ex_2_yourstudentID_L2.jpg_**
-
-**_render3_ex_2_yourstudentID_L2.jpg_**
-
-12) Compress the project folder once you’ve completed the tutorial and rename it **_ex_2_yourstudentID_L2.zip._**
-
-13) Upload the .zip file to Lore → Calendar → Exercise 2.
-
-14) Download and unzip the file that you uploaded to ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded as a late submission, or a 50% reduction in your grade.
+9) Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
 
 **Example Folder Structure**
 
@@ -185,15 +145,15 @@ Render using **Mental Ray**
 
 3) Your ZBrush model should be of similar refinement to the model in Digital Creature Creation, by the end of Lesson 3.
 
-4) Import your model into Maya. (If this proves difficult, ask for assistance) 
+4) Take a screenshot of your model and save as **_{{ page.submission-id }}.png_**.
 
-5) Save your scene as **_ex_2_yourstudentID_L3_** in the scenes folder.
+5) Save your image in a project folder **_{{ page.submission-id }}_**.
 
-6) Compress the project folder once you’ve completed the tutorial and rename it **_ex_2_yourstudentID_L3.zip._**
+6) Compress the folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}-L3.zip._**
 
-7) Upload the .zip file to Lore → Calendar → Exercise 2.
+7) Upload the .zip file to the [submission dropbox]({{ page.submission-id }})
 
-8) Download and unzip the file that you uploaded to ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded as a late submission, or a 50% reduction in your grade.
+8) Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
 
 **Example Folder Structure**
 
