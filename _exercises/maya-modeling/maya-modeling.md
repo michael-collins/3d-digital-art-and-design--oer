@@ -125,7 +125,8 @@ Choose a single level to complete based on your level of experience with 3D tool
 5. Create one polygonal model for each scene file from your set of randomly generated objects in Step 2. (You should be making three objects since you’ve created three scenes.)
 6. Capture the gesture of the objects with as little detail as needed to describe the shape.
   - Do not "smooth" the objects.
-  - Focus on maintaining quads and [organized edgeflow](http://www.digitaltutors.com/lesson/15804-Edge-Flow). **See example image of a crowbar below:**  
+  - Focus on maintaining quads and [organized edgeflow](http://www.digitaltutors.com/lesson/15804-Edge-Flow).
+    **See example image of a crowbar below:**  
     ![image alt text]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/images/image_1.jpg)  
 
 7. Compress the project folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}-L2.zip._**
