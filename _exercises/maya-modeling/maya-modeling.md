@@ -45,7 +45,7 @@ Chapter 3 and Chapter 4
 
 Choose a either level 1, level 2, or level 3 to complete based on your prior experience with 3D tools. If you are a novice, choose Level 1. If you have some experience, choose Level 2. If you are very experienced with 3D tools, choose Level 3.
 
-[Level 1 Steps](#level-1) [Level 2 Steps](#level-2) [Level 3 Steps](#level-3)
+[Level 1 Steps](#level-1) | [Level 2 Steps](#level-2) | [Level 3 Steps](#level-3)
 
 ### <a name="level-1"></a>Level 1:
 
