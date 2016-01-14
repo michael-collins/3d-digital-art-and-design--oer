@@ -45,7 +45,9 @@ Chapter 3 and Chapter 4
 
 Choose a either level 1, level 2, or level 3 to complete based on your prior experience with 3D tools. If you are a novice, choose Level 1. If you have some experience, choose Level 2. If you are very experienced with 3D tools, choose Level 3.
 
-###Level 1:
+[Level 1 Steps](#level-1) [Level 2 Steps](#level-2) [Level 3 Steps](#level-3)
+
+### <a name="level-1"></a>Level 1:
 
 1. Watch tutorials from Lynda on modeling with Polygons and Nurbs.
 2. Download [these project files](https://docs.google.com/file/d/0BzXX6rmROMNWandfd3hKLXRCdmM/edit) and use the scene file as the starting point and rename the project folder to : **_{{ page.submission-id }}_**.
@@ -98,7 +100,7 @@ Choose a either level 1, level 2, or level 3 to complete based on your prior exp
 
 ```
 
-##Level 2:
+## <a name="level-2"></a>Level 2:
 
 1. Watch Lynda tutorials on polygonal modeling.
 2. Obtain three randomly generated objects from [this website](http://www.randomlists.com/things). Include a screenshot of the website objects in your **_sourceimages_** folder called **_objects-{{page.submission-id}}}.jpg (or .png)_**
@@ -175,7 +177,7 @@ Choose a either level 1, level 2, or level 3 to complete based on your prior exp
 
 ```
 
-###Level 3:
+### <a name="level-3"></a>Level 3:
 
 1. Watch tutorials from Lynda on modeling with ZBrush.
 2. Using the techniques learned in the Digital Creature Creation tutorials, create a **Sea Creature**.
