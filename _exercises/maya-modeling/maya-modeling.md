@@ -105,13 +105,13 @@ Choose a single level to complete based on your level of experience with 3D tool
 1. Watch Lynda tutorials on polygonal modeling.
 2. Obtain three randomly generated objects from [this website](http://www.randomlists.com/things). Include a screenshot of the website objects in your **_sourceimages_** folder called **_objects-{{page.submission-id}}}.jpg (or .png)_**
 3. Create a new project folder with associated sub-folders (**File** → **Project Window** → **_Accept_**). Create a new scene for each object and save in the **_scenes_** folder.  
-  *Naming:*
+  *Naming:*  
   **_obj1-{{ page.submission-id }}_**  
   **_obj2-{{ page.submission-id }}_**  
   **_obj3-{{ page.submission-id }}_**  
 
 4. Create 3 reference image planes for each object with pencil and paper or in Photoshop. Set up the image reference planes in their respective scenes files. Ensure they are square. Place them in the **_sourceimages_** → **_referenceimages_** folder. Instructions for aligning reference images in Photoshop: [Link](http://www.webdesign.org/photoshop/photoshop-basics/cutting-up-blueprints-for-3d-modelling.4970.html)  
-  *Naming:*
+  *Naming:*  
   **_obj1-side-{{ page.submission-id }}.jpg_**  
   **_obj1-front-{{ page.submission-id }}.jpg_**  
   **_obj1-top-{{ page.submission-id }}.jpg_**  
@@ -127,7 +127,7 @@ Choose a single level to complete based on your level of experience with 3D tool
   - Do not "smooth" the objects.
   - Focus on maintaining quads and [organized edgeflow](http://www.digitaltutors.com/lesson/15804-Edge-Flow). **See example image of a crowbar below:**  
     ![image alt text]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/images/image_1.jpg)  
-    
+
 7. Compress the project folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}-L2.zip._**
 8. Upload the .zip file to the [submission dropbox]({{ page.assignment-dropbox }})
 9. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
