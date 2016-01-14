@@ -2,7 +2,6 @@
 title: Lesson 02
 subtitle: Texturing
 layout: lesson
-date: 1/14/2016
 ---
 
 ###Topics

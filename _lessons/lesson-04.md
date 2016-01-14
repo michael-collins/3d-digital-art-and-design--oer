@@ -2,7 +2,6 @@
 title: Lesson 04
 subtitle: Camera
 layout: lesson
-date: 1/21/2016
 ---
 
 ###Topics

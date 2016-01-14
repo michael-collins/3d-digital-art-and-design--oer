@@ -1,8 +1,7 @@
 ---
 title: Lesson 11
-subtitle: Fabrication
+subtitle: Digital fabrication processes
 layout: lesson
-date: 2/16/2016
 ---
 
 ###Topics

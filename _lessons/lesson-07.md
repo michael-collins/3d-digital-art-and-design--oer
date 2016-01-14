@@ -1,8 +1,7 @@
 ---
 title: Lesson 07
-subtitle: Dynamics
+subtitle: Dynamics and simulation
 layout: lesson
-date: 2/2/2016
 ---
 
 ###Topics

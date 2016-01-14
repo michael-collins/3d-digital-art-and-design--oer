@@ -2,7 +2,6 @@
 title: Lesson 06
 subtitle: Animating
 layout: lesson
-date: 1/28/2016
 ---
 
 ###Topics

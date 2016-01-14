@@ -1,8 +1,8 @@
 ---
 title: Lesson 01
-subtitle: Introduction to 3D
+subtitle: 3D modeling
 layout: lesson
-date: 1/12/2016
+learning objectives:
 ---
 
 ###Presentation

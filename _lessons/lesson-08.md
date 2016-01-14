@@ -1,8 +1,7 @@
 ---
-title: Compositing
-subtitle: 
+title: Lesson 08
+subtitle: Compositing
 layout: lesson
-date: 2/4/2016
 ---
 
 ###Topics

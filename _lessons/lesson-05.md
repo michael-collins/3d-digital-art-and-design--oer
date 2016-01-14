@@ -2,7 +2,6 @@
 title: Lesson 05
 subtitle: Rigging
 layout: lesson
-date: 1/26/2016
 ---
 
 ###Topics

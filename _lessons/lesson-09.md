@@ -1,8 +1,7 @@
 ---
 title: Lesson 09
-subtitle: scripting
+subtitle: Scripting for 3D
 layout: lesson
-date: 2/9/2016
 ---
 
 ###Topics

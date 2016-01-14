@@ -1,8 +1,7 @@
 ---
 title: Lesson 10
-subtitle: Realtime
+subtitle: Realtime rendering
 layout: lesson
-date: 2/11/2016
 ---
 
 ###Topics

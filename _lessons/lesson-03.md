@@ -1,8 +1,7 @@
 ---
 title: Lesson 03
-subtitle: Lighting and Rendering
+subtitle: Lighting and rendering
 layout: lesson
-date: 1/19/2016
 ---
 
 ###Topics
