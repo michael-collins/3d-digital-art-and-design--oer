@@ -81,7 +81,7 @@ Chapter 3 and Chapter 4
 
 **Example Folder Structure**
 
-![image alt text](images/image_0.jpg)
+![image alt text]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/images/image_0.jpg)
 
 **Level 2:**
 
@@ -125,7 +125,7 @@ Chapter 3 and Chapter 4
 
 6) Capture the gesture of the objects with as little detail as needed to describe the shape. Do not smooth the object. Focus on maintaining quads and [organized edgeflow](http://www.digitaltutors.com/lesson/15804-Edge-Flow). **See example image of a crowbar below:**
 
-![image alt text](images/image_1.jpg)
+![image alt text]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/images/image_1.jpg)
 
 7) Add an ambient occlusion surface shader to your model and create a backdrop: [Tutorial - AO](https://www.youtube.com/watch?v=v3SXSffuvnk)
 
@@ -185,7 +185,7 @@ Render using **Mental Ray**
 
 **Example Folder Structure**
 
-![image alt text](images/image_2.jpg)
+![image alt text]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/images/image_2.jpg)
 
 **Level 3:**
 
@@ -207,14 +207,10 @@ Render using **Mental Ray**
 
 **Example Folder Structure**
 
-![image alt text](images/image_3.jpg)
+![image alt text]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/images/image_3.jpg)
 
 * * *
 
-
-**Grading**
-
-**  **
-
-Your grade will be assessed according to the [Exercise Grading Criteria](https://docs.google.com/document/d/16KERm1NWgcl8CH-fPwGSSW0RJYlXDCOCwVM8WrRVuKw/edit?usp=sharing).
+##Grading
+Your grade will be assessed according to the [Exercise Grading Criteria]({{ site.baseurl }}/grading). 
 
