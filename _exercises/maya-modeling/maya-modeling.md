@@ -123,8 +123,11 @@ Choose a single level to complete based on your level of experience with 3D tool
   **_obj3-top-{{ page.submission-id }}.jpg_**  
 
 5. Create one polygonal model for each scene file from your set of randomly generated objects in Step 2. (You should be making three objects since you’ve created three scenes.)
-6. Capture the gesture of the objects with as little detail as needed to describe the shape. Do not "smooth" the objects. Focus on maintaining quads and [organized edgeflow](http://www.digitaltutors.com/lesson/15804-Edge-Flow). **See example image of a crowbar below:**
-  ![image alt text]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/images/image_1.jpg)
+6. Capture the gesture of the objects with as little detail as needed to describe the shape.
+  - Do not "smooth" the objects.
+  - Focus on maintaining quads and [organized edgeflow](http://www.digitaltutors.com/lesson/15804-Edge-Flow). **See example image of a crowbar below:**  
+    ![image alt text]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/images/image_1.jpg)  
+    
 7. Compress the project folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}-L2.zip._**
 8. Upload the .zip file to the [submission dropbox]({{ page.assignment-dropbox }})
 9. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
