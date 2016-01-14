@@ -102,12 +102,13 @@ Choose a single level to complete based on your level of experience with 3D tool
 
 1. Watch Lynda tutorials on polygonal modeling.
 2. Obtain three randomly generated objects from [this website](http://www.randomlists.com/things). Include a screenshot of the website objects in your **_sourceimages_** folder called **_objects-{{page.submission-id}}}.jpg (or .png)_**
-3. Create a new project folder with associated sub-folders (**File** → **Project Window** → **_Accept_**). Create a new scene for each object and save in the **_scenes_** folder.
+3. Create a new project folder with associated sub-folders (**File** → **Project Window** → **_Accept_**). Create a new scene for each object and save in the **_scenes_** folder.  
   *Naming:*
   **_obj1-{{ page.submission-id }}_**  
   **_obj2-{{ page.submission-id }}_**  
   **_obj3-{{ page.submission-id }}_**  
-4. Create 3 reference image planes for each object with pencil and paper or in Photoshop. Set up the image reference planes in their respective scenes files. Ensure they are square. Place them in the **_sourceimages_** → **_referenceimages_** folder. Instructions for aligning reference images in Photoshop: [Link](http://www.webdesign.org/photoshop/photoshop-basics/cutting-up-blueprints-for-3d-modelling.4970.html)
+
+4. Create 3 reference image planes for each object with pencil and paper or in Photoshop. Set up the image reference planes in their respective scenes files. Ensure they are square. Place them in the **_sourceimages_** → **_referenceimages_** folder. Instructions for aligning reference images in Photoshop: [Link](http://www.webdesign.org/photoshop/photoshop-basics/cutting-up-blueprints-for-3d-modelling.4970.html)  
   *Naming:*
   **_obj1-side-{{ page.submission-id }}.jpg_**  
   **_obj1-front-{{ page.submission-id }}.jpg_**  
@@ -118,6 +119,7 @@ Choose a single level to complete based on your level of experience with 3D tool
   **_obj3-side-{{ page.submission-id }}.jpg_**  
   **_obj3-front-{{ page.submission-id }}.jpg_**  
   **_obj3-top-{{ page.submission-id }}.jpg_**  
+
 5. Create one polygonal model for each scene file from your set of randomly generated objects in Step 2. (You should be making three objects since you’ve created three scenes.)
 6. Capture the gesture of the objects with as little detail as needed to describe the shape. Do not "smooth" the objects. Focus on maintaining quads and [organized edgeflow](http://www.digitaltutors.com/lesson/15804-Edge-Flow). **See example image of a crowbar below:**
   ![image alt text]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/images/image_1.jpg)
@@ -170,7 +172,7 @@ Choose a single level to complete based on your level of experience with 3D tool
 ###Level 3:
 
 1. Watch tutorials from Lynda on modeling with ZBrush.
-2. Using the techniques learned in the Digital Creature Creation tutorials, create a **Vegetable Monster**. Creatively interpret what that means.
+2. Using the techniques learned in the Digital Creature Creation tutorials, create a **Sea Creature**.
 3. Your ZBrush model should be of similar refinement to the model in Digital Creature Creation, by the end of Lesson 3.
 4. Take a screenshot of your model and save as **_{{ page.submission-id }}.png_** in the images folder.
 5. Save your image in a project folder **_{{ page.submission-id }}-L3_**.
