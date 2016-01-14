@@ -61,7 +61,7 @@ Choose a single level to complete based on your level of experience with 3D tool
      - mirroring and duplicating geometry
 5. Save your scene as **_{{ page.submission-id }}_** in the scenes folder.
 6. Compress the project folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}-L1.zip._**
-7. Upload the .zip file to the [submission dropbox]({{ page.submission-id }})
+7. Upload the .zip file to the [submission dropbox]({{ page.assignment-dropbox }})
 8. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
 
 **Example Folder Structure**
@@ -69,7 +69,9 @@ Choose a single level to complete based on your level of experience with 3D tool
 ```
 
 {{ page.submission-id }}-L1.zip
+|
 └── {{ page.submission-id }}-L1
+    |
     ├── sourceimages/
     |   |
     |   ├── objects-{{ page.submission-id }}.jpg
@@ -124,7 +126,7 @@ Choose a single level to complete based on your level of experience with 3D tool
 6. Capture the gesture of the objects with as little detail as needed to describe the shape. Do not "smooth" the objects. Focus on maintaining quads and [organized edgeflow](http://www.digitaltutors.com/lesson/15804-Edge-Flow). **See example image of a crowbar below:**
   ![image alt text]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/images/image_1.jpg)
 7. Compress the project folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}-L2.zip._**
-8. Upload the .zip file to the [submission dropbox]({{ page.submission-id }})
+8. Upload the .zip file to the [submission dropbox]({{ page.assignment-dropbox }})
 9. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
 
 **Example Folder Structure**
@@ -132,7 +134,9 @@ Choose a single level to complete based on your level of experience with 3D tool
 ```
 
 {{ page.submission-id }}-L2.zip
+|
 └── {{ page.submission-id }}-L2
+    |
     ├── sourceimages/
     |   |
     |   ├── objects-{{ page.submission-id }}.jpg
@@ -174,10 +178,10 @@ Choose a single level to complete based on your level of experience with 3D tool
 1. Watch tutorials from Lynda on modeling with ZBrush.
 2. Using the techniques learned in the Digital Creature Creation tutorials, create a **Sea Creature**.
 3. Your ZBrush model should be of similar refinement to the model in Digital Creature Creation, by the end of Lesson 3.
-4. Take a screenshot of your model and save as **_{{ page.submission-id }}.png_** in the images folder.
+4. Take a screenshot of your model and rename the image as **_{{ page.submission-id }}.png_**.
 5. Save your image in a project folder **_{{ page.submission-id }}-L3_**.
 6. Compress the folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}-L3.zip._**
-7. Upload the .zip file to the [submission dropbox]({{ page.submission-id }})
+7. Upload the .zip file to the [submission dropbox]({{ page.assignment-dropbox }})
 8. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
 
 **Example Folder Structure**
@@ -185,21 +189,10 @@ Choose a single level to complete based on your level of experience with 3D tool
 ```
 
 {{ page.submission-id }}-L3.zip
+|
 └── {{ page.submission-id }}-L3
-    ├── sourceimages
-    ├── sound
-    ├── scripts
-    ├── scenes
-    |   └──{{ page.submission-id }}.mb
-    ├── renderData
-    ├── particles
-    ├── movies
-    ├── images
-    ├── data
-    ├── clips
-    ├── cache
-    ├── autosave
-    └── assets
+    |
+    └──{{ page.submission-id }}.png
 
 ```
 
