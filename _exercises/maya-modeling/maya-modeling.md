@@ -4,41 +4,33 @@ subtitle:
 layout: exercise
 ---
 
-**Exercise Details**
+In this exercise, you will gain basic understanding of modeling fundamentals. There are different tutorials and exercise submission requirements for three experience levels. Choose the experience level that matches your own.
 
-In this exercise, you will gain basic understanding of modeling fundamentals. There are different tutorials and exercise submission requirements for the three experience levels. Choose the experience level that matches your own.
+##Learning Resources
 
-* * *
-
-**Learning Resources**
-
-**Tutorials:**
+###Tutorials:**
 
 **Level 1: Novice Students**
 
 [Lynda.com - Modeling with Polygons](http://www.lynda.com/Maya-tutorials/Maya-Essentials-2-Polygonal-Modeling-Techniques/96715-2.html)
 
-        [Lynda.com - Modeling with Nurbs](http://www.lynda.com/Maya-tutorials/Maya-Essentials-3-NURBS-Modeling-Techniques/96716-2.html)
+[Lynda.com - Modeling with Nurbs](http://www.lynda.com/Maya-tutorials/Maya-Essentials-3-NURBS-Modeling-Techniques/96716-2.html)
 
 **Level 2: Intermediate Students**
 
 [Lynda.com - Modeling with Polygons](http://www.lynda.com/Maya-tutorials/Maya-Essentials-2-Polygonal-Modeling-Techniques/96715-2.html)
 
-        [Lynda.com - Modeling with Nurbs](http://www.lynda.com/Maya-tutorials/Maya-Essentials-3-NURBS-Modeling-Techniques/96716-2.html)
+[Lynda.com - Modeling with Nurbs](http://www.lynda.com/Maya-tutorials/Maya-Essentials-3-NURBS-Modeling-Techniques/96716-2.html)
 
-    [Tutorial - AO](https://www.youtube.com/watch?v=v3SXSffuvnk)
+[Tutorial - AO](https://www.youtube.com/watch?v=v3SXSffuvnk)
 
 [Contour Rendering](https://vimeo.com/64291535)
 
-    **Level 3: Experienced Students**
+**Level 3: Experienced Students**
 
-    [Lynda.com - ZBrush Essential Training](http://www.lynda.com/ZBrush-4-tutorials/Essential-Training/76980-2.html)
+[Lynda.com - ZBrush Essential Training](http://www.lynda.com/ZBrush-4-tutorials/Essential-Training/76980-2.html) (Lessons 1- 7)
 
-        (Lessons 1- 7)
-
-[Lynda.com - ZBrush Character](http://www.lynda.com/3D-Animation-Character-Design-tutorials/Digital-Creature-Creation-in-ZBrush-Photoshop-and-Maya/83781-2.html)
-
-        (Lessons 1 - 3)
+[Lynda.com - ZBrush Character](http://www.lynda.com/3D-Animation-Character-Design-tutorials/Digital-Creature-Creation-in-ZBrush-Photoshop-and-Maya/83781-2.html) (Lessons 1 - 3)
 
 **Reference Websites**
 
@@ -46,22 +38,20 @@ In this exercise, you will gain basic understanding of modeling fundamentals. Th
 
 **More Information:**
 
-Textbook: Introducing Autodesk Maya 2015
+Textbook: Introducing Autodesk Maya 2016
 
 Chapter 4 and Chapter 5
 
-Textbook: Mastering Autodesk Maya 2015
+Textbook: Mastering Autodesk Maya 2016
 
 Chapter 3 and Chapter 4
 
-* * *
 
-
-**Steps to Completion**
+##Steps to Completion
 
 **Choose a single level to complete based on your level of experience with 3D tools. If you are a novice, choose Level 1. If you have some experience, choose Level 2. If you are very experienced with 3D tools, choose Level 3.**
 
-**Level 1:**
+###Level 1:
 
 1) Watch tutorials from Lynda on modeling with Polygons and Nurbs.
 
@@ -83,7 +73,7 @@ Chapter 3 and Chapter 4
 
 ![image alt text]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/images/image_0.jpg)
 
-**Level 2:**
+##Level 2:
 
 1) Watch tutorials from Lynda on modeling.
 
@@ -131,7 +121,7 @@ Chapter 3 and Chapter 4
 
 8) Enable the contour rendering: [Tutorial - Contour Rendering](https://vimeo.com/64291535)
 
-    **NOTE: Read description of video for Maya’s Rendering needs.**
+**NOTE: Read description of video for Maya’s Rendering needs.**
 
 9) Enable Mental Ray as the rendering engine in the render settings.
 
@@ -187,7 +177,7 @@ Render using **Mental Ray**
 
 ![image alt text]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/images/image_2.jpg)
 
-**Level 3:**
+###Level 3:
 
 1) Watch tutorials from Lynda on modeling with ZBrush.
 
