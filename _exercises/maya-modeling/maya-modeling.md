@@ -21,8 +21,6 @@ In this exercise, you will gain basic understanding of modeling fundamentals. Th
 
 [Lynda.com - Modeling with Polygons](http://www.lynda.com/Maya-tutorials/Maya-Essentials-2-Polygonal-Modeling-Techniques/96715-2.html)  
 [Lynda.com - Modeling with Nurbs](http://www.lynda.com/Maya-tutorials/Maya-Essentials-3-NURBS-Modeling-Techniques/96716-2.html)  
-[Tutorial - AO](https://www.youtube.com/watch?v=v3SXSffuvnk)  
-[Contour Rendering](https://vimeo.com/64291535)
 
 **Level 3: Experienced Students**
 
