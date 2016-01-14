@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Exercise 2 Due
+title: Modeling in Maya Due
 categories: exercise
 comments: true
 published: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Modeling
+title: Introduction to Modeling in Maya
 categories: agenda
 comments: false
 published: true
