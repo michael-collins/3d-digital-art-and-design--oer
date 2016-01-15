@@ -10,7 +10,8 @@ title: Lessons
 			{% endfor %}
 		</div>
 		<div class="lessons-testing">
-			{% for lesson in site.course.unit.lessons.lesson %}
+			{% for lesson in site.course.unit.lessons %}
 			   <h2><a href="{{ site.lessons.permalink | prepend: site.baseurl }}"><span class="lesson-title">{{ site.course.unit.lessons.lesson.title }}</span>: <span class="lesson-subtitle">{{ site.course.unit.lessons.lesson.subtitle }}</span></a></h2>
 			{% endfor %}
 		</div>
+		
