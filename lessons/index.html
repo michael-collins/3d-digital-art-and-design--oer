@@ -10,7 +10,8 @@ title: Lessons
 			{% endfor %}
 		</div>
 		<hr>
-		<div class="lessons-testing">
+		<div class="lessons">
+			<h3>Set in: _config.yml</h3>
 			{% for lesson in site.course.unit.lessons %}
 			   <h2><a href="{{ site.lessons.permalink | prepend: site.baseurl }}"><span class="lesson-title">{{ lesson.title }}</span>: <span class="lesson-subtitle">{{ lesson.subtitle }}</span></a></h2>
 			{% endfor %}
