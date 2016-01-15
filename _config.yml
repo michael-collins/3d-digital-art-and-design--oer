@@ -26,7 +26,7 @@ collections:
     permalink: /topics/:title.html
 #exercises ########################################
 assigments:
-  exercises: 
+  - exercises: 
     - exercise: maya-modeling
       title: Intro to Modeling in Maya
       submission_link: 
