@@ -7,6 +7,7 @@ baseurl: /3d-digital-art-and-design--oer
 permalink: pretty
 gems:
   - jekyll-sitemap
+#directoy config ########################################
 collections:
   lessons:
     output: true
@@ -23,3 +24,59 @@ collections:
   topics:
     output: true
     permalink: /topics/:title.html
+#exercises ########################################
+assigments:
+  exercises: 
+    - exercise: maya-modeling
+      title: Intro to Modeling in Maya
+      submission_link: 
+      comments_enabled:
+      published: true
+      assigned: 1/14/2016
+      due: 1/19/2016 
+   - exercise: maya-texturing
+      exercise: Intro to Texturing in Maya
+      submission_link: 
+      comments_enabled:
+      published: true
+      assigned: 1/19/2016
+      due: 1/21/2016
+   - exercise: maya-animation
+      title: Animating in Maya
+      submission_link: 
+      comments_enabled:
+      published: true
+      assigned: 1/26/2016
+      due: 1/28/2016
+#topics  ########################################
+topics:
+  - topic: modeling
+    title: Animating in Maya
+    layout: topic
+    submission_link: 
+    comments_enabled:
+    published: true
+    assigned: 1/26/2016
+    due: 1/28/2016
+#lessons  ########################################
+course:
+  unit:
+    lessons:
+      - lesson: maya-modeling
+        title: Modeling in Maya
+        subtitle: yup!
+        layout: lesson
+        submission_link: 
+        comments_enabled:
+        published: true
+        assigned: 1/26/2016
+        due: 1/28/2016
+      - lesson: maya-animation
+        subtitle: yup!
+        title: Texturing in Maya
+        layout: lesson
+        submission_link: 
+        comments_enabled:
+        published: true
+        assigned: 1/26/2016
+        due: 1/28/2016
