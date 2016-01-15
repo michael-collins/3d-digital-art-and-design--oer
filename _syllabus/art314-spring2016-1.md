@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Art 314 Syllabus
-subtitle: 2016
+title: Syllabus
+subtitle: Art 314 - 3D Modeling, Rendering, and Animation
 course-schedule-location: /spring-2016
 course-abbrv: art
 course-number: 314
