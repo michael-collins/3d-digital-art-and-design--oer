@@ -26,7 +26,7 @@ collections:
     permalink: /topics/:title.html
 #exercises ########################################
 assignments:
-  - exercise: maya-modeling
+  - exercise: maya-modeling-image-planes
     title: Intro to Modeling in Maya
     subtitle: testing config
     submission_link: 
@@ -34,7 +34,7 @@ assignments:
     published: true
     assigned: 1/14/2016
     due: 1/19/2016 
-  - exercise: maya-texturing
+  - exercise: maya-texturing-objects
     title: Intro to Texturing in Maya
     subtitle: testing config
     submission_link: 
@@ -42,7 +42,7 @@ assignments:
     published: true
     assigned: 1/19/2016
     due: 1/21/2016
-  - exercise: maya-animation
+  - exercise: maya-animation-animating
     title: Animating in Maya
     subtitle:
     submission_link: 
