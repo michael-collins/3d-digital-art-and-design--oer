@@ -1,7 +1,6 @@
-language: haskell
+language: ruby
 install:
  - bundle install
- - travis_retry cabal install pandoc pandoc-citeproc
 script: bundle exec rake site:deploy --quiet
 env:
   global:
