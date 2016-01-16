@@ -5,7 +5,7 @@ pygments: true
 relative_source: ../3d-digital-art-and-design--oer/
 destination: ../3d-digital-art-and-design--oer/
 
-# Settings for deploy rake task
+# Settings for deploy rake task 
 # github_user: michael-collins
 # source_repo: 3d-digital-art-and-design--oer
 # destination_repo: 3d-digital-art-and-design--oer 
