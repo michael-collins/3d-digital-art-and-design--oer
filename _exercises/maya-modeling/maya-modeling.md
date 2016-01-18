@@ -74,8 +74,6 @@ Choose a either level 1, level 2, or level 3 to complete based on your prior exp
     |
     ├── sourceimages/
     |   |
-    |   ├── objects-{{ page.submission-id }}.jpg
-    |   |
     |   └── reference images/
     |       |
     |       ├── front.jpg
