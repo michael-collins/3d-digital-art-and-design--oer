@@ -94,26 +94,25 @@ Chapter 11
 
 ### <a name="level-2"></a>Level 2:
 
-1) Duplicate your project folder from Exercise 2 and rename it to **_{{ page.submission-id }}-L2_**.
-2) For each of the three objects you modeled in the last exercise:
-  a) Unwrap the object’s UVs
-  b) Export a UV snapshot
-  d) Bake an Ambient Occlusion (AO) texture *(*[Tutorial - AO](https://www.youtube.com/watch?v=v3SXSffuvnk)*, *[Digital Tutors - AO Texture Baking](http://www.digitaltutors.com/11/training.php?vid=9348&autoplay=1)*)*
-  c) Create a color texture in Photoshop, (1024px by 1024px) and incorporate the AO shadow information into the texture.
-Note: Follow the Level 2 learning resources for more specific details.
-3) Save each of the three scenes in the scenes folder as:  
+1. Duplicate your project folder from Exercise 2 and rename it to **_{{ page.submission-id }}-L2_**.
+2. For each of the three objects you modeled in the last exercise:
+  a. Unwrap the object’s UVs
+  b. Export a UV snapshot
+  c. Bake an Ambient Occlusion (AO) texture *(*[Tutorial - AO](https://www.youtube.com/watch?v=v3SXSffuvnk)*, *[Digital Tutors - AO Texture Baking](http://www.digitaltutors.com/11/training.php?vid=9348&autoplay=1)*)*
+  d. Create a color texture in Photoshop (1024px by 1024px) and overlay the AO shadow image into the color texture.
+3. Save each of the three scenes in the scenes folder as:  
   **_obj1-{{ page.submission-id }}_**
   **_obj2-{{ page.submission-id }}_**
   **_obj3-{{ page.submission-id }}_**
-4) Save your UV snapshots in the sourceimages folder as:  
+4. Save your UV snapshots in the sourceimages folder as:  
   **_uv1-{{ page.submission-id }}.jpg_**
   **_uv2-{{ page.submission-id }}.jpg_**
   **_uv3-{{ page.submission-id }}.jpg_**
-5) Save your color texture combined with AO texture in the sourceimages folder as:  
+5. Save your color textures combined with AO texture in the sourceimages folder as:  
   **_color1-{{ page.submission-id }}.jpg_**
   **_color2-{{ page.submission-id }}.jpg_**
   **_color3-{{ page.submission-id }}.jpg_**
-6) Save your AO texture in the sourceimages folder as:  
+6. Save your AO textures in the sourceimages folder as:  
   **_ao1-{{ page.submission-id }}.jpg_**
   **_ao2-{{ page.submission-id }}.jpg_**
   **_ao3-{{ page.submission-id }}.jpg_**
@@ -163,12 +162,12 @@ Note: Follow the Level 2 learning resources for more specific details.
 
 ### <a name="level-3"></a>Level 3:
 
-1) Watch the Essential Training and Digital Character Creation tutorials from Lynda on modeling with ZBrush.
-2) Using the techniques learned in the Digital Creature Creation tutorials, continue working on your model from the Maya Modeling Exercise.
-3) Create the textures covered in the Digital Character Creation tutorials.
-4) Import your model into Maya and connect the textures to the creature’s shader.
-5) Save your scene as **_{{ page.submission-id }}-L3_** in the scenes folder.
-6) Save your PSD texture in the *sourceimages* folder as **_{{ page.submission-id }}-L3.psd_**. ([See Organizing the maps into Photoshop layers](http://www.lynda.com/3D-Animation-Character-Design-tutorials/Digital-Creature-Creation-in-ZBrush-Photoshop-and-Maya/83781-2.html) on Lynda.com)
+1. Watch the Essential Training and Digital Character Creation tutorials from Lynda on modeling with ZBrush.
+2. Using the techniques learned in the Digital Creature Creation tutorials, continue working on your model from the Maya Modeling Exercise.
+3. Create the textures covered in the Digital Character Creation tutorials.
+4. Import your model into Maya and connect the textures to the creature’s shader.
+5. Save your scene as **_{{ page.submission-id }}-L3_** in the scenes folder.
+6. Save your PSD texture in the *sourceimages* folder as **_{{ page.submission-id }}-L3.psd_**. ([See Organizing the maps into Photoshop layers](http://www.lynda.com/3D-Animation-Character-Design-tutorials/Digital-Creature-Creation-in-ZBrush-Photoshop-and-Maya/83781-2.html) on Lynda.com)
 7. Compress the project folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}-L3.zip._**
 8. Upload the .zip file to the [submission dropbox]({{ page.assignment-dropbox }})
 9. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
