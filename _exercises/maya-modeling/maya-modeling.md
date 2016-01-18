@@ -98,7 +98,7 @@ Choose a either level 1, level 2, or level 3 to complete based on your prior exp
 
 ```
 
-## <a name="level-2"></a>Level 2:
+### <a name="level-2"></a>Level 2:
 
 1. Watch Lynda tutorials on polygonal modeling.
 2. Obtain three randomly generated objects from [this website](http://www.randomlists.com/things). Include a screenshot of the website objects in your **_sourceimages_** folder called **_objects-{{page.submission-id}}}.jpg (or .png)_**
