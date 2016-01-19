@@ -9,12 +9,11 @@ published: false
 excerpt: Introduction to modeling in Autodesk Maya
 ---
 <section data-markdown>
-##ART314: 3D Modeling, Rendering, and Animation
-**Instructor:** [Michael Collins](https://sova.psu.edu/profile/michaelcollins) | msc227@psu.edu | @_mike_collins
+##Introduction to ART314: 3D Modeling, Rendering, and Animation
+**Texture Mapping** (Texturing for short)
 
 </section>
 <section data-markdown>
-##Polygonal Modeling
-**Instructor:** [Michael Collins](https://sova.psu.edu/profile/michaelcollins) | msc227@psu.edu | @_mike_collins
-
+##What is Texture Mapping?
+Texture Mapping is the application of 2D images in 3D coordinate space. It is most often used to apply color and details to a 3D mesh.
 </section>
