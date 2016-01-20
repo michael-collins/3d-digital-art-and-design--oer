@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Exercise 3 Due
+title: Exercise 3 Assigned
 categories: exercise
 comments: true
 published: true
