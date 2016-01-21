@@ -54,7 +54,7 @@ Chapter 9 and 10
 1. Watch tutorials from Lynda on texturing and lighting.
 2. Create and set a project folder called **_{{ page.submission-id }}-L1_**.
 3. Set your project folder by choosing **File** → **Set Project**.
-4. Create your folder structure by choosing **File** → **Project Window → ****_Accept_**.
+4. Create your folder structure by choosing **File** → **Project Window** → **_Accept_**.
 5. After reading [this webpage](http://www.randomhistory.com/2008/11/11_chair.html), create a new scene and create a hi-res polygon model of a **chair** from one of the mentioned time periods approximately within 4 units wide, high, and deep as well as a patch of ground 10 units wide by 10 units deep by roughly 1 unit high. These can be a single polygonal mesh or modeled as separate objects.
 6. Create a new perspective called **_cam1_**. In the camera attributes, change the film gate to **35mm Academy**.
 7. In your Cam1 viewport, enable the Resolution Gate: **View** → **Camera** **Settings** → **Resolution** **Gate.**
