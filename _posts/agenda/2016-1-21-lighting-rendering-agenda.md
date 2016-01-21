@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Introduction to Modeling in Maya
+title: Lighting and Rendering in Maya
 categories: agenda
 comments: false
 published: true
-excerpt: Introduction to modeling in Autodesk Maya.
+excerpt: Introduction to lighting and rendering in Autodesk Maya.
 ---
 
 ###Agenda

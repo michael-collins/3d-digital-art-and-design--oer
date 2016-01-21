@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Introduction to Modeling in Maya
+title: Introduction to Texturing in Maya
 categories: agenda
 comments: false
 published: true
-excerpt: Introduction to modeling in Autodesk Maya.
+excerpt: Introduction to texturing in Autodesk Maya.
 ---
 
 ###Agenda
