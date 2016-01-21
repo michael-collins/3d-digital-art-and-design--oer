@@ -15,8 +15,7 @@ assignment-dropbox: https://psu.box.com/signup/collablink/d_6058204921/115199876
 **Level 1: Novice Students**  
 [Lynda.com - Textures and Materials](http://www.lynda.com/Maya-tutorials/Maya-Essentials-4-Creating-Textures-Materials/96717-2.html)
 
-**Level 2: Intermediate Students**
-
+**Level 2: Intermediate Students**  
 [Digital Tutors - UV Mapping](http://www.digitaltutors.com/11/training.php?vid=9346&autoplay=1)  
 [Digital Tutors - AO Texture Baking](http://www.digitaltutors.com/11/training.php?vid=9348&autoplay=1)  
 [Tutorial - AO](https://www.youtube.com/watch?v=v3SXSffuvnk)  
@@ -101,21 +100,21 @@ Chapter 11
   c. Bake an Ambient Occlusion (AO) texture *(*[Tutorial - AO](https://www.youtube.com/watch?v=v3SXSffuvnk)*, *[Digital Tutors - AO Texture Baking](http://www.digitaltutors.com/11/training.php?vid=9348&autoplay=1)*)*
   d. Create a color texture in Photoshop (1024px by 1024px) and overlay the AO shadow image into the color texture.
 3. Save each of the three scenes in the scenes folder as:  
-  **_obj1-{{ page.submission-id }}_**
-  **_obj2-{{ page.submission-id }}_**
-  **_obj3-{{ page.submission-id }}_**
+  **_obj1-{{ page.submission-id }}_**  
+  **_obj2-{{ page.submission-id }}_**  
+  **_obj3-{{ page.submission-id }}_**  
 4. Save your UV snapshots in the sourceimages folder as:  
-  **_uv1-{{ page.submission-id }}.jpg_**
-  **_uv2-{{ page.submission-id }}.jpg_**
-  **_uv3-{{ page.submission-id }}.jpg_**
+  **_uv1-{{ page.submission-id }}.jpg_**  
+  **_uv2-{{ page.submission-id }}.jpg_**  
+  **_uv3-{{ page.submission-id }}.jpg_**  
 5. Save your color textures combined with AO texture in the sourceimages folder as:  
-  **_color1-{{ page.submission-id }}.jpg_**
-  **_color2-{{ page.submission-id }}.jpg_**
-  **_color3-{{ page.submission-id }}.jpg_**
+  **_color1-{{ page.submission-id }}.jpg_**  
+  **_color2-{{ page.submission-id }}.jpg_**  
+  **_color3-{{ page.submission-id }}.jpg_**  
 6. Save your AO textures in the sourceimages folder as:  
-  **_ao1-{{ page.submission-id }}.jpg_**
-  **_ao2-{{ page.submission-id }}.jpg_**
-  **_ao3-{{ page.submission-id }}.jpg_**
+  **_ao1-{{ page.submission-id }}.jpg_**  
+  **_ao2-{{ page.submission-id }}.jpg_**  
+  **_ao3-{{ page.submission-id }}.jpg_**  
 7. Compress the project folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}-L2.zip._**
 8. Upload the .zip file to the [submission dropbox]({{ page.assignment-dropbox }})
 9. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
