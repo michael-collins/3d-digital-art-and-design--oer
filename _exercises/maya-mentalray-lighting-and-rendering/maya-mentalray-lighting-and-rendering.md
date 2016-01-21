@@ -73,7 +73,7 @@ Chapter 9 and 10
   **Common Tab**  
     a. Presets: HD 1080
 15.  Position **_Cam1_** so that the object is in the center, filling most of the composition.
-16. Render the 1080p image from **_Cam1_** and save it as **_render-{{ page.submission-id }}.exr_** in the images folder using OpenEXR format. (Not JPG)
+16. Render the image from **_Cam1_** and save it as **_render-{{ page.submission-id }}.exr_** in the images folder using OpenEXR format. (Not JPG)
 17. Save your scene as **_{{ page.submission-id }}_** in the scenes folder.
 18. Compress the project folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}-L1.zip._**
 19. Upload the .zip file to the [submission dropbox]({{ page.assignment-dropbox }})
@@ -144,7 +144,7 @@ Chapter 9 and 10
   **Common Tab**  
   a. Presets: HD 1080
 15.  Position **_Cam1_** so that the object is in the center, filling most of the composition.
-16. Render your three scenes 960px by 540px as a JPG image from **_Cam1_** and save them in the images folder as:  
+16. Render your three scenes from **_Cam1_** and save them in the images folder using OpenEXR format. (Not JPG)
   **_render1-{{ page.submission-id }}.exr_**  
   **_render2-{{ page.submission-id }}.exr_**  
   **_render3-{{ page.submission-id }}.exr_**
