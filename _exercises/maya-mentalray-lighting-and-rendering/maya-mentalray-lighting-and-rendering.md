@@ -136,11 +136,11 @@ Chapter 9 and 10
   **_bump1-{{ page.submission-id }}.jpg_**  
   **_bump2-{{ page.submission-id }}.jpg_**  
   **_bump3-{{ page.submission-id }}.jpg_**
-13. Enable **_Depth of Field_** on Cam1 and adjust the focus length with the aid of a **_Locator_**. 
+13. Enable **_Depth of Field_** on Cam1 and adjust the focus length with the aid of a **_Locator_**.
 14. Enable the following render settings:  
   **Quality Tab**  
-  a. Overall Quality: 2
-  b. Indirect Diffuse (GI) Mode: Finalgather
+  a. Overall Quality: 2  
+  b. Indirect Diffuse (GI) Mode: Finalgather  
   **Common Tab**  
   a. Presets: HD 1080
 15.  Position **_Cam1_** so that the object is in the center, filling most of the composition.
