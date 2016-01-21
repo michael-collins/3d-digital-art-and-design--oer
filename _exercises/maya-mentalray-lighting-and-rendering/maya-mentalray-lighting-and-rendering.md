@@ -2,6 +2,8 @@
 title: Maya Mentalray Lighting and Rendering
 subtitle: 
 layout: exercise
+submission-id: mr-rendering-YOURSTUDENTID
+assignment-dropbox: https://psu.box.com/signup/collablink/d_6058205621/11e086038985f5
 ---
 
 In this exercise, you will practice uv mapping, lighting, and rendering. There are different tutorials and exercise submission requirements for three experience levels. Choose the experience level that matches your own.
@@ -48,7 +50,7 @@ Chapter 9 and 10
 ### <a name="level-1"></a>Level 1:
 
 1. Watch tutorials from Lynda on texturing and lighting.
-2. Create and set a project folder called **_ex_4_yourstudentID_L1_**.
+2. Create and set a project folder called **_{{ page.submission-id }}-L1_**.
 3. Set your project folder by choosing **File** → **Set Project**.
 4. Create your folder structure by choosing **File** → **Project Window → ****_Accept_**.
 5. After reading [this webpage](http://www.randomhistory.com/2008/11/11_chair.html), create a new scene and create a hi-res polygon model of a **chair** from one of the mentioned time periods approximately within 4 units wide, high, and deep as well as a patch of ground 10 units wide by 10 units deep by roughly 1 unit high. These can be a single polygonal mesh or modeled as separate objects.
@@ -56,33 +58,24 @@ Chapter 9 and 10
 7. In your Cam1 viewport, enable the Resolution Gate: **View** → **Camera** **Settings** → **Resolution** **Gate.**
 8. Create a standard 3-point lighting setup with three **_area lights_** and name them **_KeyLight_**, **_FillLight_**, and **_RimLight_**. Read More about [three point lighting](http://m5designstudio.com/2011/maya-3d-tutorials/studio-three-point-lighting/).
 9. Unfold your UVs using the UV Texture editor other UV tools.
-10. Apply a texture that you’ve created or found online and name it **_diffuse_ex_4_yourstudentID_L1.jpg_** in the *sourceimages* folder.
-11. Create and apply a bump map to your Lambert called **_bump_ex_4_yourstudentID_L1.jpg _**in the *sourceimages* folder*.*
+10. Apply a texture that you’ve created or found online and name it **_color-{{ page.submission-id }}.jpg_** in the *sourceimages* folder.
+11. Create and apply a bump map to your Lambert called **_bump-{{ page.submission-id }}.jpg _**in the *sourceimages* folder*.*
 12. Adjust the Bump Depth to **0.200**  bump2d node connected to your bump map channel.  
   ![image alt text]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/images/image_1.jpg)
 13. Enable Mental Ray as the rendering engine in the render settings.
 14. Match the following render settings:  
   Render using **Mental Ray**  
   **Quality Tab**  
-    a. Quality: 3
-    b. Min Sample: 10
-    c. Max Samples: 100  
-    ![image alt text]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/images/image_2.jpg)  
-  **Features Tab**
-    a. Shadows: Checked
-    b. Raytracing: Checked
-    c. Final Gathering: Checked  
-    ![image alt text]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/images/image_3.jpg)  
+    a. Overall Quality: 3
+    b. Indirect Diffuse (GI) Mode: Finalgather
   **Common Tab**  
-    a. Presets: HD 540
-    b. Maintain Width and Height Ratio: Checked  
-    ![image alt text]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/images/image_4.jpg)  
+    a. Presets: HD 1080
 15.  Position **_Cam1_** so that the object is in the center, filling most of the composition.
-16. Render a 960px by 540px JPG image from **_Cam1_** and save it as **_render_ex_4_yourstudentID_L1.jpg_** in the images folder.
-17. Save your scene as **_ex_4_yourstudentID_L1_** in the scenes folder.
-18. Compress the project folder once you’ve completed the exercise and rename it **_ex_4_yourstudentID_L1.zip._**
-19. Upload the .zip file to Lore → Calendar → Exercise 4.
-20. Download and unzip the file that you uploaded to ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded as a late submission, or a 50% reduction in your grade.
+16. Render a 960px by 540px JPG image from **_Cam1_** and save it as **_render-{{ page.submission-id }}.jpg_** in the images folder.
+17. Save your scene as **_{{ page.submission-id }}_** in the scenes folder.
+18. Compress the project folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}-L1.zip._**
+19. Upload the .zip file to the [submission dropbox]({{ page.assignment-dropbox }})
+20. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
 
 **Example _Level 1_ folder structure**
 
@@ -95,9 +88,7 @@ Chapter 9 and 10
     ├── sourceimages/
     |   |
     |   ├── color-{{ page.submission-id }}.jpg
-    |   ├── uv-{{ page.submission-id }}.jpg
     |   └── bump-{{ page.submission-id }}.jpg
-    |   
     |
     ├── sound/
     ├── scripts/
@@ -109,6 +100,9 @@ Chapter 9 and 10
     ├── particles/
     ├── movies/
     ├── images/
+    |   |
+    |   └── render-{{ page.submission-id }}.mb
+    |   
     ├── data/
     ├── clips/
     ├── cache/
@@ -120,11 +114,11 @@ Chapter 9 and 10
 ### <a name="level-2"></a>Level 2:
 
 1. Watch the Lynda tutorials on lighting and rendering.
-2. Duplicate your project folder from Exercise 3 and rename it to **_ex_4_yourstudentID_L2_***.*
+2. Duplicate your project folder from the last exercise and rename it to **_{{ page.submission-id }}-L2_***.*
 3. Save each of the three scenes in the scenes folder as:  
-  **_obj1_ex_4_yourstudentID_L2_**  
-  **_obj2_ex_4_yourstudentID_L2_**  
-  **_obj3_ex_4_yourstudentID_L2_**  
+  **_obj1-{{ page.submission-id }}_**  
+  **_obj2-{{ page.submission-id }}_**  
+  **_obj3-{{ page.submission-id }}_**  
 4. Ensure all of your objects are using a mia_material_x material with your textures. ([introducing the mia_material](http://www.lynda.com/Maya-2011-tutorials/creating-textures-and-shaders/62904-2.html))
 5. Compose your objects in their respective scenes
 6. Create a new perspective called **_cam1_**. In the camera attributes, change the film gate to **35mm Academy**.
@@ -132,23 +126,29 @@ Chapter 9 and 10
 8. Create a standard 3-point lighting setup with three **_area lights_** and name them **_KeyLight_**, **_FillLight_**, and **_RimLight_**. Read More about [three point lighting](http://m5designstudio.com/2011/maya-3d-tutorials/studio-three-point-lighting/).
 9. Create a backdrop for your models [Tutorial](http://www.digitaltutors.com/lesson/5996-Building-a-backdrop-for-studio-lighting) (You may use the same one in each scene by exporting the backdrop as an FBX). 
 10. In the material attributes for each material, enable ambient occlusion.
-11. Save your diffuse textures in the sourceimages folder as:
-  **_diffuse1_ex_4_yourstudentID_L2.jpg_**
-  **_diffuse2_ex_4_yourstudentID_L2.jpg_**
-  **_diffuse3_ex_4_yourstudentID_L2.jpg_**
-12. Enable the following render settings:  
-  **Features Tab:**  
-  1. Raytracing
-  2. Global Illumination
-  3. Final Gathering
-13.  Position **_Cam1_** so that the object is in the center, filling most of the composition.
-14. Render your three scenes 960px by 540px as a JPG image from **_Cam1_** and save them in the images folder as:  
-  **_render1_ex_4_yourstudentID_L2.jpg_**  
-  **_render2_ex_4_yourstudentID_L2.jpg_**  
-  **_render3_ex_4_yourstudentID_L2.jpg_**
-15. Compress the project folder once you’ve completed the tutorial and rename it **_ex_4_yourstudentID_L2.zip._**
-16. Upload the .zip file to Lore → Calendar → Exercise 4.
-17. Download and unzip the file that you uploaded to ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded as a late submission, or a 50% reduction in your grade.
+11. Save your color texture maps in the sourceimages folder as:
+  **_color1-{{ page.submission-id }}.jpg_**
+  **_color2-{{ page.submission-id }}.jpg_**
+  **_color3-{{ page.submission-id }}.jpg_**
+12. Add surface details with bump maps. Save your bump texture maps in the sourceimages folder as:
+  **_bump1-{{ page.submission-id }}.jpg_**
+  **_bump2-{{ page.submission-id }}.jpg_**
+  **_bump3-{{ page.submission-id }}.jpg_**
+13. Enable **_Depth of Field_** on Cam1 and adjust the focus length with the aid of a **_Locator_**. 
+14. Enable the following render settings:  
+  **Quality Tab**  
+    a. Overall Quality: 2
+    b. Indirect Diffuse (GI) Mode: Finalgather
+  **Common Tab**  
+    a. Presets: HD 1080
+15.  Position **_Cam1_** so that the object is in the center, filling most of the composition.
+16. Render your three scenes 960px by 540px as a JPG image from **_Cam1_** and save them in the images folder as:  
+  **_render1-{{ page.submission-id }}.jpg_**  
+  **_render2-{{ page.submission-id }}.jpg_**  
+  **_render3-{{ page.submission-id }}.jpg_**
+17. Compress the project folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}-L2.zip._**
+18. Upload the .zip file to the [submission dropbox]({{ page.assignment-dropbox }})
+19. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
 
 **Example _Level 2_ folder structure**
 
@@ -160,15 +160,12 @@ Chapter 9 and 10
     |
     ├── sourceimages/
     |   |
-    |   ├── uv1-{{ page.submission-id }}.jpg
-	|   ├── uv2-{{ page.submission-id }}.jpg
-    |   ├── uv3-{{ page.submission-id }}.jpg
+    |   ├── bump1-{{ page.submission-id }}.jpg
+	|   ├── bump2-{{ page.submission-id }}.jpg
+    |   ├── bump3-{{ page.submission-id }}.jpg
     |   ├── color1-{{ page.submission-id }}.jpg
     |   ├── color2-{{ page.submission-id }}.jpg
-    |   ├── color3-{{ page.submission-id }}.jpg
-    |   ├── ao1-{{ page.submission-id }}.jpg
-    |   ├── ao2-{{ page.submission-id }}.jpg
-    |   └── ao3-{{ page.submission-id }}.jpg
+    |   └── color3-{{ page.submission-id }}.jpg
     |
     ├── sound/
     ├── scripts/
@@ -182,6 +179,11 @@ Chapter 9 and 10
     ├── particles/
     ├── movies/
     ├── images/
+    |   |
+    |   ├── render1-{{ page.submission-id }}.mb
+    |   ├── render2-{{ page.submission-id }}.mb
+    |   └── render3-{{ page.submission-id }}.mb
+    |
     ├── data/
     ├── clips/
     ├── cache/
@@ -194,10 +196,14 @@ Chapter 9 and 10
 
 1. Watch the Essential Training and Digital Character Creation tutorials from Lynda on modeling with ZBrush through to the end.
 2. Using the techniques learned in the Digital Creature Creation tutorials, continue working on your model.
-3. Complete the your image to the level of finish of the tutorial’s final result. Instead of rendering an animated turntable, just render a single jpg image and name it **_render_ex_4_yourstudentID_L3.jpg_**.
-4. Include your zbrush work file in the .zip file with the project folder.
-5. Compress the project folder and rename it **_ex_4_yourstudentID_L3.zip._**
-6. Upload the .zip file to Lore → Calendar → Exercise 4.
+3. Complete the your image to the level of finish of the tutorial’s final result. Instead of rendering an animated turntable, render four JPG images (Top, Side, Front, 3/4 view) and name them:  
+  **_top-{{ page.submission-id }}.jpg_**
+  **_side-{{ page.submission-id }}.jpg_**
+  **_front-{{ page.submission-id }}.jpg_**
+  **_quarter-{{ page.submission-id }}.jpg_**
+7. Compress the project folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}-L3.zip._**
+8. Upload the .zip file to the [submission dropbox]({{ page.assignment-dropbox }})
+9. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
 
 **Example _Level 3_ folder structure**
 
@@ -209,7 +215,10 @@ Chapter 9 and 10
     |
     ├── sourceimages/
     |   |
-    |   ├── {{ page.submission-id }}.jpg
+    |   ├── top-{{ page.submission-id }}.jpg
+    |   ├── side-{{ page.submission-id }}.jpg
+    |   ├── front-{{ page.submission-id }}.jpg
+    |   └── quarter-{{ page.submission-id }}.jpg
     |
     ├── sound/
     ├── scripts/
