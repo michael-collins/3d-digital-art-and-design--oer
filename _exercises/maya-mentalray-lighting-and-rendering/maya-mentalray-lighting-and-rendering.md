@@ -139,10 +139,10 @@ Chapter 9 and 10
 13. Enable **_Depth of Field_** on Cam1 and adjust the focus length with the aid of a **_Locator_**. 
 14. Enable the following render settings:  
   **Quality Tab**  
-    a. Overall Quality: 2
-    b. Indirect Diffuse (GI) Mode: Finalgather
+  a. Overall Quality: 2
+  b. Indirect Diffuse (GI) Mode: Finalgather
   **Common Tab**  
-    a. Presets: HD 1080
+  a. Presets: HD 1080
 15.  Position **_Cam1_** so that the object is in the center, filling most of the composition.
 16. Render your three scenes 960px by 540px as a JPG image from **_Cam1_** and save them in the images folder as:  
   **_render1-{{ page.submission-id }}.exr_**  
