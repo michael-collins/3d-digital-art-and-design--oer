@@ -182,9 +182,9 @@ Chapter 9 and 10
     ├── movies/
     ├── images/
     |   |
-    |   ├── render1-{{ page.submission-id }}.mb
-    |   ├── render2-{{ page.submission-id }}.mb
-    |   └── render3-{{ page.submission-id }}.mb
+    |   ├── render1-{{ page.submission-id }}.exr
+    |   ├── render2-{{ page.submission-id }}.exr
+    |   └── render3-{{ page.submission-id }}.exr
     |
     ├── data/
     ├── clips/
