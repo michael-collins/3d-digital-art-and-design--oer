@@ -15,12 +15,12 @@ In this exercise, you will practice uv mapping, lighting, and rendering. There a
 
 ##Tutorials:
 
-**Level 1: Novice Students**
+**Level 1: Novice Students**  
 [Lynda.com - Essential Training](http://www.lynda.com/Maya-tutorials/Maya-2016-Essential-Training)
 [Lynda.com - Lights and Rendering](http://www.lynda.com/Maya-tutorials/Render-Settings-menu/370380/413273-4.html)  
 [Digital Tutors: Building a Backdrop](http://www.digitaltutors.com/lesson/5996-Building-a-backdrop-for-studio-lighting)
 
-**Level 2: Intermediate Students**
+**Level 2: Intermediate Students**  
 [Lynda Tutorials - Creating Textures and Shaders](http://www.lynda.com/Maya-2011-tutorials/creating-textures-and-shaders/62904-2.html)  
 [Lynda Tutorials - Lighting and Rendering in Mental Ray](http://www.lynda.com/Maya-2011-tutorials/lighting-and-rendering-in-mental-ray/61222-2.html)  
 [Digital Tutors: Building a Backdrop](http://www.digitaltutors.com/lesson/5996-Building-a-backdrop-for-studio-lighting)
