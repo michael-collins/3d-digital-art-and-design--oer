@@ -64,18 +64,18 @@ Chapter 9 and 10
 14. Match the following render settings:  
   Render using **Mental Ray**  
   **Quality Tab**  
-    1. Quality: 3
-    2. Min Sample: 10
-    3. Max Samples: 100  
+    a. Quality: 3
+    b. Min Sample: 10
+    c. Max Samples: 100  
     ![image alt text]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/images/image_2.jpg)  
   **Features Tab**
-    1. Shadows: Checked
-    2. Raytracing: Checked
-    3. Final Gathering: Checked  
+    a. Shadows: Checked
+    b. Raytracing: Checked
+    c. Final Gathering: Checked  
     ![image alt text]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/images/image_3.jpg)  
   **Common Tab**  
-    1. Presets: HD 540
-    2. Maintain Width and Height Ratio: Checked  
+    a. Presets: HD 540
+    b. Maintain Width and Height Ratio: Checked  
     ![image alt text]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/images/image_4.jpg)  
 15.  Position **_Cam1_** so that the object is in the center, filling most of the composition.
 16. Render a 960px by 540px JPG image from **_Cam1_** and save it as **_render_ex_4_yourstudentID_L1.jpg_** in the images folder.
