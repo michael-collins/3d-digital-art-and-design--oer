@@ -60,29 +60,29 @@ Chapter 9 and 10
 11. Create and apply a bump map to your Lambert called **_bump_ex_4_yourstudentID_L1.jpg _**in the *sourceimages* folder*.*
 12. Adjust the Bump Depth to **0.200**  bump2d node connected to your bump map channel.  
   ![image alt text]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/images/image_1.jpg)
-11. Enable Mental Ray as the rendering engine in the render settings.
-12. Match the following render settings:  
+13. Enable Mental Ray as the rendering engine in the render settings.
+14. Match the following render settings:  
   Render using **Mental Ray**  
   **Quality Tab**  
   1. Quality: 3
   2. Min Sample: 10
-  3. Max Samples: 100
+  3. Max Samples: 100  
   ![image alt text]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/images/image_2.jpg)
   **Features Tab**
   1. Shadows: Checked
   2. Raytracing: Checked
-  3. Final Gathering: Checked
+  3. Final Gathering: Checked  
   ![image alt text]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/images/image_3.jpg)  
   **Common Tab**  
   1. Presets: HD 540
-  2. Maintain Width and Height Ratio: Checked
+  2. Maintain Width and Height Ratio: Checked  
   ![image alt text]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/images/image_4.jpg)
-13.  Position **_Cam1_** so that the object is in the center, filling most of the composition.
-14. Render a 960px by 540px JPG image from **_Cam1_** and save it as **_render_ex_4_yourstudentID_L1.jpg_** in the images folder.
-15. Save your scene as **_ex_4_yourstudentID_L1_** in the scenes folder.
-16. Compress the project folder once you’ve completed the exercise and rename it **_ex_4_yourstudentID_L1.zip._**
-17. Upload the .zip file to Lore → Calendar → Exercise 4.
-18. Download and unzip the file that you uploaded to ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded as a late submission, or a 50% reduction in your grade.
+15.  Position **_Cam1_** so that the object is in the center, filling most of the composition.
+16. Render a 960px by 540px JPG image from **_Cam1_** and save it as **_render_ex_4_yourstudentID_L1.jpg_** in the images folder.
+17. Save your scene as **_ex_4_yourstudentID_L1_** in the scenes folder.
+18. Compress the project folder once you’ve completed the exercise and rename it **_ex_4_yourstudentID_L1.zip._**
+19. Upload the .zip file to Lore → Calendar → Exercise 4.
+20. Download and unzip the file that you uploaded to ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded as a late submission, or a 50% reduction in your grade.
 
 **Example _Level 1_ folder structure**
 
