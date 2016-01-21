@@ -68,7 +68,7 @@ Chapter 9 and 10
 14. Match the following render settings:  
   Render using **Mental Ray**  
   **Quality Tab**  
-    a. Overall Quality: 3
+    a. Overall Quality: 3  
     b. Indirect Diffuse (GI) Mode: Finalgather	
   **Common Tab**  
     a. Presets: HD 1080
