@@ -61,7 +61,7 @@ Chapter 9 and 10
 8. Create a standard 3-point lighting setup with three **_area lights_** and name them **_KeyLight_**, **_FillLight_**, and **_RimLight_**. Read More about [three point lighting](http://m5designstudio.com/2011/maya-3d-tutorials/studio-three-point-lighting/).
 9. Unfold your UVs using the UV Texture editor other UV tools.
 10. Apply a texture that you’ve created or found online and name it **_color-{{ page.submission-id }}.jpg_** in the *sourceimages* folder.
-11. Create and apply a bump map to your Lambert called **_bump-{{ page.submission-id }}.jpg _**in the *sourceimages* folder*.*
+11. Create and apply a bump map to your Lambert called **_bump-{{ page.submission-id }}.jpg _** in the **sourceimages** folder.
 12. Adjust the Bump Depth to **0.200** on the bump2d node connected to your bump map channel.  
   ![image alt text]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/images/image_1.jpg)
 13. Enable Mental Ray as the rendering engine in the render settings.
