@@ -63,19 +63,16 @@ Chapter 9 and 10
 13. Enable Mental Ray as the rendering engine in the render settings.
 14. Match the following render settings:  
   Render using **Mental Ray**  
-
   **Quality Tab**  
     1. Quality: 3
     2. Min Sample: 10
     3. Max Samples: 100  
     ![image alt text]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/images/image_2.jpg)  
-    
-  **Features Tab**  
+  **Features Tab**
     1. Shadows: Checked
     2. Raytracing: Checked
     3. Final Gathering: Checked  
     ![image alt text]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/images/image_3.jpg)  
-    
   **Common Tab**  
     1. Presets: HD 540
     2. Maintain Width and Height Ratio: Checked  
