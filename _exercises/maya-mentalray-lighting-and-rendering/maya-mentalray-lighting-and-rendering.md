@@ -16,14 +16,16 @@ In this exercise, you will practice uv mapping, lighting, and rendering. There a
 ##Tutorials:
 
 **Level 1: Novice Students**
-
-[Lynda.com - Lights and Rendering](http://www.google.com/url?q=http%3A%2F%2Fwww.lynda.com%2FMaya-tutorials%2FMaya-Essentials-6-Lights-Rendering%2F96718-2.html&sa=D&sntz=1&usg=AFQjCNGIf8249pCxjO0ckMDvpFCMXeM29w)  
+[Lynda.com - Essential Training](http://www.lynda.com/Maya-tutorials/Maya-2016-Essential-Training)
+[Lynda.com - Lights and Rendering](http://www.lynda.com/Maya-tutorials/Render-Settings-menu/370380/413273-4.html)  
 [Digital Tutors: Building a Backdrop](http://www.digitaltutors.com/lesson/5996-Building-a-backdrop-for-studio-lighting)
 
 **Level 2: Intermediate Students**
 [Lynda Tutorials - Creating Textures and Shaders](http://www.lynda.com/Maya-2011-tutorials/creating-textures-and-shaders/62904-2.html)  
 [Lynda Tutorials - Lighting and Rendering in Mental Ray](http://www.lynda.com/Maya-2011-tutorials/lighting-and-rendering-in-mental-ray/61222-2.html)  
 [Digital Tutors: Building a Backdrop](http://www.digitaltutors.com/lesson/5996-Building-a-backdrop-for-studio-lighting)
+[Color Management in Maya 2016](https://www.youtube.com/watch?v=uUmq8q23wJ8)
+
 **Level 3: Experienced Students**  
 [Lynda.com - ZBrush Essential Training](http://www.lynda.com/ZBrush-4-tutorials/Essential-Training/76980-2.html)
 [Lynda.com - ZBrush Character](http://www.lynda.com/3D-Animation-Character-Design-tutorials/Digital-Creature-Creation-in-ZBrush-Photoshop-and-Maya/83781-2.html)
@@ -60,7 +62,7 @@ Chapter 9 and 10
 9. Unfold your UVs using the UV Texture editor other UV tools.
 10. Apply a texture that you’ve created or found online and name it **_color-{{ page.submission-id }}.jpg_** in the *sourceimages* folder.
 11. Create and apply a bump map to your Lambert called **_bump-{{ page.submission-id }}.jpg _**in the *sourceimages* folder*.*
-12. Adjust the Bump Depth to **0.200**  bump2d node connected to your bump map channel.  
+12. Adjust the Bump Depth to **0.200** on the bump2d node connected to your bump map channel.  
   ![image alt text]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/images/image_1.jpg)
 13. Enable Mental Ray as the rendering engine in the render settings.
 14. Match the following render settings:  
@@ -71,7 +73,7 @@ Chapter 9 and 10
   **Common Tab**  
     a. Presets: HD 1080
 15.  Position **_Cam1_** so that the object is in the center, filling most of the composition.
-16. Render a 960px by 540px JPG image from **_Cam1_** and save it as **_render-{{ page.submission-id }}.jpg_** in the images folder.
+16. Render the 1080p image from **_Cam1_** and save it as **_render-{{ page.submission-id }}.exr_** in the images folder using OpenEXR format. (Not JPG)
 17. Save your scene as **_{{ page.submission-id }}_** in the scenes folder.
 18. Compress the project folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}-L1.zip._**
 19. Upload the .zip file to the [submission dropbox]({{ page.assignment-dropbox }})
@@ -101,7 +103,7 @@ Chapter 9 and 10
     ├── movies/
     ├── images/
     |   |
-    |   └── render-{{ page.submission-id }}.mb
+    |   └── render-{{ page.submission-id }}.exr
     |   
     ├── data/
     ├── clips/
@@ -143,9 +145,9 @@ Chapter 9 and 10
     a. Presets: HD 1080
 15.  Position **_Cam1_** so that the object is in the center, filling most of the composition.
 16. Render your three scenes 960px by 540px as a JPG image from **_Cam1_** and save them in the images folder as:  
-  **_render1-{{ page.submission-id }}.jpg_**  
-  **_render2-{{ page.submission-id }}.jpg_**  
-  **_render3-{{ page.submission-id }}.jpg_**
+  **_render1-{{ page.submission-id }}.exr_**  
+  **_render2-{{ page.submission-id }}.exr_**  
+  **_render3-{{ page.submission-id }}.exr_**
 17. Compress the project folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}-L2.zip._**
 18. Upload the .zip file to the [submission dropbox]({{ page.assignment-dropbox }})
 19. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
