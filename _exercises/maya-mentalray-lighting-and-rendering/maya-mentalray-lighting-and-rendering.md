@@ -69,7 +69,7 @@ Chapter 9 and 10
   Render using **Mental Ray**  
   **Quality Tab**  
     a. Overall Quality: 3
-    b. Indirect Diffuse (GI) Mode: Finalgather
+    b. Indirect Diffuse (GI) Mode: Finalgather	
   **Common Tab**  
     a. Presets: HD 1080
 15.  Position **_Cam1_** so that the object is in the center, filling most of the composition.
@@ -128,13 +128,13 @@ Chapter 9 and 10
 8. Create a standard 3-point lighting setup with three **_area lights_** and name them **_KeyLight_**, **_FillLight_**, and **_RimLight_**. Read More about [three point lighting](http://m5designstudio.com/2011/maya-3d-tutorials/studio-three-point-lighting/).
 9. Create a backdrop for your models [Tutorial](http://www.digitaltutors.com/lesson/5996-Building-a-backdrop-for-studio-lighting) (You may use the same one in each scene by exporting the backdrop as an FBX). 
 10. In the material attributes for each material, enable ambient occlusion.
-11. Save your color texture maps in the sourceimages folder as:
-  **_color1-{{ page.submission-id }}.jpg_**
-  **_color2-{{ page.submission-id }}.jpg_**
+11. Save your color texture maps in the sourceimages folder as:  
+  **_color1-{{ page.submission-id }}.jpg_**  
+  **_color2-{{ page.submission-id }}.jpg_**  
   **_color3-{{ page.submission-id }}.jpg_**
-12. Add surface details with bump maps. Save your bump texture maps in the sourceimages folder as:
-  **_bump1-{{ page.submission-id }}.jpg_**
-  **_bump2-{{ page.submission-id }}.jpg_**
+12. Add surface details with bump maps. Save your bump texture maps in the sourceimages folder as:  
+  **_bump1-{{ page.submission-id }}.jpg_**  
+  **_bump2-{{ page.submission-id }}.jpg_**  
   **_bump3-{{ page.submission-id }}.jpg_**
 13. Enable **_Depth of Field_** on Cam1 and adjust the focus length with the aid of a **_Locator_**. 
 14. Enable the following render settings:  
