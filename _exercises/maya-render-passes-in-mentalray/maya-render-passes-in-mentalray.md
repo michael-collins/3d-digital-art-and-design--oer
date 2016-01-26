@@ -51,12 +51,12 @@ Youtube: [http://youtu.be/RJoSIySo4tw](http://youtu.be/RJoSIySo4tw)
 3. Create a sculpture using only primitive shapes. You can rotate, translate, scale, and smooth the primitives with the Smooth tool (Not the smooth preview), but you cannot adjust individual vertices. The shapes should have a mia_material_x_passes material assigned. You may assign different versions of this material to different shapes, adjusting the attributes of the materials to your liking. Focus on creating interesting composition and contrast.
 4. Create lighting using at least two area lights, or image based lighting.
 5. Enable following features and settings:
-  a. Ambient Occlusion (Found in the material attributes and the render settings)
-  b. Shadows (Enable in area light attributes under raytracing)
-  c. Reflections (Enable in Mental Ray render settings)
-  d. Global Illumination (Enable in Mental Ray render settings)
-  e. Final Gathering (Enable in Mental Ray render settings)
-  f. Unified Sampling Quality: 1.5 (Mental Ray render settings)
+   a. Ambient Occlusion (Found in the material attributes and the render settings)
+   b. Shadows (Enable in area light attributes under raytracing)
+   c. Reflections (Enable in Mental Ray render settings)
+   d. Global Illumination (Enable in Mental Ray render settings)
+   e. Final Gathering (Enable in Mental Ray render settings)
+   f. Unified Sampling Quality: 1.5 (Mental Ray render settings)
 6. In the Render Settings, under the common tab, change the image size to width of 1920px and a height of 1080px.
 7. Create a new Render Layer in the Layer Editor. To do this, open the outliner and select your meshes by Command clicking to select multiple objects. Once your meshes are selected, open the Channel Box/Layer Editor and click on Layers → Create Layer from Selected. Then, click on Layer → Attributes. In the attributes, click on presets and choose Luminance Depth. You must dial in the settings to match your scene, or it will not render properly. Please see [this tutorial](http://www.digitaltutors.com/11/training.php?vid=10044&autoplay=1) for more detail. Repeat this process to create a Render Layer for Ambient Occlusion by choosing the Ambient Occlusion preset in the Render Layer attributes. Or, set it up manually by following [this tutorial](http://www.digitaltutors.com/11/training.php?vid=13589&autoplay=1). Again, tweak settings to your scene.  
   ![image alt text](images/image_0.jpg)
