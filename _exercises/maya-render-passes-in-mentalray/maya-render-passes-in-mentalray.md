@@ -118,15 +118,15 @@ Youtube: [http://youtu.be/RJoSIySo4tw](http://youtu.be/RJoSIySo4tw)
   - Reflection / Screen
   - Indirect / Screen
   - Ambient Occlusion / Multiply
-  - Diffuse / Normal
+  - Diffuse / Normal  
   **Channels:**  
   - Luminance Depth / Normal (Copy this layer and paste into [a new alpha channel](http://www.lynda.com/Photoshop-tutorials/Photoshop-Masking-Compositing-Fundamentals/86002-2.html?srchtrk=index%3a4%0alinktypeid%3a2%0aq%3aphotoshop+alpha+channel%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2))  
   ![image alt text](images/image_5.jpg) ![image alt text](images/image_6.jpg)
 13. Create a new layer that is all of the other layers merged together. Choose Filter → Blur → Lens Blur. Choose the new alpha channel you created from the source dropdown. Adjust the blur settings as desired.  
-  **Source: ****_depth_**  
+  **Source: _depth_**  
   ![image alt text](images/image_7.jpg)
 14. Consider color grading options. Here is some [inspiration](http://sixrevisions.com/photoshop/22-professional-photoshop-image-enhancing-tutorials/).
-15. Save the PSD file **WITH ABOVE LAYERS **as **_{{ page.submission-id }}.psd_** inside the images folder.
+15. Save the PSD file **WITH ABOVE LAYERS** as **_{{ page.submission-id }}.psd_** inside the images folder.
 16. Compress **ONLY** the PSD file once you’ve completed the tutorial and rename it **_{{ page.submission-id }}-L2.zip._**
 17. Upload the .zip file to the [submission dropbox]({{ page.assignment-dropbox }})
 18. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
@@ -135,16 +135,16 @@ Youtube: [http://youtu.be/RJoSIySo4tw](http://youtu.be/RJoSIySo4tw)
 
 1. Watch tutorials on creating render passes.
 2. Create a new project folder called **_{{ page.submission-id }}-L3_** and set your scene to the project folder, and create the sub folders by choosing *File* → *Project Window → Accept.*
-3. Continue working on your Teddy Bear from previous lessons. Focus on creating interesting composition and contrast.
+3. Continue working on your model from previous lessons. Focus on creating interesting composition and contrast.
 4. Create lighting using image based lighting with at least one area light.
 5. Enable following features and settings:
-  a. Ambient Occlusion (Found in the spotlight attributes and the render settings)
-  b. Shadows (Enable in area light attributes under raytracing)
-  c. Reflections (Enable in Mental Ray render settings)
-  d. Global Illumination (Enable in Mental Ray render settings)
-  e. Final Gathering (Enable in Mental Ray render settings)
-  f. Unified Sampling Quality: 1.5 (Mental Ray render settings)
-  g. Uncheck Default Light (Render Settings → Common → Render Options)
+  - Ambient Occlusion (Found in the spotlight attributes and the render settings)
+  - Shadows (Enable in area light attributes under raytracing)
+  - Reflections (Enable in Mental Ray render settings)
+  - Global Illumination (Enable in Mental Ray render settings)
+  - Final Gathering (Enable in Mental Ray render settings)
+  - Unified Sampling Quality: 1.5 (Mental Ray render settings)
+  - Uncheck Default Light (Render Settings → Common → Render Options)
 6. In the Render Settings, under the common tab, change the image size to width of 640 and a height of 360.
 7. Create a new Render Layer in the Layer Editor. To do this, open the outliner and select your meshes by Command clicking to select multiple objects. Once your meshes are selected, open the Channel Box/Layer Editor and click on Layers → Create Layer from Selected. Then, click on Layer → Attributes. In the attributes, click on presets and choose Luminance Depth. You must dial in the settings to match your scene, or it will not render properly. Please see [this tutorial](http://www.digitaltutors.com/11/training.php?vid=10044&autoplay=1) for more detail. Repeat this process to create a Render Layer for Ambient Occlusion by choosing the Ambient Occlusion preset in the Render Layer attributes. Or, set it up manually by following [this tutorial](http://www.digitaltutors.com/11/training.php?vid=13589&autoplay=1). Again, tweak settings to your scene.  
 ![image alt text](images/image_8.jpg)  
@@ -165,6 +165,7 @@ Youtube: [http://youtu.be/RJoSIySo4tw](http://youtu.be/RJoSIySo4tw)
   - Indirect / Screen  
   - Ambient Occlusion / Multiply  
   - Diffuse / Normal  
+    
   **Channels:**  
   - Luminance Depth / Normal (Copy this layer and paste into a new alpha channel)  
   ![image alt text](images/image_9.jpg)![image alt text](images/image_10.jpg)
