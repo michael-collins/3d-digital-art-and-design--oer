@@ -2,14 +2,11 @@
 title: Maya Mentalray IBL
 subtitle: 
 layout: exercise
-submission-id: ibl-rendering-YOURSTUDENTID
+submission-id: mr-ibl-YOURSTUDENTID
 assignment-dropbox: ttps://psu.box.com/signup/collablink/d_6058207193/113696a8f0e644
 ---
 
 In this exercise, you will practice uv mapping, lighting, and rendering. There are different tutorials and exercise submission requirements for three experience levels. Choose the experience level that matches your own.
-
-![image alt text]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/images/image_0.png)
-
 
 #Learning Resources**
 
