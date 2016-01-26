@@ -164,15 +164,15 @@ Youtube: [http://youtu.be/RJoSIySo4tw](http://youtu.be/RJoSIySo4tw)
   - Reflection / Screen
   - Indirect / Screen
   - Ambient Occlusion / Multiply
-  - Diffuse / Normal
+  - Diffuse / Normal  
   **Channels:**  
   - Luminance Depth / Normal (Copy this layer and paste into a new alpha channel)  
   ![image alt text](images/image_9.jpg)![image alt text](images/image_10.jpg)
 13. Create a new layer that is all of the other layers merged together. Choose Filter → Blur → Lens Blur. Choose the new alpha channel you created from the source dropdown. Adjust the settings as necessary.  
-  **Source: ****_depth_**  
+  **Source: _depth_**  
   ![image alt text](images/image_11.jpg)  
 14. Consider color grading options. Here is some [inspiration](http://sixrevisions.com/photoshop/22-professional-photoshop-image-enhancing-tutorials/).
-15. Save the PSD file **WITH ABOVE LAYERS **as **_{{ page.submission-id }}.psd._**
+15. Save the PSD file **WITH ABOVE LAYERS** as **_{{ page.submission-id }}.psd._**
 16. Compress **ONLY** the PSD file once you’ve completed the tutorial and rename it **_{{ page.submission-id }}-L3.zip._**
 17. Upload the .zip file to the [submission dropbox]({{ page.assignment-dropbox }})
 18. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
