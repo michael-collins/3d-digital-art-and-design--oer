@@ -8,7 +8,7 @@ layout: exercise
 
 In this exercise, you will practice creating transparency masks and layered textures.
 
-![image alt text](images/image_0.jpg)
+![image alt text]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/images/image_0.jpg)
 
 * * *
 
@@ -56,7 +56,7 @@ Vimeo: [Creating layered mia-materials](https://vimeo.com/23032246)
 
 **Your scene should be similar to the below screenshot:**
 
-![image alt text](images/image_1.jpg)
+![image alt text]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/images/image_1.jpg)
 
 9) Create a UV Map, and use the UV Texture Editor to fine tune the UVs. Cylindrical mapping via **Create UVs → Cylindrical Mapping** might be a good starting point. Save the UV Snapshot (1024px by 1024px) as **_uv_ex_5_yourstudentID_L1_2.jpg_** in the *sourceimages* folder*.*
 
@@ -92,9 +92,9 @@ Bump: Bump Texture
 
 15) **Enable following features and settings:**
 
-![image alt text](images/image_2.jpg)![image alt text](images/image_3.jpg)
+![image alt text]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/images/image_2.jpg)![image alt text](images/image_3.jpg)
 
-![image alt text](images/image_4.jpg)
+![image alt text]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/images/image_4.jpg)
 
 16)  Position the new perspective camera so that you have the desired composition.
 
@@ -130,7 +130,7 @@ Note: If your masks are not working, use the Alpha as Luminance setting: **Mask 
 
 **Your scene should be similar to the below screenshot:**
 
-![image alt text](images/image_5.jpg)
+![image alt text]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/images/image_5.jpg)
 
 9) Create a UV Map, and use the UV Texture Editor to fine tune the UVs. Cylindrical mapping via **Create UVs → Cylindrical Mapping** might be a good starting point. Save the UV Snapshot (1024px by 1024px) as **_uv_ex_5_yourstudentID_L3.jpg_** in the *sourceimages* folder*.*
 
@@ -174,9 +174,9 @@ Bump: Bump Texture
 
 16) **Enable following features and settings:**
 
-![image alt text](images/image_6.jpg)![image alt text](images/image_7.jpg)
+![image alt text]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/images/image_6.jpg)![image alt text](images/image_7.jpg)
 
-![image alt text](images/image_8.jpg)
+![image alt text]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/images/image_8.jpg)
 
 17)  Position the new perspective camera so that you have the desired composition.
 
