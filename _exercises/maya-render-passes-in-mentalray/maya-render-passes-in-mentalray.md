@@ -3,7 +3,7 @@ title: Maya Render Passes in Mentalray
 subtitle: 
 layout: exercise
 submission-id: mr-passes-YOURSTUDENTID
-assignment-dropbox: https://psu.box.com/signup/collablink/d_6058207193/113696a8f0e644
+assignment-dropbox: 
 ---
 
 In this exercise, you will produce render passes and composite your renders together in Photoshop to create the final image.
