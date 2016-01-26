@@ -160,12 +160,11 @@ Youtube: [http://youtu.be/RJoSIySo4tw](http://youtu.be/RJoSIySo4tw)
 11. Choose Rendering from the drop down tab at the top left of the interface. In the menu at the top, choose Render → Batch Render.
 12. Create a new Photoshop document that is the size of your renders. Create the following layers with their respective blending mode:  
   **Layers:**  
-  - Specular / Screen  
-  - Reflection / Screen  
-  - Indirect / Screen  
-  - Ambient Occlusion / Multiply  
-  - Diffuse / Normal  
-
+  - Specular / Screen
+  - Reflection / Screen
+  - Indirect / Screen
+  - Ambient Occlusion / Multiply
+  - Diffuse / Normal
   **Channels:**  
   - Luminance Depth / Normal (Copy this layer and paste into a new alpha channel)  
   ![image alt text](images/image_9.jpg)![image alt text](images/image_10.jpg)
