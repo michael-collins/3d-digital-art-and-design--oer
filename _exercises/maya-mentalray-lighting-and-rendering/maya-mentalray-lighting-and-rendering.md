@@ -198,7 +198,7 @@ Chapter 9 and 10
 
 1. Watch the Essential Training and Digital Character Creation tutorials from Lynda on modeling with ZBrush through to the end.
 2. Using the techniques learned in the Digital Creature Creation tutorials, continue working on your model.
-3. Complete the your image to the level of finish of the tutorial’s final result. Instead of rendering an animated turntable, render four JPG images (Top, Side, Front, 3/4 view) and name them:  
+3. Complete the your image to the level of finish of the tutorial’s final result. Instead of rendering an animated turntable, render four EXR images (Top, Side, Front, 3/4 view) and name them:  
   **_top-{{ page.submission-id }}.exr_**  
   **_side-{{ page.submission-id }}.exr_**  
   **_front-{{ page.submission-id }}.exr_**  

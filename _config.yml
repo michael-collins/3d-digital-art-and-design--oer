@@ -15,6 +15,9 @@ collections:
   exercises:
     output: true
     permalink: /exercises/:title.html
+  projects:
+    output: true
+    permalink: /projects/:title.html
   grading:
     output: true
     permalink: /grading/:title.html
