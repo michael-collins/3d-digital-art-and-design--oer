@@ -59,7 +59,7 @@ Youtube: [http://youtu.be/RJoSIySo4tw](http://youtu.be/RJoSIySo4tw)
   - Unified Sampling Quality: 1.5 (Mental Ray render settings)
 6. In the Render Settings, under the common tab, change the image size to width of 1920px and a height of 1080px.
 7. Create a new Render Layer in the Layer Editor. To do this, open the outliner and select your meshes by Command clicking to select multiple objects. Once your meshes are selected, open the Channel Box/Layer Editor and click on Layers → Create Layer from Selected. Then, click on Layer → Attributes. In the attributes, click on presets and choose Luminance Depth. You must dial in the settings to match your scene, or it will not render properly. Please see [this tutorial](http://www.digitaltutors.com/11/training.php?vid=10044&autoplay=1) for more detail. Repeat this process to create a Render Layer for Ambient Occlusion by choosing the Ambient Occlusion preset in the Render Layer attributes. Or, set it up manually by following [this tutorial](http://www.digitaltutors.com/11/training.php?vid=13589&autoplay=1). Again, tweak settings to your scene.  
-  ![image alt text](images/image_0.jpg)
+  ![image alt text]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/images/image_0.jpg)
 8. Click on the MasterLayer. Open the Render Settings and click on the Passes tab. **Create the following passes:**
   - Diffuse
   - Indirect
@@ -77,10 +77,10 @@ Youtube: [http://youtu.be/RJoSIySo4tw](http://youtu.be/RJoSIySo4tw)
   - Diffuse / Normal
   Channels:  
   - Luminance Depth / Normal (Copy this layer and paste into [a new alpha channel](http://www.lynda.com/Photoshop-tutorials/Photoshop-Masking-Compositing-Fundamentals/86002-2.html?srchtrk=index%3a4%0alinktypeid%3a2%0aq%3aphotoshop+alpha+channel%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2))  
-  ![image alt text](images/image_1.jpg)![image alt text](images/image_2.jpg)
+  ![image alt text]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/images/image_1.jpg)![image alt text]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/images/image_2.jpg)
 13. Create a new layer that is all of the other layers merged together. Choose Filter → Blur → Lens Blur. Choose the new alpha channel you created from the source dropdown. Adjust the settings as necessary.  
   **Source: _depth_**  
-  ![image alt text](images/image_3.jpg)
+  ![image alt text]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/images/image_3.jpg)
 14. Consider color grading options. Here is some [inspiration](http://sixrevisions.com/photoshop/22-professional-photoshop-image-enhancing-tutorials/).
 15. Save the PSD file **WITH ABOVE LAYERS** as **_{{ page.submission-id }}.psd._**
 16. Compress **ONLY** the PSD file once you’ve completed the tutorial and rename it **_{{ page.submission-id }}-L1.zip._**
@@ -102,7 +102,7 @@ Youtube: [http://youtu.be/RJoSIySo4tw](http://youtu.be/RJoSIySo4tw)
   - Unified Sampling Quality: 1.5 (Mental Ray render settings)
 6. In the Render Settings, under the common tab, change the image size to width of 640 and a height of 360.
 7. Create a new Render Layer in the Layer Editor. To do this, open the outliner and select your meshes by Command clicking to select multiple objects. Once your meshes are selected, open the Channel Box/Layer Editor and click on Layers → Create Layer from Selected. Then, click on Layer → Attributes. In the attributes, click on presets and choose Luminance Depth. You must dial in the settings to match your scene, or it will not render properly. Please see [this tutorial](http://www.digitaltutors.com/11/training.php?vid=10044&autoplay=1) for more detail. Repeat this process to create a Render Layer for Ambient Occlusion by choosing the Ambient Occlusion preset in the Render Layer attributes. Or, set it up manually by following [this tutorial](http://www.digitaltutors.com/11/training.php?vid=13589&autoplay=1). Again, tweak settings to your scene.  
-  ![image alt text](images/image_4.jpg)
+  ![image alt text]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/images/image_4.jpg)
 8. Click on the MasterLayer. Open the Render Settings and click on the Passes tab. **Create the following passes:**
   - Diffuse
   - Indirect
@@ -121,10 +121,10 @@ Youtube: [http://youtu.be/RJoSIySo4tw](http://youtu.be/RJoSIySo4tw)
   - Diffuse / Normal  
   **Channels:**  
   - Luminance Depth / Normal (Copy this layer and paste into [a new alpha channel](http://www.lynda.com/Photoshop-tutorials/Photoshop-Masking-Compositing-Fundamentals/86002-2.html?srchtrk=index%3a4%0alinktypeid%3a2%0aq%3aphotoshop+alpha+channel%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2))  
-  ![image alt text](images/image_5.jpg) ![image alt text](images/image_6.jpg)
+  ![image alt text]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/images/image_5.jpg) ![image alt text]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/images/image_6.jpg)
 13. Create a new layer that is all of the other layers merged together. Choose Filter → Blur → Lens Blur. Choose the new alpha channel you created from the source dropdown. Adjust the blur settings as desired.  
   **Source: _depth_**  
-  ![image alt text](images/image_7.jpg)
+  ![image alt text]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/images/image_7.jpg)
 14. Consider color grading options. Here is some [inspiration](http://sixrevisions.com/photoshop/22-professional-photoshop-image-enhancing-tutorials/).
 15. Save the PSD file **WITH ABOVE LAYERS** as **_{{ page.submission-id }}.psd_** inside the images folder.
 16. Compress **ONLY** the PSD file once you’ve completed the tutorial and rename it **_{{ page.submission-id }}-L2.zip._**
@@ -147,7 +147,7 @@ Youtube: [http://youtu.be/RJoSIySo4tw](http://youtu.be/RJoSIySo4tw)
   - Uncheck Default Light (Render Settings → Common → Render Options)
 6. In the Render Settings, under the common tab, change the image size to width of 640 and a height of 360.
 7. Create a new Render Layer in the Layer Editor. To do this, open the outliner and select your meshes by Command clicking to select multiple objects. Once your meshes are selected, open the Channel Box/Layer Editor and click on Layers → Create Layer from Selected. Then, click on Layer → Attributes. In the attributes, click on presets and choose Luminance Depth. You must dial in the settings to match your scene, or it will not render properly. Please see [this tutorial](http://www.digitaltutors.com/11/training.php?vid=10044&autoplay=1) for more detail. Repeat this process to create a Render Layer for Ambient Occlusion by choosing the Ambient Occlusion preset in the Render Layer attributes. Or, set it up manually by following [this tutorial](http://www.digitaltutors.com/11/training.php?vid=13589&autoplay=1). Again, tweak settings to your scene.  
-![image alt text](images/image_8.jpg)  
+![image alt text]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/images/image_8.jpg)  
 8. Click on the MasterLayer. Open the Render Settings and click on the Passes tab. **Create the following passes:**
   - Specular / Screen
   - Reflection / Screen
@@ -167,10 +167,10 @@ Youtube: [http://youtu.be/RJoSIySo4tw](http://youtu.be/RJoSIySo4tw)
   - Diffuse / Normal  
   **Channels:**  
   - Luminance Depth / Normal (Copy this layer and paste into a new alpha channel)  
-  ![image alt text](images/image_9.jpg)![image alt text](images/image_10.jpg)
+  ![image alt text]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/images/image_9.jpg)![image alt text]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/images/image_10.jpg)
 13. Create a new layer that is all of the other layers merged together. Choose Filter → Blur → Lens Blur. Choose the new alpha channel you created from the source dropdown. Adjust the settings as necessary.  
   **Source: _depth_**  
-  ![image alt text](images/image_11.jpg)  
+  ![image alt text]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/images/image_11.jpg)  
 14. Consider color grading options. Here is some [inspiration](http://sixrevisions.com/photoshop/22-professional-photoshop-image-enhancing-tutorials/).
 15. Save the PSD file **WITH ABOVE LAYERS** as **_{{ page.submission-id }}.psd._**
 16. Compress **ONLY** the PSD file once you’ve completed the tutorial and rename it **_{{ page.submission-id }}-L3.zip._**
