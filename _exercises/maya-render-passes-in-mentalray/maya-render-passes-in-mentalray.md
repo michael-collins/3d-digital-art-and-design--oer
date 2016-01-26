@@ -66,7 +66,7 @@ Youtube: [http://youtu.be/RJoSIySo4tw](http://youtu.be/RJoSIySo4tw)
   - Reflection
   - Specular
 9. Highlight the passes and click on the link icon to associate them with the render layer. They will move to the box below.
-10. Image format: PNG. In Render Settings, go to the common tab → File Output. Type the following into the File Name Prefix box: **_<RenderLayer>/<RenderPass>_**
+10. Image format: PNG. In Render Settings, go to the common tab → File Output. Type the following into the File Name Prefix box: ``` <RenderLayer>/<RenderPass> ```
 11. Choose Rendering from the drop down tab at the top left of the interface. In the menu at the top, choose Render → Batch Render.
 12. Create a new Photoshop document that is the size of your renders. Create the following layers with their respective blending mode:
   Layers:  
@@ -79,7 +79,7 @@ Youtube: [http://youtu.be/RJoSIySo4tw](http://youtu.be/RJoSIySo4tw)
   - Luminance Depth / Normal (Copy this layer and paste into [a new alpha channel](http://www.lynda.com/Photoshop-tutorials/Photoshop-Masking-Compositing-Fundamentals/86002-2.html?srchtrk=index%3a4%0alinktypeid%3a2%0aq%3aphotoshop+alpha+channel%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2))  
   ![image alt text](images/image_1.jpg)![image alt text](images/image_2.jpg)
 13. Create a new layer that is all of the other layers merged together. Choose Filter → Blur → Lens Blur. Choose the new alpha channel you created from the source dropdown. Adjust the settings as necessary.  
-  **Source: ****_depth_**  
+  **Source: _depth_**  
   ![image alt text](images/image_3.jpg)
 14. Consider color grading options. Here is some [inspiration](http://sixrevisions.com/photoshop/22-professional-photoshop-image-enhancing-tutorials/).
 15. Save the PSD file **WITH ABOVE LAYERS** as **_{{ page.submission-id }}.psd._**
@@ -90,7 +90,7 @@ Youtube: [http://youtu.be/RJoSIySo4tw](http://youtu.be/RJoSIySo4tw)
 ### <a name="level-2"></a>Level 2:
 
 1. Watch tutorials on creating render passes.
-2. Create a new project folder, called **_{{ page.submission-id }}-L2,_** set your scene to the project folder, and create the sub folders by choosing **_File_** → **_Project Window_*** → ***_Accept_***.*
+2. Create a new project folder, called **_{{ page.submission-id }}-L2,_** set your scene to the project folder, and create the sub folders by choosing **_File_** → **_Project Window_** → **_Accept_**.
 3. Continue using your shapes from previous exercises. The shapes should have a mia_material_x_passes material assigned. You may assign different versions of this material to different shapes, adjusting the attributes of the materials to your liking. Focus on creating interesting composition and contrast.
 4. Create lighting using the 3-point lighting setup with a backdrop.
 5. Enable following features and settings:
@@ -110,7 +110,7 @@ Youtube: [http://youtu.be/RJoSIySo4tw](http://youtu.be/RJoSIySo4tw)
   - Specular
   - Refraction (Formerly caustics, only if you are rendering glass)
 9. Highlight the passes and click on the link icon to associate them with the render layer. They will move to the box below.
-10. In Render Settings, go to the common tab → File Output. Type the following into the File Name Prefix box: **_<RenderLayer>/<RenderPass>_**
+10. In Render Settings, go to the common tab → File Output. Type the following into the File Name Prefix box: ``` <RenderLayer>/<RenderPass> ```
 11. Choose Rendering from the drop down tab at the top left of the interface. In the menu at the top, choose Render → Batch Render.
 12. Create a new Photoshop document that is the size of your renders. Create the following layers with their respective blending mode:  
   **Layers:**
