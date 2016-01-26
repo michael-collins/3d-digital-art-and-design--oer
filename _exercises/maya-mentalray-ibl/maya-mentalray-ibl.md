@@ -15,9 +15,10 @@ In this exercise, you will practice uv mapping, lighting, and rendering. There a
 **Level 1: Novice Students**  
 [Image Based Lighting](https://www.youtube.com/watch?v=cKul2-bmBwY)  
 [Digital Tutors: Building a Backdrop](http://www.digitaltutors.com/lesson/5996-Building-a-backdrop-for-studio-lighting)  
+[Lynda - mia_material_x](http://www.lynda.com/Maya-tutorials/mia-material-X-overview/167357/367262-4.html)
 
 **Level 2: Intermediate Students**  
-[Make your own HDR Environment Map](http://cgalter.com/custom-studio-hdr/)
+[Make your own HDR Environment Map](http://cgalter.com/custom-studio-hdr/)  
 [MILA Material and Passes:](http://lesterbanks.com/2015/10/mila-render-passes-in-maya-2016-how-to-enable-the-legacy-system/)  
 [MILA Material](http://www.digitaltutors.com/tutorial/2284-Building-a-Toy-Plane-for-3D-Printing-in-Maya-and-Mudbox#play-53382)  
 [Layering with MILA](https://www.youtube.com/watch?v=_LhQgRiZknE)  
@@ -28,7 +29,7 @@ In this exercise, you will practice uv mapping, lighting, and rendering. There a
 [MILA Material and Passes:](http://lesterbanks.com/2015/10/mila-render-passes-in-maya-2016-how-to-enable-the-legacy-system/)  
 [MILA Material](http://www.digitaltutors.com/tutorial/2284-Building-a-Toy-Plane-for-3D-Printing-in-Maya-and-Mudbox#play-53382)  
 [Layering with MILA](https://www.youtube.com/watch?v=_LhQgRiZknE)  
-[MILA Subsurface Scattering](https://www.youtube.com/watch?v=vU-iL1HnEm0)
+[MILA Subsurface Scattering](https://www.youtube.com/watch?v=vU-iL1HnEm0)  
 [Ambient Occlusion in MILA](http://forums.autodesk.com/t5/shading-lighting-and-rendering/maya-2016-ambient-occlusion-with-mila/td-p/5740868)  
 
 **Website References**
