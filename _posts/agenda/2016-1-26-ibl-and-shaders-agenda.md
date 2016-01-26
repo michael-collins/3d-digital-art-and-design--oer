@@ -10,7 +10,7 @@ excerpt: IBL lighting and Mentalray materials.
 ###Agenda
 
 1. **Video Screening**
-  - [The Third & The Seventh - Alex Roman (November 24, 2009)](https://vimeo.com/7809605)
+  - [Peripetics)](https://vimeo.com/3268624)
   - [Color Grading Reel](https://vimeo.com/116019668)
   - [Chris Staley - Metaphors in Art](https://www.youtube.com/watch?v=WffFZB7blFE&list=PLkUJGaipeBW05fK1_nKq73SsiYgynGvVq&index=3)
 2. **Terminology**
