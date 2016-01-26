@@ -1,5 +1,5 @@
 ---
-title: Maya Mentalray and Image Based Lighting (IBL)
+title: Maya Mentalray IBL
 subtitle: 
 layout: exercise
 submission-id: ibl-rendering-YOURSTUDENTID
