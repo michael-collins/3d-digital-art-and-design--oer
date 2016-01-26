@@ -156,7 +156,7 @@ Youtube: [http://youtu.be/RJoSIySo4tw](http://youtu.be/RJoSIySo4tw)
   - Diffuse / Normal
   - Luminance Depth / Normal (Copy this layer and paste into [a new alpha channel](http://www.lynda.com/Photoshop-tutorials/Photoshop-Masking-Compositing-Fundamentals/86002-2.html?srchtrk=index%3a4%0alinktypeid%3a2%0aq%3aphotoshop+alpha+channel%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2))
 9. Highlight the passes and click on the link icon to associate them with the render layer. They will move to the box below.
-10. In Render Settings, go to the common tab → File Output. Type the following into the File Name Prefix box: ``` **_<RenderLayer>/<RenderPass>_** ```
+10. In Render Settings, go to the common tab → File Output. Type the following into the File Name Prefix box: ``` <RenderLayer>/<RenderPass> ```
 11. Choose Rendering from the drop down tab at the top left of the interface. In the menu at the top, choose Render → Batch Render.
 12. Create a new Photoshop document that is the size of your renders. Create the following layers with their respective blending mode:  
   **Layers:**  
