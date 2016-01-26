@@ -11,7 +11,7 @@ In this exercise, you will practice uv mapping, lighting, and rendering. There a
 ![image alt text]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/images/image_0.png)
 
 
-#Learning Resources**
+#Learning Resources
 
 ##Tutorials:
 

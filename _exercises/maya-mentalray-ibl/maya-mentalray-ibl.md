@@ -8,7 +8,7 @@ assignment-dropbox: https://psu.box.com/signup/collablink/d_6058206453/11f024784
 
 In this exercise, you will practice uv mapping, lighting, and rendering. There are different tutorials and exercise submission requirements for three experience levels. Choose the experience level that matches your own.
 
-#Learning Resources**
+#Learning Resources
 
 ##Tutorials:
 
