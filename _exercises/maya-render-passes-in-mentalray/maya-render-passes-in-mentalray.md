@@ -100,7 +100,7 @@ Youtube: [http://youtu.be/RJoSIySo4tw](http://youtu.be/RJoSIySo4tw)
   - Global Illumination (Enable in Mental Ray render settings)
   - Final Gathering (Enable in Mental Ray render settings)
   - Unified Sampling Quality: 1.5 (Mental Ray render settings)
-6. In the Render Settings, under the common tab, change the image size to width of 640 and a height of 360.
+6. In the Render Settings, under the common tab, change the image size to width of 1920px and a height of 1080px.
 7. Create a new Render Layer in the Layer Editor. To do this, open the outliner and select your meshes by Command clicking to select multiple objects. Once your meshes are selected, open the Channel Box/Layer Editor and click on Layers → Create Layer from Selected. Then, click on Layer → Attributes. In the attributes, click on presets and choose Luminance Depth. You must dial in the settings to match your scene, or it will not render properly. Please see [this tutorial](http://www.digitaltutors.com/11/training.php?vid=10044&autoplay=1) for more detail. Repeat this process to create a Render Layer for Ambient Occlusion by choosing the Ambient Occlusion preset in the Render Layer attributes. Or, set it up manually by following [this tutorial](http://www.digitaltutors.com/11/training.php?vid=13589&autoplay=1). Again, tweak settings to your scene.  
   ![image alt text]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/images/image_4.jpg)
 8. Click on the MasterLayer. Open the Render Settings and click on the Passes tab. **Create the following passes:**
@@ -145,7 +145,7 @@ Youtube: [http://youtu.be/RJoSIySo4tw](http://youtu.be/RJoSIySo4tw)
   - Final Gathering (Enable in Mental Ray render settings)
   - Unified Sampling Quality: 1.5 (Mental Ray render settings)
   - Uncheck Default Light (Render Settings → Common → Render Options)
-6. In the Render Settings, under the common tab, change the image size to width of 640 and a height of 360.
+6. In the Render Settings, under the common tab, change the image size to width of 1920px and a height of 1080px.
 7. Create a new Render Layer in the Layer Editor. To do this, open the outliner and select your meshes by Command clicking to select multiple objects. Once your meshes are selected, open the Channel Box/Layer Editor and click on Layers → Create Layer from Selected. Then, click on Layer → Attributes. In the attributes, click on presets and choose Luminance Depth. You must dial in the settings to match your scene, or it will not render properly. Please see [this tutorial](http://www.digitaltutors.com/11/training.php?vid=10044&autoplay=1) for more detail. Repeat this process to create a Render Layer for Ambient Occlusion by choosing the Ambient Occlusion preset in the Render Layer attributes. Or, set it up manually by following [this tutorial](http://www.digitaltutors.com/11/training.php?vid=13589&autoplay=1). Again, tweak settings to your scene.  
 ![image alt text]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/images/image_8.jpg)  
 8. Click on the MasterLayer. Open the Render Settings and click on the Passes tab. **Create the following passes:**
