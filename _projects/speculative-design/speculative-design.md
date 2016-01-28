@@ -16,15 +16,15 @@ A successful project will demonstrate understanding and mastery of 3D tools and 
 
 ##Project Completion Methodology
 You will go through a variety of different project phases including:
-1. Object identification,
-2. ideation and concept development,
-3. modeling and texture map production,
-4. lighting,
-5. surface shader configuring,
-6. rendering,
-7. feedback and iterative improvement,
-8. color grading and finishing,
-9. and writing reflection.
+  1. Object identification,
+  2. ideation and concept development,
+  3. modeling and texture map production,
+  4. lighting,
+  5. surface shader configuring,
+  6. rendering,
+  7. feedback and iterative improvement,
+  8. color grading and finishing,
+  9. and writing reflection.
 
 ##Examples:
 [Vimeo Channel](https://vimeo.com/groups/designfictions)  
@@ -41,16 +41,16 @@ You will go through a variety of different project phases including:
 
 
 ##Deliverables
-1. Concept drawings and idea maps
+1. Concept drawings and idea maps (Due: 2/2/2015)
   - JPG scans or 'well-shot' and cropped photos
-2. In-process polygonal wireframes screenshots
+2. In-process polygonal wireframes screenshots (Due: 2/9/2015)
   - Use polygonal modeling techniques
   - Attempt to meet the [CheckMate 3D Modeling Standard](https://support.turbosquid.com/entries/278384-CheckMate-3D-Modeling-Standard)
-3. In-process lighting renders
+3. In-process lighting renders (Due: 2/11/2015)
   - Textures and UVs need not be finalized
-4. Three Rendered Images
+4. Three Rendered Images (Due: 2/16/2015)
   - Minimum Image Size: 1080 HD preset
 5. Written statement
-6. Final renders showing iterative improvement based on feedback
+6. Final renders showing iterative improvement based on feedback (Due: 3/2/2015)
   - Minimum Image Size: 1080 HD preset
-7. Revised work statement
+7. Revised work statement (Due: 3/2/2015)
