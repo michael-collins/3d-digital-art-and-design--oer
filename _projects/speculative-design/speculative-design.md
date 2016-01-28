@@ -16,6 +16,7 @@ A successful project will demonstrate understanding and mastery of 3D tools and 
 
 ##Project Completion Methodology
 You will go through a variety of different project phases including:
+
   1. Object identification,
   2. ideation and concept development,
   3. modeling and texture map production,
