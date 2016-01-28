@@ -1,6 +1,6 @@
 ---
 title: Speculative Design
-subtitle: 
+subtitle: Imagining design fictions
 layout: project
 ---
 #Un-nature
