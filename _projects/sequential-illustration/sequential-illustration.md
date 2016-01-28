@@ -1,7 +1,7 @@
 ---
 title: Illustration Project
 subtitle: 
-layout: exercise
+layout: project
 ---
 
 In this exercise, you will set up modeling reference planes. Three-view reference planes are much like blueprints and are essential for helping you take an idea from sketch to a polygonal mesh within Maya.

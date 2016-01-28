@@ -1,7 +1,7 @@
 ---
 title: Speculative Design
 subtitle: 
-layout: exercise
+layout: project
 ---
 #Un-nature
 
