@@ -42,16 +42,31 @@ You will go through a variety of different project phases including:
 
 
 ##Deliverables
+Please create a folder on box.psu.edu and name it **_project1-YOURUSERID_**. You will be providing a link to this project folder with permissions to download. All deliverables will be uploaded to this box folder
+
 1. Concept drawings and idea maps (Due: 2/2/2015)
-  - JPG scans or 'well-shot' and cropped photos
+  - Create a folder in your project folder called **_concepts_**
+  - Add scans or photographs and name/number according to this convention **_concept-[#].jpg_** (I.E. - concept-1.jpg) to the **_concepts_** folder
+     - 'well-photographed' and cropped/straightened photos of your concept drawings and text
+  - If you prefer to write a description, you can use .doc or .txt format
 2. In-process polygonal wireframes screenshots (Due: 2/9/2015)
-  - Use polygonal modeling techniques
+  - Create a folder in your project folder called **_wireframes_**
+  - Add screenshots of your polygonal wireframes according to this convention **_wireframe-[#].jpg_** (I.E. - wireframe-1.jpg) to the **_wireframes_** folder
   - Attempt to meet the [CheckMate 3D Modeling Standard](https://support.turbosquid.com/entries/278384-CheckMate-3D-Modeling-Standard)
 3. In-process lighting renders (Due: 2/11/2015)
-  - Textures and UVs need not be finalized
+  - Create a folder in your project folder called **_test-renders_**
+  - Add renders according to this convention **_test-render-[#].jpg_** (I.E. - test-render-1.jpg) to the **_test-renders_** folder
+  - Textures and UVs need not be finalized, but well considered and underway
 4. Three Rendered Images (Due: 2/16/2015)
+  - Create a folder in your project folder called **_renders_**
+  - Add renders according to this convention **_render-[#].jpg_** (I.E. - render-1.jpg) to the **_renders_** folder
   - Minimum Image Size: 1080 HD preset
-5. Written statement
-6. Final renders showing iterative improvement based on feedback (Due: 3/2/2015)
+5. Written statement (Due: 2/16/2015)
+  - Create a folder in your project folder called **_statement_**
+  - Write and add a statement (min 150 words) named **_statement-draft.doc_** to the **_statement_** folder
+6. Final renders showing iterative improvement based on feedback (Due: 3/1/2015)
+  - Create a folder in your project folder called **_final-renders_**
+  - Add renders according to this convention **_render-[#].jpg_** (I.E. - render-1.jpg) to the **_final-renders_** folder
   - Minimum Image Size: 1080 HD preset
-7. Revised work statement (Due: 3/2/2015)
+7. Revised work statement (Due: 3/1/2015)
+  - Write and add a statement format named (min 150 words) called **_statement-final.doc_** to the **_statement_** folder
