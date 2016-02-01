@@ -1,6 +1,6 @@
 name: 3D Digital Art and Design Open Education Resource
 author: Michael Collins
-# markdown: redcarpet
+markdown: redcarpet
 redcarpet:
     extensions: ["no_intra_emphasis", "tables", "autolink", "strikethrough", "with_toc_data"]
 baseurl: /3d-digital-art-and-design--oer
