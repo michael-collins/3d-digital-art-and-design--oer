@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project 1 Concept Due
+title: Project 1 Concepts Due
 categories: project
 comments: true
 published: true

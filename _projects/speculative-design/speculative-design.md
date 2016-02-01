@@ -46,6 +46,7 @@ Please create a folder on box.psu.edu and name it **_project1-YOURUSERID_**. You
 
 1. Concept drawings and idea maps (Due: 2/2/2015)
   - Create a folder in your project folder called **_concepts_**
+  - Please have between 3-5 ideas in mind to discuss
   - Add scans or photographs and name/number according to this convention **_concept-[#].jpg_** (I.E. - concept-1.jpg) to the **_concepts_** folder
      - 'well-photographed' and cropped/straightened photos of your concept drawings and text
   - If you prefer to write a description, you can use .doc or .txt format
