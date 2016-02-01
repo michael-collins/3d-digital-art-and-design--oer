@@ -4,7 +4,8 @@ title: Project 1 Concepts Due
 categories: project
 comments: true
 published: true
-assignment-doc: /projects/speculative-design.html
+assignment-dropbox:
+assignment-doc: projects/speculative-design.html
 ---
 
 [Project 1 Documentation]({{ site.baseurl }}/{{ page.assignment-doc }})  
