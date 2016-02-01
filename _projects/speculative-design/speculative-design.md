@@ -42,7 +42,7 @@ You will go through a variety of different project phases including:
 
 
 ##Deliverables
-Please create a folder on box.psu.edu and name it **_project1-YOURUSERID_**. You will be adding a .txt file with a folder share link to your project folder [here](https://psu.box.com/art314-spring2016-project-1). Ensure that the project folder you are linking to has permissions to view and download. All deliverables will be uploaded to your project box folder.
+Please create a folder on box.psu.edu and name it **_project1-YOURUSERID_**. You will be adding a .txt file with a folder share link to your project folder [here](https://psu.box.com/signup/collablink/d_6330622361/13671f0b80e52a). Ensure that the project folder you are linking to has permissions to view and download. All deliverables will be uploaded to your project box folder.
 
 1. **Concept drawings and idea maps (Due: 2/2/2015)**
   - Create a folder in your project folder called **_concepts_**
