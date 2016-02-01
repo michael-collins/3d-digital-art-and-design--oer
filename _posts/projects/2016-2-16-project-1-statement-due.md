@@ -8,5 +8,5 @@ assignment-dropbox: https://psu.box.com/signup/collablink/d_6330622361/13671f0b8
 assignment-doc: /projects/speculative-design.html
 ---
 
-[Project 1 Documentation]({{ site.baseurl }}/{{ page.assignment-doc }})
+[Project 1 Documentation]({{ site.baseurl }}/{{ page.assignment-doc }})  
 [Upload a doc with a link to your Project Folder here]({{ page.assignment-dropbox }}) (Only do this one time total, not for every milestone submission!)
