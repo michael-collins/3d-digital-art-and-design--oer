@@ -5,6 +5,8 @@ redcarpet:
     extensions: ["no_intra_emphasis", "tables", "autolink", "strikethrough", "with_toc_data"]
 baseurl: /3d-digital-art-and-design--oer
 permalink: pretty
+timezone: America/New_York
+future: true
 gems:
   - jekyll-sitemap
 #directoy config ########################################
