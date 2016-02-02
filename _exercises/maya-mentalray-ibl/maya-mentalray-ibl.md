@@ -38,7 +38,7 @@ In this exercise, you will practice uv mapping, lighting, and rendering. There a
 [Image Based Lighting](https://www.youtube.com/watch?v=cKul2-bmBwY)
 
 **Downloads**  
-[EXR Image Pack]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/assets/IBL-pack.zip)
+[EXR Image Pack]({{ site.baseurl  }}/exercises/IBL-pack.zip)
 
 **More Information:**
 
@@ -59,7 +59,7 @@ Textbook: Mastering Autodesk Maya 2016 (Page 355)
 5. After researching [thrown ceramic mug](https://www.google.com/search?q=ceramic+mug&espv=2&biw=1239&bih=1013&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi7lN_g7MbKAhWktoMKHRoKC1AQ_AUIBygC#tbm=isch&q=thrown+ceramic+mug), create a new scene and create a polygon model of a **thrown ceramic mug**.
 6. Create a new perspective called **_cam1_**. In the camera attributes, change the film gate to **35mm Academy**.
 7. In your Cam1 viewport, enable the Resolution Gate: **View** → **Camera** **Settings** → **Resolution** **Gate.**
-8. Create an Image Based Lighting node and create your own or select an [existing EXR image to use]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/assets/IBL-pack.zip). Name it **_ibl-{{ page.submission-id }}.exr_**
+8. Create an Image Based Lighting node and create your own or select an [existing EXR image to use]({{ site.baseurl  }}/exercises/IBL-pack.zip). Name it **_ibl-{{ page.submission-id }}.exr_**
 9. Unfold your UVs using the UV Texture editor other UV tools.
 10. Assign a new Mentalray material called a **mia_material** to your object.
 11. Apply a texture to the **color channel** that you’ve created and name it **_color-{{ page.submission-id }}.jpg_** in the *sourceimages* folder.
