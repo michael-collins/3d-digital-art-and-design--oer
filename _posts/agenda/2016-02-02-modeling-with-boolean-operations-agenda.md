@@ -1,15 +1,19 @@
 ---
 layout: post
-title: Modeling with Boolean Operations
+title: Modeling with Booleans and Rendering Masks
 categories: agenda
 comments: false
 published: true
-excerpt: We will discuss boolean operations.
+excerpt: We will discuss boolean operations and masks.
 ---
 
 ###Agenda
 
 1. **Examples**
+   - https://vimeo.com/10155028
+   - https://vimeo.com/2917970
 2. **Terminology**
-3. **Displacement Map, Sun and Sky Demo**
-4. **Assignment**
+   - Difference
+   - Union
+   - Inersection
+3. **Boolean Modeling and Mask Rendering Demo**
