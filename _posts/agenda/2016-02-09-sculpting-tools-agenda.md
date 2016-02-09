@@ -4,12 +4,13 @@ title: Maya's Sculpting Tools
 categories: agenda
 comments: false
 published: true
-excerpt: Let's take a look at some Maya sculpting tools.
+excerpt: Let's take a look at some Maya sculpting and nurbs modeling workflows.
 ---
 
 ###Agenda
 
-1. **Tools**
+1. **Tools and Terminology**
+   - Visor Editor
    - Lift
    - Smooth
    - Relax
@@ -28,4 +29,9 @@ excerpt: Let's take a look at some Maya sculpting tools.
    - Buldge
    - Amplify
    - Freeze
-2. **Sculpting Tool Demo**
+2. Curve Extrusion
+   - Control vertex
+   - Rebuild Curve
+   - Snap to curve
+   - Surface Extrude Options
+3. **Modeling and Sculpting Tool Demo**
