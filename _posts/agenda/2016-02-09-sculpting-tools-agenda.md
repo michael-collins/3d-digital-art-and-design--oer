@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Maya's Sculpting Tools
+title: Maya Sculpting and Nurbs Modeling Tools
 categories: agenda
 comments: false
 published: true
