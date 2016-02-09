@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Maya Sculpting and Nurbs Modeling Tools
+title: Maya Sculpting and Curve Modeling Tools
 categories: agenda
 comments: false
 published: true
-excerpt: Let's take a look at some Maya sculpting and nurbs modeling workflows.
+excerpt: Let's take a look at some Maya sculpting and curve modeling workflows.
 ---
 
 ###Agenda
@@ -29,7 +29,7 @@ excerpt: Let's take a look at some Maya sculpting and nurbs modeling workflows.
    - Buldge
    - Amplify
    - Freeze
-2. Curve Extrusion
+2. **Curve Extrusion**
    - Control vertex
    - Rebuild Curve
    - Snap to curve
