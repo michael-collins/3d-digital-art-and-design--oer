@@ -54,15 +54,15 @@ Please create a folder on box.psu.edu and name it **_project1-YOURUSERID_**. You
   - Create a folder in your project folder called **_wireframes_**
   - Add screenshots of your polygonal wireframes according to this convention **_wireframe-[#].jpg_** (I.E. - wireframe-1.jpg) to the **_wireframes_** folder
   - Attempt to meet the [CheckMate 3D Modeling Standard](https://support.turbosquid.com/entries/278384-CheckMate-3D-Modeling-Standard)
-3. **In-process lighting renders (Due: 2/11/2015)**
+3. **In-process lighting renders (Due: 2/16/2015)**
   - Create a folder in your project folder called **_test-renders_**
   - Add renders according to this convention **_test-render-[#].jpg_** (I.E. - test-render-1.jpg) to the **_test-renders_** folder
   - Textures and UVs need not be finalized, but well considered and underway
-4. **Three Rendered Images (Due: 2/16/2015)**
+4. **Three Rendered Images (Due: 2/18/2015)**
   - Create a folder in your project folder called **_renders_**
   - Add renders according to this convention **_render-[#].jpg_** (I.E. - render-1.jpg) to the **_renders_** folder
   - Minimum Image Size: 1080 HD preset
-5. **Written statement (Due: 2/16/2015)**
+5. **Written statement (Due: 2/18/2015)**
   - Create a folder in your project folder called **_statement_**
   - Write and add a statement (min 150 words) named **_statement-draft.doc_** to the **_statement_** folder
 6. **Final renders showing iterative improvement based on feedback (Due: 3/1/2015)**
