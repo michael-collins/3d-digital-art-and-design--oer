@@ -4,6 +4,7 @@ subtitle:
 layout: exercise
 submission-id: texturing-YOURSTUDENTID
 assignment-dropbox: https://psu.box.com/signup/collablink/d_6058204921/115199876a709b
+asset-path: /assets/exercise-images
 ---
 
  In this exercise, you will practice UV mapping and applying textures to surface shaders. There are different tutorials and exercise submission requirements for three experience levels. Choose the experience level that matches your own.

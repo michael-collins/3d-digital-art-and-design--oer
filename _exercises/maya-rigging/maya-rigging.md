@@ -2,6 +2,7 @@
 title: Maya Rigging
 subtitle: 
 layout: exercise
+asset-path: /assets/exercise-images
 ---
 
 **Exercise Details**
