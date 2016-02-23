@@ -128,7 +128,7 @@ Textbook: Mastering Autodesk Maya 2016 (Page 355)
 5. After researching [thrown ceramic mug](https://www.google.com/search?q=ceramic+mug&espv=2&biw=1239&bih=1013&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi7lN_g7MbKAhWktoMKHRoKC1AQ_AUIBygC#tbm=isch&q=thrown+ceramic+mug), create a new scene and create a polygon model of a **thrown ceramic mug**.
 6. Create a new perspective called **_cam1_**. In the camera attributes, change the film gate to **35mm Academy**.
 7. In your Cam1 viewport, enable the Resolution Gate: **View** → **Camera** **Settings** → **Resolution** **Gate.**
-8. Create an Image Based Lighting node and create your own or select an [existing EXR image to use]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/assets/IBL-pack.zip). Name it **_ibl-{{ page.submission-id }}.exr_**
+8. Create an Image Based Lighting node and create your own or select an [existing EXR image to use]({{ site.baseurl }}{{ page.asset-path }}/IBL-pack.zip). Name it **_ibl-{{ page.submission-id }}.exr_**
 9. Unfold your UVs using the UV Texture editor other UV tools.
 10. Assign a new Mentalray material called a **mila_material** to your object.
 11. Add at least two **weighted** layers. (You may add as many additional as needed to create the desired look)
