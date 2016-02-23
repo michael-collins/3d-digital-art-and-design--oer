@@ -9,15 +9,15 @@ In this exercise, you will set up modeling reference planes. Three-view referenc
 
 * * *
 
-##Learning Resources
+## Learning Resources
 
-###Tutorials:
+### Tutorials:
 
 [Lynda.com - Maya 2016 Interface](http://www.lynda.com/Maya-tutorials/Overview-Maya-interface/370380/413182-4.html)
 
 [Creating Modeling Reference Planes in Maya](https://docs.google.com/document/d/10lqkDYPs3Qx6IcH6Z25TYVpU7M85QtxQMJ0P6VoBHwg/edit)
 
-###More Information:
+### More Information:
 
 [Pluralsight - Three Methods for Setting up Image Planes in Maya for Any Project](http://blog.digitaltutors.com/setting-up-image-planes-in-maya/)
 
@@ -41,5 +41,5 @@ In this exercise, you will set up modeling reference planes. Three-view referenc
 
 * * *
 
-##Grading
+## Grading
 Your grade will be assessed according to the [Exercise Grading Criteria]({{ site.baseurl }}/grading). 
