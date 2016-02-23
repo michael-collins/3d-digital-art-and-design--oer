@@ -2,7 +2,7 @@
 title: Maya Image Planes for Modeling
 subtitle: 
 layout: exercise
-asset-path: exercise-images/
+asset-path: /assets/exercise-images
 ---
 
 In this exercise, you will set up modeling reference planes. Three-view reference planes are much like blueprints and are essential for helping you take an idea from sketch to a polygonal mesh within Maya.
@@ -33,7 +33,7 @@ In this exercise, you will set up modeling reference planes. Three-view referenc
 
 3) After you have completed the tutorial, double-click on your _ex_1_xyz.zip_ file to ensure that it looks like the following image:
 
-![Example folder structure]({{ site.baseurl  }}maya-image-planes-for-modeling-0.jpg)
+![Example folder structure]({{ site.baseurl }}{{ page.asset-path }}/maya-image-planes-for-modeling-0.jpg)
 
 6) Upload the .zip file to the submission dropbox
 
