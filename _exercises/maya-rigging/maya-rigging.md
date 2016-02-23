@@ -15,7 +15,7 @@ In this exercise, you will practice creating a rig for a polygon mesh and adding
 
 **Level 1**
 
-Rigging
+Rigging  
 
 Digital Tutors: [Beginner’s Guide to Rigging](http://www.digitaltutors.com/11/training.php?pid=502)
 
