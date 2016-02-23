@@ -39,9 +39,7 @@ Digital Tutors: [12 Principles of Animation](http://www.digitaltutors.com/11/tra
 
 **Optional Learning**
 
-**      **Lynda Tutorials: [Animation Principles](http://www.lynda.com/Maya-tutorials/Character-Animation-Fundamentals-with-Maya/54994-2.html)
-
-**      **
+**Lynda Tutorials: [Animation Principles](http://www.lynda.com/Maya-tutorials/Character-Animation-Fundamentals-with-Maya/54994-2.html)**
 
 * * *
 
