@@ -4,6 +4,7 @@ subtitle:
 layout: exercise
 submission-id: mr-ibl-YOURSTUDENTID
 assignment-dropbox: https://psu.box.com/signup/collablink/d_6058206453/11f0247848da9c
+asset-path: /assets/exercise-downloads
 ---
 
 In this exercise, you will practice uv mapping, lighting, and rendering. There are different tutorials and exercise submission requirements for three experience levels. Choose the experience level that matches your own.
@@ -38,7 +39,7 @@ In this exercise, you will practice uv mapping, lighting, and rendering. There a
 [Image Based Lighting](https://www.youtube.com/watch?v=cKul2-bmBwY)
 
 **Downloads**  
-[EXR Image Pack]({{ site.baseurl  }}/exercises/IBL-pack.zip)
+[EXR Image Pack]({{ site.baseurl }}{{ page.asset-path }}/IBL-pack.zip)
 
 **More Information:**
 

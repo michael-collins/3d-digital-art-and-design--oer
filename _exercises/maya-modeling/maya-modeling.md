@@ -4,6 +4,7 @@ subtitle:
 layout: exercise
 submission-id: modeling-YOURSTUDENTID
 assignment-dropbox: https://psu.box.com/signup/collablink/d_6058204285/11915a00eb1b89
+asset-path: /assets/exercise-images
 ---
 
 In this exercise, you will gain basic understanding of modeling fundamentals. There are different tutorials and exercise submission requirements for three experience levels. Choose the experience level that matches your own.
@@ -125,7 +126,7 @@ Choose a either level 1, level 2, or level 3 to complete based on your prior exp
   - Do not "smooth" the objects.
   - Focus on maintaining quads and [organized edgeflow](http://www.digitaltutors.com/lesson/15804-Edge-Flow).
     **See example image of a crowbar below:**  
-    ![image alt text]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/images/image_1.jpg)  
+    ![image alt text]({{ site.baseurl }}{{ page.asset-path }}/maya-modeling-1.jpg)  
 
 7. Compress the project folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}-L2.zip._**
 8. Upload the .zip file to the [submission dropbox]({{ page.assignment-dropbox }})

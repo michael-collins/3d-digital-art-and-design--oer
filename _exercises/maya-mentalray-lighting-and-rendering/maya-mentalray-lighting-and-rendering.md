@@ -4,11 +4,12 @@ subtitle:
 layout: exercise
 submission-id: mr-rendering-YOURSTUDENTID
 assignment-dropbox: https://psu.box.com/signup/collablink/d_6058205621/11e086038985f5
+asset-path: /assets/exercise-images
 ---
 
 In this exercise, you will practice uv mapping, lighting, and rendering. There are different tutorials and exercise submission requirements for three experience levels. Choose the experience level that matches your own.
 
-![image alt text]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/images/image_0.png)
+![image alt text]({{ site.baseurl }}{{ page.asset-path }}/maya-mentalray-lighting-and-rendering-0.png)
 
 
 #Learning Resources
@@ -63,7 +64,7 @@ Chapter 9 and 10
 10. Apply a texture that you’ve created or found online and name it **_color-{{ page.submission-id }}.jpg_** in the *sourceimages* folder.
 11. Create and apply a bump map to your Lambert called **_bump-{{ page.submission-id }}.jpg_** in the **sourceimages** folder.
 12. Adjust the Bump Depth to **0.200** on the bump2d node connected to your bump map channel.  
-  ![image alt text]({{ site.baseurl  }}/{{page.url | replace:'.html','/'}}/images/image_1.jpg)
+  ![image alt text]({{ site.baseurl }}{{ page.asset-path }}/maya-mentalray-lighting-and-rendering-1.jpg)
 13. Enable Mental Ray as the rendering engine in the render settings.
 14. Match the following render settings:  
   Render using **Mental Ray**  

@@ -61,7 +61,7 @@ Digital Tutors: [12 Principles of Animation](http://www.digitaltutors.com/11/tra
 
 5) Create joints for the torso, hips, knees, legs, feet, shoulders, arms, neck, and head. Name and number them for your reference. See image below:
 
-![image alt text](images/image_0.jpg)
+![image alt text]({{ site.baseurl }}{{ page.asset-path }}/maya-rigging-0.jpg)
 
 6) Smooth bind the joints to the polygonal mesh by selecting both the mesh and the joints, and then choosing, *Skin* → *Bind*. Click on ‘Smooth Bind.’
 

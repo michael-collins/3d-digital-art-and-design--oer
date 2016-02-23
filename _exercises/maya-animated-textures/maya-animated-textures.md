@@ -2,6 +2,7 @@
 title: Maya Animated Textures
 subtitle: 
 layout: exercise
+asset-path: /assets/exercise-images
 ---
 
 #Exercise Details

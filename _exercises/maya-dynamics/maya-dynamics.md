@@ -2,6 +2,7 @@
 title: Maya Dynamics
 subtitle: 
 layout: exercise
+asset-path: /assets/exercise-images
 ---
 
 **Exercise Details**
