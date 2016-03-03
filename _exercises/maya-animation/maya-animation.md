@@ -31,7 +31,7 @@ Choose a either level 1, level 2, or level 3 to complete based on your prior exp
 ### <a name="level-1"></a>Level 1:
 
 1. Watch the animation tutorials from Lynda and Digital Tutors.
-2. Create a new project folder called **_{{ page.submission-id }}-L1_**, set your scene to the project folder, and create the sub folders by choosing **_File_** → **_Project Window_** → ***_Accept_**.
+2. Create a new project folder called **_{{ page.submission-id }}-L1_**, set your scene to the project folder, and create the sub folders by choosing **_File_** → **_Project Window_** → **_Accept_**.
 3. Create an animation with the following:
    - The duration of the animation should be 600 frames.  
    ![image alt text]({{ site.baseurl }}{{ page.asset-path }}/maya-animation-0.jpg)
@@ -41,7 +41,7 @@ Choose a either level 1, level 2, or level 3 to complete based on your prior exp
    - Animate the **group1** to move from 0 to positive 20 units in the y-axis direction from frame 0 to 300, and move back to the origin from frame 300 to 600. (The sphere should follow the cube as it moves up and down because they are both in **_group1_**.)
    - Create a perspective camera slightly above and looking at the cube. Include **_persp1_** within **group1** so that it can follow the cube as it moves up and down.  
    ![image alt text]({{ site.baseurl }}{{ page.asset-path }}/maya-animation-1.jpg)  
-   - Go into the Graph Editor and make your  **pSphere1 **rotation tangents linear.  
+   - Go into the Graph Editor and make your **pSphere1** rotation tangents linear.  
    ![image alt text]({{ site.baseurl }}{{ page.asset-path }}/maya-animation-2.png)  
    ![image alt text]({{ site.baseurl }}{{ page.asset-path }}/maya-animation-3.png)  
    - Your sphere should now loop seamlessly with the beginning of the animation. 
@@ -79,7 +79,7 @@ Choose a either level 1, level 2, or level 3 to complete based on your prior exp
 ### <a name="level-2"></a>Level 2:
 
 1. Watch the animation tutorials from Lynda and Digital Tutors.
-2. Create a new project folder called **_{{ page.submission-id }}-L2_**, set your scene to the project folder, and create the sub folders by choosing **_File_** → **_Project Window_*** → ***_Accept_***.*
+2. Create a new project folder called **_{{ page.submission-id }}-L2_**, set your scene to the project folder, and create the sub folders by choosing **_File_** → **_Project Window_** → **_Accept_**.
 3. Create an animated scene inspired by [Tetris](http://www.youtube.com/watch?v=qIAAmaS9n0Q). It must include the following:
    - At least 8 moving pieces
    - Camera movement
@@ -120,7 +120,7 @@ Choose a either level 1, level 2, or level 3 to complete based on your prior exp
 ### <a name="level-3"></a>Level 3:
 
 1. Watch the animation tutorials from Lynda and Digital Tutors.
-2. Create a new project folder called **_{{ page.submission-id }}-L3_**, set your scene to the project folder, and create the sub folders by choosing **_File_** → **_Project Window_*** → ***_Accept_***.*
+2. Create a new project folder called **_{{ page.submission-id }}-L3_**, set your scene to the project folder, and create the sub folders by choosing **_File_** → **_Project Window_** → **_Accept_**.
 3. Create a creature animation using only primitives inspired by [Evolved Virtual Creatures](http://www.youtube.com/watch?v=JBgG_VSP7f8). It must include the following:
    - At least 2 creatures with 3 moving pieces appendages
    - Camera movement
