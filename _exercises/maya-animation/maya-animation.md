@@ -41,10 +41,10 @@ Choose a either level 1, level 2, or level 3 to complete based on your prior exp
    f. Create a perspective camera slightly above and looking at the cube. Include **_persp1_** within **group1** so that it can follow the cube as it moves up and down.![image alt text](image_1.jpg)
    g. Go into the Graph Editor and make your  **pSphere1 **rotation tangents linear. ![image alt text](image_2.png)![image alt text](image_3.png)
    h. Your sphere should now loop seamlessly with the beginning of the animation. 
-4. Save the scene file in your scenes folder as **_ex_7_yourstudentID_L1_**.
-5. Compress the project folder once you’ve completed the tutorial and rename it **_ex_7_yourstudentID_L1.zip._**
-6. Upload the .zip file to Lore → Calendar → Exercise 7.
-7. Download and unzip the file that you uploaded to ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded as a late submission, or a 50% reduction in your grade.
+4. Save your scene as **_{{ page.submission-id }}_** in the scenes folder.
+5. Compress the project folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}-L1.zip._**
+6. Upload the .zip file to the [submission dropbox]({{ page.assignment-dropbox }})
+7. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
 
 **Example _Level 1_ folder structure**
 
@@ -90,10 +90,10 @@ Choose a either level 1, level 2, or level 3 to complete based on your prior exp
    c. Easing applied to keyframes of moving objects (non-linear tangents in graph editor)
    d. Camera shake
    e. At least 10 seconds of animation at 24 frames per second (240 frames)
-4. Save the scene file in your scenes folder as **_ex_7_yourstudentID_L2_**.
-5. Compress the project folder once you’ve completed the tutorial and rename it **_ex_7_yourstudentID_L2.zip._**
-6. Upload the .zip file to Lore → Calendar → Exercise 7.
-7. Download and unzip the file that you uploaded to ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded as a late submission, or a 50% reduction in your grade.
+4. Save your scene as **_{{ page.submission-id }}_** in the scenes folder.
+5. Compress the project folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}-L2.zip._**
+6. Upload the .zip file to the [submission dropbox]({{ page.assignment-dropbox }})
+7. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
 
 **Example _Level 2_ folder structure**
 
@@ -139,10 +139,10 @@ Choose a either level 1, level 2, or level 3 to complete based on your prior exp
    c. Easing applied to keyframes of moving objects (non-linear tangents in graph editor)
    d. Camera shake
    e. At least 10 seconds of animation at 24 frames per second (240 frames)
-4. Save the scene file in your scenes folder as **_ex_7_yourstudentID_L3_**.
-5. Compress the project folder once you’ve completed the tutorial and rename it **_ex_7_yourstudentID_L3.zip._**
-6. Upload the .zip file to Lore → Calendar → Exercise 7.
-7. Download and unzip the file that you uploaded to ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded as a late submission, or a 50% reduction in your grade.
+4. Save your scene as **_{{ page.submission-id }}_** in the scenes folder.
+5. Compress the project folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}-L3.zip._**
+6. Upload the .zip file to the [submission dropbox]({{ page.assignment-dropbox }})
+7. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
 
 **Example _Level 3_ folder structure**
 
