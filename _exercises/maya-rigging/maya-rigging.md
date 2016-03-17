@@ -48,7 +48,7 @@ Choose a either level 1, level 2, or level 3 to complete based on your prior exp
 4. Set your project to the downloaded folder.
 5. Add subdivisions (edge loops) to the polygonal mesh minimizing unwanted distortion that results from moving a joints bound to improperly created geometry. Add geometry to articulate the knee, elbows, and arms.
 6. Create joints for the torso, hips, knees, legs, feet, shoulders, arms, neck, and head. Name and number them for your reference. See image below:
-![image alt text]({{ site.baseurl }}{{ page.asset-path }}/maya-rigging-0.jpg)
+![image alt text]({{ site.baseurl }}{{ page.asset-path }}/maya-rigging-1.jpg)
 7. Smooth bind the joints to the polygonal mesh by selecting both the mesh and the joints, and then choosing, *Skin* → *Bind*. Click on ‘Smooth Bind.’
 8. Use the Component Editor and Paint Skin Weights tool to make adjustments to joint influences.
 9. Pose the biped to be in natural sitting pose.
