@@ -87,7 +87,7 @@ Choose a either level 1, level 2, or level 3 to complete based on your prior exp
 ### <a name="level-2"></a>Level 2:
 
 1. Watch the level 2 rigging tutorials from Lynda and Digital Tutors.
-2. Create a new project folder called **_{{ page.submission-id }}-L2_**, set your scene to the project folder, and create the sub folders by choosing **_File_** → **_Project Window_*** → ***_Accept_***.*
+2. Create a new project folder called **_{{ page.submission-id }}-L2_**, set your scene to the project folder, and create the sub folders by choosing **_File_** → **_Project Window_** → **_Accept_**.
 3. Build a simple biped character mesh.
 4. Create joints, IKs, and controls for the head, arms, and legs.
 5. Bind your rig to your mesh.
@@ -127,7 +127,7 @@ Choose a either level 1, level 2, or level 3 to complete based on your prior exp
 ### <a name="level-3"></a>Level 3:
 
 1. Watch the animation tutorials from Lynda and Digital Tutors.
-2. Create a new project folder called **_{{ page.submission-id }}-L3_**, set your scene to the project folder, and create the sub folders by choosing **_File_** → **_Project Window_*** → ***_Accept_**.
+2. Create a new project folder called **_{{ page.submission-id }}-L3_**, set your scene to the project folder, and create the sub folders by choosing **_File_** → **_Project Window_** → **_Accept_**.
 3. Create a fully rigged character including a center of gravity control, limb and body part controls, rotation constraints, and set-driven keys.
 4. Create a 10 second 240 frame animation expressing one of the 12 animation principles.
 5. Save your scene as **_{{ page.submission-id }}_** in the scenes folder.
