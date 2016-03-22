@@ -59,12 +59,10 @@ David O'Reilly: [Childhood - [Adult Swim]](https://vimeo.com/103551096), [Bomb](
      - Sound clip from [freemusicarchive.org](http://freemusicarchive.org/genre/Experimental/).
      - Visual reference sheet(s): [Example of visual reference sheet](http://candlelightadventure.blogspot.com/2015/09/environment-concept-development.html).
      - Concept drawings: Add scans or photographs. These must be 'well-photographed' and cropped/straightened photos of your concept drawings and text.
-2. **Wireframes: In-process polygonal wireframe screenshots (Due: 4/12/2016)**
-  - Dropbox: [Project 2 Wireframes](https://psu.box.com/signup/collablink/d_7102368325/13208faafa929e)
+2. **Storyboards (Due: 4/12/2016)**
+  - Dropbox: [Project 2 Storyboards](https://psu.box.com/signup/collablink/d_7102368325/13208faafa929e)
   - Requirements: 
-     - Add five screenshots of your polygonal wireframes
-     - Attempt to meet the [CheckMate 3D Modeling Standard](https://support.turbosquid.com/entries/278384-CheckMate-3D-Modeling-Standard)
-  - Create a folder in your project folder called **_wireframes_**
+     - Use this [16x9 aspect ratio storyboard template]({{ site.baseurl }}assets/exercise-downloads)
 3. **Edited Playblasts (Due: 4/16/2016)**
   - Dropbox: [Project 2 Edited Playblasts](https://psu.box.com/signup/collablink/d_7101863309/13c106b7ba7535)
   - Requirements: 
@@ -100,11 +98,11 @@ Project 2
 |       └── ...
 |
 |
-├── wireframes/
+├── storyboards/
 |   |
-|   └── wireframes-[YOURUSERID].zip/
+|   └── storyboards-[YOURUSERID].zip/
 |       |
-|       ├── wireframes-[#]-[YOURUSERID].png
+|       ├── storyboards-[#]-[YOURUSERID].png
 |       └── ...
 |
 |       
