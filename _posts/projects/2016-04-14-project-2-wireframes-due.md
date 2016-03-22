@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project 2 Wireframes Due
+title: Project 2 Storyboards Due
 categories: project
 comments: true
 published: true
