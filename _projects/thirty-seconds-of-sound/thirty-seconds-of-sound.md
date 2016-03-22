@@ -62,7 +62,7 @@ David O'Reilly: [Childhood - [Adult Swim]](https://vimeo.com/103551096), [Bomb](
 2. **Storyboards (Due: 4/12/2016)**
   - Dropbox: [Project 2 Storyboards](https://psu.box.com/signup/collablink/d_7102368325/13208faafa929e)
   - Requirements: 
-     - Use this [16x9 aspect ratio storyboard template]({{ site.baseurl }}/assets/exercise-downloads)
+     - Use this [16x9 aspect ratio storyboard template]({{ site.baseurl }}/assets/exercise-downloads/storyboard-template.pdf)
 3. **Edited Playblasts (Due: 4/16/2016)**
   - Dropbox: [Project 2 Edited Playblasts](https://psu.box.com/signup/collablink/d_7101863309/13c106b7ba7535)
   - Requirements: 
