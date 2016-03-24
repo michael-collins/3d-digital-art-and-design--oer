@@ -45,7 +45,7 @@ Import/Export After Effects: [After Effects Image Sequence to H.264](https://doc
 2. Create and set a project folder called **_{{ page.submission-id }}-L1_** set your scene to the project folder, and create the sub folders by choosing **_File_** → **_Project Window_** → **_Accept_**.
 3. Download the provided [Example Image Sequence]({{ site.baseurl }}{{ page.asset-path }}/animated-texture.zip). Extract and preview the image sequence by opening it with Quicktime 7.
 4. Create a unique polygonal object that responds to the image sequence in some way.
-5. Attach the image sequence to the object's material color channel.
+5. Attach the image sequence to the object's material color attribute channel. You may plug it into other material attributes as well.
 6. Change the default 48 frame duration of the animation timeline to **24** frames.
 7. Create a motion path.
 8. Attach the polygon object to the motion path. Animate the object to follow the motion path for 24 frames.
