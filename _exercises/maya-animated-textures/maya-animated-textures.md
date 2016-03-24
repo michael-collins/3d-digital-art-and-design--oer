@@ -26,7 +26,8 @@ Lynda (Lesson 5): [Maya Essentials 6: Lights and Rendering](http://www.lynda.com
 Digital Tutors: [Introduction to Rendering in Maya](http://www.digitaltutors.com/11/training.php?vid=21419&autoplay=1)
 
 **Other:**  
-Import/Export After Effects: [After Effects Image Sequence to H.264](https://docs.google.com/document/d/1R5G3bvXoe0_Bto59_dV4c4_iLZIA1--sHRQ8fhkBnvc/edit) 
+Import/Export After Effects: [After Effects Image Sequence to H.264](https://docs.google.com/document/d/1R5G3bvXoe0_Bto59_dV4c4_iLZIA1--sHRQ8fhkBnvc/edit)  
+[Render a still image sequence from After Effects](https://helpx.adobe.com/after-effects/using/rendering-exporting-still-images-still.html)
         
 ### Asset Downloads:  
 [Example Image Sequence]({{ site.baseurl }}{{ page.asset-path }}/animated-texture.zip)
@@ -52,25 +53,24 @@ Import/Export After Effects: [After Effects Image Sequence to H.264](https://doc
    - **Render Using:** Mental Ray
    - **Common Tab:**
       - File Name Prefix: ``` <Scene>/<Scene> ```
-      - Image Format: ``` Maya IFF ``` 
-      - Frame/Animation ext: ``` name.#.ext ``` **(NOT name.ext.#)**
+      - Image Format: ``` Maya IFF ```
+      - Frame/Animation ext:  ``` name.#.ext ``` **(NOT name.ext.#)**
       - Frame padding: ``` 2 ``` 
       - Start Frame: ``` 1 ``` 
-      - End Frame: ``` 24 ``` 
+      - End Frame: ``` 72 ``` 
       - By Frame: ``` 1 ``` 
       - Alpha channel (Mask): ``` Checked ``` 
       - Presets: ``` HD 540 ``` 
-   - **Features Tab:**
-      - Raytracing: ``` Checked ``` 
-      - Global Illumination: ``` Not Checked ``` 
-      - Final Gathering: ``` hecked ``` 
    - **Quality Tab:**
-      - Quality: ``` 1 ``` 
+      - Show Advanced Settings: ``` Checked ```      
+      - Quality: ``` 2 ``` 
+      - Advanced Light Sampling → Indirect Diffuse (GI) Mode: Finalgather
+   - **Scene:**
+      - Show Advanced Settings: ``` Checked ```  
+      - Primary Framebuffer → Premultiply: ``` Unchecked ```
+      - Create Physical Sun and Sky
+         - In Physical Sun and Sky Attributes → Use Background:  ``` Checked ``` 
       - Motion Blur: ``` Full Deformation ``` 
-      - Framebuffer → Premultiply: ``` Unchecked ``` 
-   - **Indirect lighting:**
-      - Create Physical Sun and Sky**
-      - In Physical Sun and Sky Attributes → Use Background:  ``` Checked ``` 
 10. Import your animation sequence to After Effects and export an H.264 MP4 movie file. To do this, [follow this tutorial](https://docs.google.com/document/d/1R5G3bvXoe0_Bto59_dV4c4_iLZIA1--sHRQ8fhkBnvc/edit). (It should be well under 1MB in total file size)
 11. Put your H.264 encoded .mp4 video into the project folder in movies folder.
 12. Save your scene as **_{{ page.submission-id }}_** in the scenes folder.
@@ -118,9 +118,10 @@ Import/Export After Effects: [After Effects Image Sequence to H.264](https://doc
 
 1. Watch the level tutorials from Digital Tutors and Lynda.
 2. Create and set a project folder called **_{{ page.submission-id }}-L2-3_** set your scene to the project folder, and create the sub folders by choosing **_File_** → **_Project Window_** → **_Accept_**. 
-3. Create a 72 frame 1024px x 1024px image sequence in After Effects.
-4. Create a 3 second (72 frame) animation of polygonal objects using motion paths. 
-5. Batch Render your animation with these Render Settings
+3. Create a 72 frame 1024px x 1024px image sequence in After Effects. [Render a still image sequence from After Effects](https://helpx.adobe.com/after-effects/using/rendering-exporting-still-images-still.html).
+4. Create a 3 second (72 frame) animation using motion paths of polygonal objects assembling to form a word. 
+5. Apply the image sequence from step 3 as an animated texture to one or more of your polygonal objects's material color channel. (You can create more than one animated texture if desired)
+6. Batch Render your animation with these Render Settings
    - **Render Using:** Mental Ray
    - **Common Tab:**
       - File Name Prefix: ``` <Scene>/<Scene> ```
@@ -132,23 +133,22 @@ Import/Export After Effects: [After Effects Image Sequence to H.264](https://doc
       - By Frame: ``` 1 ``` 
       - Alpha channel (Mask): ``` Checked ``` 
       - Presets: ``` HD 540 ``` 
-   - **Features Tab:**
-      - Raytracing: ``` Checked ``` 
-      - Global Illumination: ``` Not Checked ``` 
-      - Final Gathering: ``` Checked ``` 
    - **Quality Tab:**
-      - Quality: ``` 1 ``` 
-      - Motion Blur: ``` Full Deformation ``` 
-      - Framebuffer → Premultiply: ``` Unchecked ``` 
-   - **Indirect lighting:**
+      - Show Advanced Settings: ``` Checked ```      
+      - Quality: ``` 2 ``` 
+      - Advanced Light Sampling → Indirect Diffuse (GI) Mode: Finalgather
+   - **Scene:**
+      - Show Advanced Settings: ``` Checked ```  
+      - Primary Framebuffer → Premultiply: ``` Unchecked ```
       - Create Physical Sun and Sky
-      - In Physical Sun and Sky Attributes → Use Background:  ``` Checked ``` 
-6. Import your animation sequence to After Effects and export an H.264 MP4 movie file. To do this, [follow this tutorial](https://docs.google.com/document/d/1R5G3bvXoe0_Bto59_dV4c4_iLZIA1--sHRQ8fhkBnvc/edit). (It should be well under 2MB in total file size)
-7. Put your H.264 encoded .mp4 video into the project folder in movies folder. 
-8. Save your scene as **_{{ page.submission-id }}_** in the scenes folder.
-9. Compress the project folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}-L1.zip._**
-10. Upload the .zip file to the [submission dropbox]({{ page.assignment-dropbox }})
-11. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
+         - In Physical Sun and Sky Attributes → Use Background:  ``` Checked ``` 
+      - Motion Blur: ``` Full Deformation ``` 
+7. Import your animation sequence to After Effects and export an H.264 MP4 movie file. To do this, [follow this tutorial](https://docs.google.com/document/d/1R5G3bvXoe0_Bto59_dV4c4_iLZIA1--sHRQ8fhkBnvc/edit). (It should be well under 2MB in total file size)
+8. Put your H.264 encoded .mp4 video into the project folder in movies folder. 
+9. Save your scene as **_{{ page.submission-id }}_** in the scenes folder.
+10. Compress the project folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}-L1.zip._**
+11. Upload the .zip file to the [submission dropbox]({{ page.assignment-dropbox }})
+12. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
 
 **Example _Level 2 and 3_ folder structure**
 
