@@ -57,7 +57,7 @@ Import/Export After Effects: [After Effects Image Sequence to H.264](https://doc
       - Frame/Animation ext:  ``` name.#.ext ``` **(NOT name.ext.#)**
       - Frame padding: ``` 2 ``` 
       - Start Frame: ``` 1 ``` 
-      - End Frame: ``` 72 ``` 
+      - End Frame: ``` 24 ``` 
       - By Frame: ``` 1 ``` 
       - Alpha channel (Mask): ``` Checked ``` 
       - Presets: ``` HD 540 ``` 
