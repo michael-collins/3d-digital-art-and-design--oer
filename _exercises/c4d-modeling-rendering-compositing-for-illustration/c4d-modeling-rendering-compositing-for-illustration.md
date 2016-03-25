@@ -2,82 +2,68 @@
 title: C4D Modeling, Rendering, and Compositing for Illustration
 subtitle: 
 layout: exercise
-submission-id: c4d-modeling-YOURSTUDENTID
-assignment-dropbox: https://psu.box.com/signup/collablink/d_6058204285/11915a00eb1b89
+submission-id: c4d-illustration-YOURSTUDENTID
+assignment-dropbox: https://psu.box.com/signup/collablink/d_7145988533/13ad2af7488800
 asset-path: /assets/exercise-images
 ---
 
-In this exercise, you will gain introductory understanding of modeling, rendering, and compositing fundamentals. There are different tutorials and exercise submission requirements for three experience levels. Choose the experience level that matches your own.
+In this exercise, you will gain introductory understanding of modeling, rendering, and compositing fundamentals in C4D.
 
-##Learning Resources
+## Learning Resources
 
-###Tutorials:
-
-**Level 1: Novice Students**
+### Tutorials:
 
 [Digitaltutors.com - Beginner's Guide to C4D](http://www.digitaltutors.com/tutorial/495-Beginners-Guide-to-CINEMA-4D)  
-[Lynda.com - Modeling with Nurbs](http://www.lynda.com/Maya-tutorials/Maya-Essentials-3-NURBS-Modeling-Techniques/96716-2.html)
+[Lynda.com - CINEMA 4D R17 Essential Training](http://www.lynda.com/CINEMA-4D-tutorials/Welcome/410689/462743-4.html)  
+[Lynda.com - Creating Motion Graphics with Sketch and Toon in CINEMA 4D](http://www.lynda.com/After-Effects-tutorials/Welcome/384740/438890-4.html)  
 
-**Reference Websites**
+### Examples:
+[Sandro Tatinashvili](https://www.behance.net/gallery/35096329/Ambient-animations?utm_medium=email&utm_source=transactional&utm_campaign=activity-digest)  
+[Stuart Wade](https://www.behance.net/gallery/33811436/Loops-2016)  
+[Wired - The Job Issue](https://www.behance.net/gallery/22810679/Wired-Italy-The-Job-Issue-cover-animation)  
+[giphy](http://giphy.com/search/3d-loop/4)
 
-Painting reference
+## Steps to Completion
 
-**More Information:**
+1. Watch tutorials from Lynda and Digitaltutors on C4D.
+  - Pay special attention to:
+     - [Takes and Passes](http://www.lynda.com/CINEMA-4D-tutorials/Using-Take-System-compositing/410689/462748-4.html)
+     - [Versions](http://www.lynda.com/CINEMA-4D-tutorials/Creating-versions-Take-System/410689/462749-4.html)
+     - [Compositing Tags](https://www.youtube.com/watch?v=yA2g7wjIp3c)
+2. Learn about abstraction:
+  - https://www.youtube.com/watch?v=BDDOOutCclI (art perspective)
+  - https://www.youtube.com/watch?v=mNOXCQpPsk0 (programming perspective)
+3. Create 3D objects and materials
+4. Experiment with deformers
+5. Render 3 or more takes or passes for compositing
+6. Composite variations in photoshop
+  - Create 4 final variations of your illustration
+  - Ajust layer blending modes, color overlays, etc to achieve 3 distinct looks.
+  - Requirements:
+     - Resolution: 1920px width by 1080px height
+     - naming convention: {{ page.submission-id }}-#.jpg_**
+7. Save your .c4d file and 4 image variations in a folder called **_{{ page.submission-id }}.
+8. Compress the project folder: **_{{ page.submission-id }}.zip._**
+9. Upload the .zip file to the [submission dropbox]({{ page.assignment-dropbox }})
+10. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
 
-
-
-##Steps to Completion
-
-Choose a either level 1, level 2, or level 3 to complete based on your prior experience with 3D tools. If you are a novice, choose Level 1. If you have some experience, choose Level 2. If you are very experienced with 3D tools, choose Level 3.
-
-[Level 1 Steps](#level-1) | [Level 2 Steps](#level-2) | [Level 3 Steps](#level-3)
-
-### <a name="level-1"></a>Level 1:
-
-1. Watch tutorials from Lynda on modeling with Polygons and Nurbs.
-2. Download [these project files](https://docs.google.com/file/d/0BzXX6rmROMNWandfd3hKLXRCdmM/edit) and use the scene file as the starting point and rename the project folder to : **_{{ page.submission-id }}_**.
-3. Set your project to the downloaded folder by choosing **File** → **Set Project**.
-4. Create an abstracted composition using dispalcement, explosion, and polygon reduction 
-5. Save your scene as **_{{ page.submission-id }}_** in the scenes folder.
-6. Compress the project folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}-L1.zip._**
-7. Upload the .zip file to the [submission dropbox]({{ page.assignment-dropbox }})
-8. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
-
-**Example _Level 1_ folder structure**
+**Example folder structure**
 
 ```
 
-{{ page.submission-id }}-L1.zip
+{{ page.submission-id }}.zip
 |
-└── {{ page.submission-id }}-L1
+└── {{ page.submission-id }}
     |
-    ├── sourceimages/
-    |   |
-    |   └── reference images/
-    |       |
-    |       ├── front.jpg
-    |       ├── side.jpg
-    |       └── top.jpg
-    |
-    ├── sound/
-    ├── scripts/
-    ├── scenes/
-    |   |
-    |   └── {{ page.submission-id }}.mb
-    |
-    ├── renderData/
-    ├── particles/
-    ├── movies/
-    ├── images/
-    ├── data/
-    ├── clips/
-    ├── cache/
-    ├── autosave/
-    └── assets/
+    ├── {{ page.submission-id }}.c4d
+    ├── {{ page.submission-id }}-1.jpg
+    ├── {{ page.submission-id }}-2.jpg
+    ├── {{ page.submission-id }}-3.jpg
+    └── {{ page.submission-id }}-4.jpg
 
 ```
 
 * * *
 
-##Grading
+## Grading
 Your grade will be assessed according to the [Exercise Grading Criteria]({{ site.baseurl }}/grading). 
