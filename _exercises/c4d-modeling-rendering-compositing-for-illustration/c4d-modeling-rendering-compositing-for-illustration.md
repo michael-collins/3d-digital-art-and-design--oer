@@ -4,7 +4,7 @@ subtitle:
 layout: exercise
 submission-id: c4d-illustration-YOURSTUDENTID
 assignment-dropbox: https://psu.box.com/signup/collablink/d_7145988533/13ad2af7488800
-asset-path: /assets/exercise-assets
+asset-path: /assets/exercise-downloads
 ---
 
 In this exercise, you will produce abstract illustrations to gain introductory understanding of modeling, rendering, and compositing fundamentals in C4D.
