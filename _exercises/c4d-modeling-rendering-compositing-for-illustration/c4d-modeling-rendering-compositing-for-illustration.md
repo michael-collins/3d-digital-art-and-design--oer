@@ -21,7 +21,7 @@ In this exercise, you will produce abstract illustrations to gain introductory u
 [Sandro Tatinashvili](https://www.behance.net/gallery/35096329/Ambient-animations?utm_medium=email&utm_source=transactional&utm_campaign=activity-digest)  
 [Stuart Wade](https://www.behance.net/gallery/33811436/Loops-2016)  
 [Wired - The Job Issue](https://www.behance.net/gallery/22810679/Wired-Italy-The-Job-Issue-cover-animation)  
-[Giphy](http://giphy.com/search/3d-loop/4)
+[Giphy](http://giphy.com/search/3d-loop/4)  
 [Don Dertzfeldt - Simpsons Intro](https://www.youtube.com/watch?v=m78gYyTrG7Y&feature=youtu.be)
 
 ### Example Production Files
