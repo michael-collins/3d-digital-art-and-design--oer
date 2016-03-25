@@ -47,7 +47,7 @@ In this exercise, you will gain introductory understanding of modeling, renderin
   - Requirements:
      - Resolution: 1920px width by 1080px height
      - naming convention: {{ page.submission-id }}-#.jpg_**
-7. Save your .c4d file and 4 image variations in a folder called **_{{ page.submission-id }}.
+7. Save your .c4d file and 4 image variations in a folder called **_{{ page.submission-id }}.**
 8. Compress the project folder: **_{{ page.submission-id }}.zip._**
 9. Upload the .zip file to the [submission dropbox]({{ page.assignment-dropbox }})
 10. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
@@ -58,7 +58,7 @@ In this exercise, you will gain introductory understanding of modeling, renderin
 
 {{ page.submission-id }}.zip
 |
-└── {{ page.submission-id }}
+└── {{ page.submission-id }}/
     |
     ├── {{ page.submission-id }}.c4d
     ├── {{ page.submission-id }}-1.jpg
