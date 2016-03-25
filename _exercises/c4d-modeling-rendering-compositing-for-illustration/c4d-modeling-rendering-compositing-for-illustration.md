@@ -37,7 +37,7 @@ In this exercise, you will gain introductory understanding of modeling, renderin
 2. Learn about abstraction:
   - https://www.youtube.com/watch?v=BDDOOutCclI (art perspective)
   - https://www.youtube.com/watch?v=mNOXCQpPsk0 (programming perspective)
-3. Create 3D objects and materials
+3. In Cinema 4D, create 3D objects and materials.
 4. Experiment with deformers
 5. Render 3 or more takes or passes for compositing
   - See [C4D Variation Examples]({{ site.baseurl }}{{ page.asset-path }}/c4d-variation-examples.zip).
