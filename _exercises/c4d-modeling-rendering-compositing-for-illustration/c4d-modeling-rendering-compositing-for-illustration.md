@@ -4,7 +4,7 @@ subtitle:
 layout: exercise
 submission-id: c4d-illustration-YOURSTUDENTID
 assignment-dropbox: https://psu.box.com/signup/collablink/d_7145988533/13ad2af7488800
-asset-path: /assets/exercise-images
+asset-path: /assets/exercise-assets
 ---
 
 In this exercise, you will gain introductory understanding of modeling, rendering, and compositing fundamentals in C4D.
@@ -23,6 +23,10 @@ In this exercise, you will gain introductory understanding of modeling, renderin
 [Wired - The Job Issue](https://www.behance.net/gallery/22810679/Wired-Italy-The-Job-Issue-cover-animation)  
 [giphy](http://giphy.com/search/3d-loop/4)
 
+### Example Production Files
+[C4D Compositing Tags]({{ site.baseurl }}{{ page.asset-path }}/c4d-compositing-tags.zip)
+[C4D Variation Examples]({{ site.baseurl }}{{ page.asset-path }}/c4d-variation-examples.zip)
+
 ## Steps to Completion
 
 1. Watch tutorials from Lynda and Digitaltutors on C4D.
@@ -36,6 +40,7 @@ In this exercise, you will gain introductory understanding of modeling, renderin
 3. Create 3D objects and materials
 4. Experiment with deformers
 5. Render 3 or more takes or passes for compositing
+  - See [C4D Variation Examples]({{ site.baseurl }}{{ page.asset-path }}/c4d-variation-examples.zip).
 6. Composite variations in photoshop
   - Create 4 final variations of your illustration
   - Ajust layer blending modes, color overlays, etc to achieve 3 distinct looks.
