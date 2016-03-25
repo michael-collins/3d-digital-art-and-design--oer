@@ -21,7 +21,7 @@ In this exercise, you will gain introductory understanding of modeling, renderin
 [Sandro Tatinashvili](https://www.behance.net/gallery/35096329/Ambient-animations?utm_medium=email&utm_source=transactional&utm_campaign=activity-digest)  
 [Stuart Wade](https://www.behance.net/gallery/33811436/Loops-2016)  
 [Wired - The Job Issue](https://www.behance.net/gallery/22810679/Wired-Italy-The-Job-Issue-cover-animation)  
-[giphy](http://giphy.com/search/3d-loop/4)
+[Giphy](http://giphy.com/search/3d-loop/4)
 
 ### Example Production Files
 [C4D Compositing Tags]({{ site.baseurl }}{{ page.asset-path }}/c4d-compositing-tags.zip)
