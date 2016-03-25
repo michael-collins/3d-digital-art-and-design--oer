@@ -7,7 +7,7 @@ assignment-dropbox: https://psu.box.com/signup/collablink/d_7145988533/13ad2af74
 asset-path: /assets/exercise-assets
 ---
 
-In this exercise, you will gain introductory understanding of modeling, rendering, and compositing fundamentals in C4D.
+In this exercise, you will produce abstract illustrations to gain introductory understanding of modeling, rendering, and compositing fundamentals in C4D.
 
 ## Learning Resources
 
