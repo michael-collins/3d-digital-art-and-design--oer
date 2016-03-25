@@ -16,6 +16,7 @@ In this exercise, you will produce abstract illustrations to gain introductory u
 [Digitaltutors.com - Beginner's Guide to C4D](http://www.digitaltutors.com/tutorial/495-Beginners-Guide-to-CINEMA-4D)  
 [Lynda.com - CINEMA 4D R17 Essential Training](http://www.lynda.com/CINEMA-4D-tutorials/Welcome/410689/462743-4.html)  
 [Lynda.com - Creating Motion Graphics with Sketch and Toon in CINEMA 4D](http://www.lynda.com/After-Effects-tutorials/Welcome/384740/438890-4.html)  
+[Greyscale Gorilla Blog - Compositing Tag](http://greyscalegorilla.com/tutorials/the-compositing-tag-the-answer-to-all-your-problems/)
 
 ### Examples:
 [Sandro Tatinashvili](https://www.behance.net/gallery/35096329/Ambient-animations?utm_medium=email&utm_source=transactional&utm_campaign=activity-digest)  
