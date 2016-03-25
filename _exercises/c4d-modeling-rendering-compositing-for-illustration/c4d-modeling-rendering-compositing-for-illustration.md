@@ -49,7 +49,7 @@ In this exercise, you will produce abstract illustrations to gain introductory u
   - Ajust layer blending modes, color overlays, etc to achieve 3 distinct looks.
   - Requirements:
      - Resolution: 1920px width by 1080px height
-     - naming convention: {{ page.submission-id }}-#.jpg_**
+     - naming convention: **_{{ page.submission-id }}-#.jpg_**
 7. Save your .c4d file and 4 image variations in a folder called **_{{ page.submission-id }}.**
 8. Compress the project folder: **_{{ page.submission-id }}.zip._**
 9. Upload the .zip file to the [submission dropbox]({{ page.assignment-dropbox }})
