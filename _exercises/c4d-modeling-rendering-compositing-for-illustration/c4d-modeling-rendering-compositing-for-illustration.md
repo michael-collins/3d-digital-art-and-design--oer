@@ -22,6 +22,7 @@ In this exercise, you will produce abstract illustrations to gain introductory u
 [Stuart Wade](https://www.behance.net/gallery/33811436/Loops-2016)  
 [Wired - The Job Issue](https://www.behance.net/gallery/22810679/Wired-Italy-The-Job-Issue-cover-animation)  
 [Giphy](http://giphy.com/search/3d-loop/4)
+[Don Dertzfeldt - Simpsons Intro](https://www.youtube.com/watch?v=m78gYyTrG7Y&feature=youtu.be)
 
 ### Example Production Files
 [C4D Compositing Tags]({{ site.baseurl }}{{ page.asset-path }}/c4d-compositing-tags.zip)
@@ -35,11 +36,11 @@ In this exercise, you will produce abstract illustrations to gain introductory u
      - [Versions](http://www.lynda.com/CINEMA-4D-tutorials/Creating-versions-Take-System/410689/462749-4.html)
      - [Compositing Tags](https://www.youtube.com/watch?v=yA2g7wjIp3c)
 2. Learn about abstraction:
-  - https://www.youtube.com/watch?v=BDDOOutCclI (art perspective)
-  - https://www.youtube.com/watch?v=mNOXCQpPsk0 (programming perspective)
+  - [Abstraction in Art](https://www.youtube.com/watch?v=BDDOOutCclI)
+  - [Abstraction in Programming](https://www.youtube.com/watch?v=mNOXCQpPsk0)
 3. In Cinema 4D, create 3D objects and materials.
 4. Experiment with deformers
-5. Render 3 or more takes or passes for compositing
+5. Render 4 or more takes or passes for compositing
   - See [C4D Variation Examples]({{ site.baseurl }}{{ page.asset-path }}/c4d-variation-examples.zip).
 6. Composite variations in photoshop
   - Create 4 final variations of your illustration
