@@ -76,7 +76,8 @@ David O'Reilly: [Childhood - [Adult Swim]](https://vimeo.com/103551096), [Bomb](
 5. **Final submission (Due: 4/26/2016)**
   - Dropbox: [Project 2 Final Submission](https://psu.box.com/signup/collablink/d_7102334461/13709c6b861d52)
   - Requirements: 
-     - 080 HD preset
+     - 1080 HD preset
+  - Upload your video to vimeo.com
 6. **Statement (Due: 4/26/2016)**
   - Dropbox: [Project 2 Statement](hhttps://psu.box.com/signup/collablink/d_7102338677/133f89ba3f1b8f)
   - Requirements: 
