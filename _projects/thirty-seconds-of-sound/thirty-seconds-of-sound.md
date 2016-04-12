@@ -63,12 +63,12 @@ David O'Reilly: [Childhood - [Adult Swim]](https://vimeo.com/103551096), [Bomb](
   - Dropbox: [Project 2 Storyboards](https://psu.box.com/signup/collablink/d_7102368325/13208faafa929e)
   - Requirements: 
      - Use this [16x9 aspect ratio storyboard template]({{ site.baseurl }}/assets/exercise-downloads/storyboard-template.pdf)
-3. **Edited Playblasts (Due: 4/16/2016)**
+3. **Edited Playblasts (Due: 4/19/2016)**
   - Dropbox: [Project 2 Edited Playblasts](https://psu.box.com/signup/collablink/d_7101863309/13c106b7ba7535)
   - Requirements: 
      - Create a 30 second compressed .mp4 of your playblasts edited with sound. This is also known as an animatic. Please consider relevant aspects of camera, composition, staging, pacing, and animation. 
      - 1080HD preset
-4. **Test renders (Due: 4/18/2016)**
+4. **Test renders (Due: 4/21/2016)**
   - Dropbox: [Project 2 Test Renders](https://psu.box.com/signup/collablink/d_7102349925/13b4f8aba1a6a5)
   - Requirements: 
      - 1080 HD preset
