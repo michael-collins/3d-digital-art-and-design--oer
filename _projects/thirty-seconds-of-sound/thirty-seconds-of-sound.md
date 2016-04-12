@@ -59,7 +59,7 @@ David O'Reilly: [Childhood - [Adult Swim]](https://vimeo.com/103551096), [Bomb](
      - Sound clip from [freemusicarchive.org](http://freemusicarchive.org/genre/Experimental/).
      - Visual reference sheet(s): [Example of visual reference sheet](http://candlelightadventure.blogspot.com/2015/09/environment-concept-development.html).
      - Concept drawings: Add scans or photographs. These must be 'well-photographed' and cropped/straightened photos of your concept drawings and text.
-2. **Storyboards (Due: 4/12/2016)**
+2. **Storyboards (Due: 4/14/2016)**
   - Dropbox: [Project 2 Storyboards](https://psu.box.com/signup/collablink/d_7102368325/13208faafa929e)
   - Requirements: 
      - Use this [16x9 aspect ratio storyboard template]({{ site.baseurl }}/assets/exercise-downloads/storyboard-template.pdf)
