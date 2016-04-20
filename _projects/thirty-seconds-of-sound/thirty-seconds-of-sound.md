@@ -73,6 +73,7 @@ David O'Reilly: [Childhood - [Adult Swim]](https://vimeo.com/103551096), [Bomb](
   - Requirements: 
      - 1080 HD preset
      - Must use test renders from [RenderRocket.com](http://www.renderrocket.com)
+     - Test from 1 to 5 frames. Do not render your entire animation.
 5. **Final submission (Due: 4/26/2016)**
   - Dropbox: [Project 2 Final Submission](https://psu.box.com/signup/collablink/d_7102334461/13709c6b861d52)
   - Requirements: 
